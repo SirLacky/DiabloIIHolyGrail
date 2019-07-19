@@ -1,0 +1,58 @@
+{
+  "rings": [
+    {
+      "name":"Nagelring",
+      "requiredLVL":"7",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
+      "description":"opis przedmiotu"
+    },
+    {
+      "name":"Manald Heal",
+      "requiredLVL":"15",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
+      "description":"opis przedmiotu"
+    },
+    {
+      "name":"Stone of Jordan",
+      "requiredLVL":"29",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
+      "description":"opis przedmiotu"
+    },
+    {
+      "name":"Dwarf Star",
+      "requiredLVL":"45",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
+      "description":"opis przedmiotu"
+    },
+    {
+      "name":"Raven Frost",
+      "requiredLVL":"45",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
+      "description":"opis przedmiotu"
+    },
+    {
+      "name":"Bul-Kathos' Wedding Band",
+      "requiredLVL":"58",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
+      "description":"opis przedmiotu"
+    },
+    {
+      "name":"Carrion Wind",
+      "requiredLVL":"60",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
+      "description":"opis przedmiotu"
+    },
+    {
+      "name":"Nature's Peace",
+      "requiredLVL":"69",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
+      "description":"opis przedmiotu"
+    },
+    {
+      "name":"Wisp Projector",
+      "requiredLVL":"76",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
+      "description":"opis przedmiotu"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+a.button {
+    width: 150px;
+    color: black !important;
+    background-color: #ffeb3b !important;
+    font: inherit;
+    text-transform: none;
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    white-space: nowrap;
+
+}
+
+a.button:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
