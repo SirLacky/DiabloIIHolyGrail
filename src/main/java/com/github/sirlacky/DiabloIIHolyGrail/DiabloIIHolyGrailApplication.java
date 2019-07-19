@@ -1,4 +1,4 @@
-package com.github.sirlacky.DiabloIIHolyGrail.web.controllers;
+package com.github.sirlacky.DiabloIIHolyGrail;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,6 +1,5 @@
 package com.github.sirlacky.DiabloIIHolyGrail.config;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -51,7 +50,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
     protected void configure(HttpSecurity http) throws Exception {
         http.authorizeRequests()
                     .antMatchers("/media/**").permitAll()
-                    .antMatchers("/registration").permitAll()
+                    .antMatchers("/register").permitAll()
                     .antMatchers("/homepage").permitAll()
                     .antMatchers("/author").permitAll()
                     .antMatchers("/").permitAll()
@@ -64,7 +63,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                     .loginPage("/login")
                     .usernameParameter("username")
                     .passwordParameter("password")
-                    .defaultSuccessUrl("/usermain")
+                    .defaultSuccessUrl("/main")
                     .and()
                 .logout()
                     .logoutUrl("/logout")
