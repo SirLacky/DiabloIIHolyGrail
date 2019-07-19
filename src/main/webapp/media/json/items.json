@@ -1,58 +1,153 @@
 {
+  "amulets": [
+    {
+      "name":"Nokozan Relic",
+      "requiredLVL":"10",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu2.gif",
+      "description":"some item description",
+      "stats": "+20% Faster Hit Recovery\nFire Resist +50%\n+10% To Maximum Fire Resist\nAdds 3-6 Fire Damage\n+3 To Light Radius\n(Only Spawns In Patch 1.09 or later)"
+    },
+    {
+      "name":"The Eye of Etlich",
+      "requiredLVL":"15",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu2.gif",
+      "description":"some item description",
+      "stats": "+1-5 To Light Radius (varies)\n+1 To All Skills\n3-7% Life Stolen Per Hit (varies)\nAdds (1-2) to (3-5) Cold Damage (varies)\nCold Duration: 2-10 Seconds (varies)*\n+10-40 Defense vs. Missile (varies)*\n(Spawns In Any Patch) "
+    },
+    {
+      "name":"The Mahim-Oak Curio",
+      "requiredLVL":"25",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu2.gif",
+      "description":"some item description",
+      "stats": "+10 Defense\n+10% Enhanced Defense\n+10% Bonus To Attack Rating\nAll Resistances +10\n+10 To All Attributes\n(Only Spawns In Patch 1.09 or later) "
+    },
+    {
+      "name":"Saracen's Chance",
+      "requiredLVL":"47",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu2.gif",
+      "description":"some item description",
+      "stats": "10% Chance To Cast Level 2 Iron Maiden When Struck\nAll Resistances +15-25 (varies)\n+12 To All Attributes\n(Only Spawns In Patch 1.09 or later) "
+    },
+    {
+      "name":"The Cat's Eye",
+      "requiredLVL":"50",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu2.gif",
+      "description":"some item description",
+      "stats": "+30% Faster Run/Walk\n+20% Increased Attack Speed\n+100 Defense Vs. Missile\n+100 Defense\n+25 To Dexterity\n(Only Spawns In Patch 1.09 or later) "
+    },
+    {
+      "name":"Crescent Moon",
+      "requiredLVL":"50",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu2.gif",
+      "description":"some item description",
+      "stats": "10% Damage Taken Goes To Mana\n+45 To Mana\n3-6% Life Stolen Per Hit (varies)\n11-15% Mana Stolen Per Hit (varies)\nMagic Damage Reduced By 10\n-2 To Light Radius\n(Only Spawns In Patch 1.09 or later) "
+    },
+    {
+      "name":"Atma's Scarab",
+      "requiredLVL":"60",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu2.gif",
+      "description":"some item description",
+      "stats": "5% Chance To Cast Level 2 Amplify Damage On Striking\n20% Bonus To Attack Rating\n+40 Poison Damage over 4 seconds\nPoison Resist +75%\n+3 To Light Radius\nAttacker Takes Damage of 5\n(Only Spawns In Patch 1.09 or later) "
+    },
+    {
+      "name":"The Rising Sun",
+      "requiredLVL":"65",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu2.gif",
+      "description":"some item description",
+      "stats": "+2 To Fire Skills\n2% Chance To Cast Level 13-19 Meteor When Struck (varies)\n+ (0.75 Per Character Level) 0-74 Fire Absorb (Based On Character Level)\nAdds 24-48 Fire Damage\nReplenish Life +10\n+4 To Light Radius\n(Only Spawns In Patch 1.10 or later) "
+    },
+    {
+      "name":"Highlord's Wrath",
+      "requiredLVL":"65",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu2.gif",
+      "description":"some item description",
+      "stats": "+1 To All Skills\n+20% Increased Attack Speed\n+ (0.375 Per Character Level) 0-37 % Deadly Strike (Based On Character Level)\nLightning Resist +35%\nAdds 1-30 Lightning Damage\nAttacker Takes Lightning Damage Of 15\n(Only Spawns In Patch 1.09 or later) "
+    },
+    {
+      "name":"Mara's Kaleidoscope",
+      "requiredLVL":"67",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu2.gif",
+      "description":"some item description",
+      "stats": "+2 To All Skills\nAll Resistances +20-30 (varies)\n+5 To All Attributes\n(Only Spawns In Patch 1.09 or later) "
+    },
+    {
+      "name":"Seraph's Hymn",
+      "requiredLVL":"65",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu2.gif",
+      "description":"some item description",
+      "stats": "+2 To All Skills\n+1-2 To Defensive Auras (Paladin Only) (varies)\n+25-50% Damage To Demons (varies)\n+150-250 To Attack Rating Against Demons (varies)\n+25-50% Damage To Undead (varies)\n+150-250 To Attack Rating Against Undead (varies)\n+2 To Light Radius\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) "
+    },
+    {
+      "name":"Metalgrid",
+      "requiredLVL":"81",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu2.gif",
+      "description":"some item description",
+      "stats": "+400-450 To Attack Rating (varies)\nLevel 22 Iron Golem (11 Charges)\nLevel 12 Iron Maiden (20 Charges)\nAll Resistances +25-35 (varies)\n+300-350 Defense (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) "
+    }
+  ],
   "rings": [
     {
       "name":"Nagelring",
       "requiredLVL":"7",
       "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
-      "description":"opis przedmiotu"
+      "description":"some item description",
+      "stats": "\nNagelring\nRing\n\n\tRequired Level: 7\nMagic Damage Reduced By 3\n+50-75 To Attack Rating (varies)\nAttacker Takes Damage of 3*\n15-30% Better Chance of Getting Magic Items (varies)\n(Only Spawns In Patch 1.09 or later) "
     },
     {
       "name":"Manald Heal",
       "requiredLVL":"15",
       "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
-      "description":"opis przedmiotu"
+      "description":"some item description",
+      "stats": "4-7% Mana Stolen Per Hit (varies)\nReplenish Life +5-8 (varies)\nRegenerate Mana 20%\n+20 To Life\n(Only Spawns In Patch 1.09 or later) "
     },
     {
       "name":"Stone of Jordan",
       "requiredLVL":"29",
       "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
-      "description":"opis przedmiotu"
+      "description":"some item description",
+      "stats": "+1 To All Skills\nIncrease Maximum Mana 25%*\nAdds 1-12 Lightning Damage\n+20 To Mana\n(Spawns In Any Patch) "
     },
     {
       "name":"Dwarf Star",
       "requiredLVL":"45",
       "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
-      "description":"opis przedmiotu"
+      "description":"some item description",
+      "stats": "+40 To Life\n+40 Maximum Stamina\nHeal Stamina Plus 15%\nFire Absorb 15%\nMagic Damage Reduced By 12-15 (varies)\n100% Extra Gold From Monsters\n(Only Spawns In Patch 1.09 or later) "
     },
     {
       "name":"Raven Frost",
       "requiredLVL":"45",
       "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
-      "description":"opis przedmiotu"
+      "description":"osome item description",
+      "stats": "+150-250 To Attack Rating (varies)\nAdds 15-45 Cold Damage, 4 sec. Duration (Normal)\nCannot Be Frozen\n+15-20 To Dexterity (varies)\n+40 To Mana\nCold Absorb 20%\n(Only Spawns In Patch 1.09 or later) "
     },
     {
       "name":"Bul-Kathos' Wedding Band",
       "requiredLVL":"58",
       "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
-      "description":"opis przedmiotu"
+      "description":"some item description",
+      "stats": "+1 To All Skills\n+ (0.5 Per Character Level) 0-49 To Life (Based On Character Level)\n3-5% Life Stolen Per Hit (varies)\n+50 Maximum Stamina\n(Only Spawns In Patch 1.09 or later) "
     },
     {
       "name":"Carrion Wind",
       "requiredLVL":"60",
       "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
-      "description":"opis przedmiotu"
+      "description":"some item description",
+      "stats": "10% Chance To Cast Level 10 Poison Nova When Struck\n8% Chance To Cast Level 13 Twister On Striking\n6-9% Life Stolen Per Hit (varies)\n+100-160 Defense Vs. Missile (varies)\nPoison Resist +55%\n10% Damage Taken Goes To Mana\nLevel 21 Poison Creeper (15 Charges)\n(Only Spawns In Patch 1.10 or later) "
     },
     {
       "name":"Nature's Peace",
       "requiredLVL":"69",
       "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
-      "description":"opis przedmiotu"
+      "description":"some item description",
+      "stats": "Slain Monsters Rest In Peace*\nPrevent Monster Heal\nPoison Resist +20-30% (varies)\nDamage Reduced By 7-11 (varies)\nLevel 5 Oak Sage (27 charges)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) "
     },
     {
       "name":"Wisp Projector",
       "requiredLVL":"76",
       "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
-      "description":"opis przedmiotu"
+      "description":"some item description",
+      "stats": "10% Chance To Cast Level 16 Lightning On Striking\nLightning Absorb 10-20% (varies)\n10-20% Better Chance of Getting Magic Items (varies)\nLevel 7 Spirit of Barbs (11 charges)\nLevel 5 Heart of Wolverine (13 charges)\nLevel 2 Oak Sage (15 charges)\n(Only Spawns In Patch 1.10 or later) "
     }
   ]
 }
