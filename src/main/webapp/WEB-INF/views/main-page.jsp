@@ -4,11 +4,14 @@
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
 <html>
 <head>
+    <link rel="stylesheet" type="text/css" href="media/css/style.css">
     <title>Main Page</title>
 </head>
 <body>
 <h1>Welcome on Main Page</h1>
-
-<button><a href="/logout">Log out</a></button><br>
+<hr>
+...
+<hr>
+<a href="/logout" class="button">LOG OUT</a>
 </body>
 </html>
