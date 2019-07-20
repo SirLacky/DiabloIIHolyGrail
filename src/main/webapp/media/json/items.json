@@ -1,4 +1,105 @@
 {
+  "headgear": [
+    {
+      "name": "Kira's Guardian",
+      "requiredLVL": "77",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/circlets/tiara.gif",
+      "description": "some item description",
+      "type": "Tiara",
+      "stats": "+50-120 Defense (varies)\n+20% Faster Hit Recovery\nCannot Be Frozen\nAll Resistances +50-70 (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Griffon's Eye",
+      "requiredLVL": "76",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/circlets/diadem.gif",
+      "description": "some item description",
+      "type": "Diadem",
+      "stats": "+100-200 Defense (varies)\n+1 To All Skills\n+25% Faster Cast Rate\n-15-20% To Enemy Lightning Resistance (varies)\n+10-15% To Lightning Skill Damage (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    }
+  ],
+  "jewels": [
+    {
+      "name":"Rainbow Facet",
+      "requiredLVL":"49",
+      "jpg":"http://classic.battle.net/diablo2exp/images/jewels/jewel05.gif",
+      "description":"some item description",
+      "stats": "100% Chance To Cast Level 29 Blaze When You Level-Up\nAdds 17-45 Fire Damage\n+3-5% To Fire Skill Damage (varies)\n-(3-5)% To Enemy Fire Resistance (varies)\n(Only Spawns In Patch 1.10 or later) "
+    },
+    {
+      "name":"Rainbow Facet",
+      "requiredLVL":"49",
+      "jpg":"http://classic.battle.net/diablo2exp/images/jewels/jewel05.gif",
+      "description":"some item description",
+      "stats": "100% Chance To Cast Level 43 Frost Nova When You Level-Up\nAdds 24-38 Cold Damage, 0.12 sec Duration (Normal)\n+3-5% To Cold Skill Damage (varies)\n-(3-5)% To Enemy Cold Resistance (varies)\n(Only Spawns In Patch 1.10 or later) "
+    },
+    {
+      "name":"Rainbow Facet",
+      "requiredLVL":"49",
+      "jpg":"http://classic.battle.net/diablo2exp/images/jewels/jewel05.gif",
+      "description":"some item description",
+      "stats": "100% Chance To Cast Level 41 Nova When You Level-Up\nAdds 1-74 Lightning Damage\n+3-5% To Lightning Skill Damage (varies)\n-(3-5)% To Enemy Lightning Resistance (varies)\n(Only Spawns In Patch 1.10 or later) "
+    },
+    {
+      "name":"Rainbow Facet",
+      "requiredLVL":"49",
+      "jpg":"http://classic.battle.net/diablo2exp/images/jewels/jewel05.gif",
+      "description":"some item description",
+      "stats": "100% Chance To Cast Level 23 Venom When You Level-Up\n+37 Poison Damage Over 2 Seconds\n+3-5% To Poison Skill Damage (varies)\n-(3-5)% To Enemy Poison Resistance (varies)\n(Only Spawns In Patch 1.10 or later) "
+    },
+    {
+      "name":"Rainbow Facet",
+      "requiredLVL":"49",
+      "jpg":"http://classic.battle.net/diablo2exp/images/jewels/jewel05.gif",
+      "description":"some item description",
+      "stats": "100% Chance To Cast Level 31 Meteor When You Die\nAdds 17-45 Fire Damage\n+3-5% To Fire Skill Damage (varies)\n-(3-5)% To Enemy Fire Resistance (varies)\n(Only Spawns In Patch 1.10 or later) "
+    },
+    {
+      "name":"Rainbow Facet",
+      "requiredLVL":"49",
+      "jpg":"http://classic.battle.net/diablo2exp/images/jewels/jewel05.gif",
+      "description":"some item description",
+      "stats": "100% Chance To Cast Level 37 Blizzard When You Die\nAdds 24-38 Cold Damage, 0.12 sec Duration (Normal)\n+3-5% To Cold Skill Damage (varies)\n-(3-5)% To Enemy Cold Resistance (varies)\n(Only Spawns In Patch 1.10 or later) "
+    },
+    {
+      "name":"Rainbow Facet",
+      "requiredLVL":"49",
+      "jpg":"http://classic.battle.net/diablo2exp/images/jewels/jewel05.gif",
+      "description":"some item description",
+      "stats": "100% Chance To Cast Level 47 Chain Lightning When You Die\nAdds 1-74 Lightning Damage\n+3-5% To Lightning Skill Damage (varies)\n-(3-5)% To Enemy Lightning Resistance (varies)\n(Only Spawns In Patch 1.10 or later) "
+    },
+    {
+      "name":"Rainbow Facet",
+      "requiredLVL":"49",
+      "jpg":"http://classic.battle.net/diablo2exp/images/jewels/jewel05.gif",
+      "description":"some item description",
+      "stats": "100% Chance To Cast Level 51 Poison Nova When You Die\n+37 Poison Damage Over 2 Seconds\n+3-5% To Poison Skill Damage (varies)\n-(3-5)% To Enemy Poison Resistance (varies)\n(Only Spawns In Patch 1.10 or later) "
+    }
+  ],
+  "charms":[
+    {
+      "name":"Annihilus",
+      "requiredLVL":"70",
+      "jpg":"http://classic.battle.net/diablo2exp/images/items/charms/bluecharm.gif",
+      "description":"some item description",
+      "stats": "+1 To All Skills\n+10-20 To All Attributes (varies)\nAll Resistances +10-20 (varies)\n+5-10% To Experience Gained (varies)\n(Only Spawns In Patch 1.10 or later) "
+    },
+    {
+      "name":"Gheed's Fortune",
+      "requiredLVL":"62",
+      "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/charms/largecharm01.gif",
+      "description":"some item description",
+      "stats": "80-160% Extra Gold From Monsters (varies)\nReduces All Vendor Prices 10-15% (varies)\n20-40% Better Chance of Getting Magic Items (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) "
+    },
+    {
+      "name":"Hellfire Torch",
+      "requiredLVL":"75",
+      "jpg":"http://classic.battle.net/diablo2exp/images/items/uniques/hellfiretorch.jpg",
+      "description":"some item description",
+      "stats": "5% Chance To Cast level 10 Firestorm* On Striking\n+3 to Random Character Class Skills (varies)\n+10-20 To All Attributes (varies)\nAll Resistances +10-20 (varies)\n+8 To Light Radius\nLevel 30 Hydra (10 charges)\n(Only Spawns In Patch 1.13 or later) "
+    }
+  ],
   "amulets": [
     {
       "name":"Nokozan Relic",
