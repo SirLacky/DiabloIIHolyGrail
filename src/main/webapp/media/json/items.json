@@ -19,6 +19,86 @@
       "type2": "unique",
       "stats": "+100-200 Defense (varies)\n+1 To All Skills\n+25% Faster Cast Rate\n-15-20% To Enemy Lightning Resistance (varies)\n+10-15% To Lightning Skill Damage (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) ",
       "difficulty": "elite"
+    },
+    {
+      "name": "Biggin's Bonnet",
+      "requiredLVL": "3",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/warbonet.gif",
+      "description": "some item description",
+      "type": "Cap",
+      "type2": "unique",
+      "stats": "+30% Enhanced Damage\n+14 Defense\n+30 To Attack Rating\n+15 To Mana\n+15 To Life\n(Spawns In Any Patch) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Tarnhelm",
+      "requiredLVL": "15",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/tarnhelm.gif",
+      "description": "some item description",
+      "type": "Skull Cap",
+      "type2": "unique",
+      "stats": "+1 To All Skill Levels\n25-50% Better Chance of Getting Magic Items (varies)\n75% Extra Gold From Monsters\n(Spawns In Any Patch) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Coif of Glory",
+      "requiredLVL": "14",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/coifofglory.gif",
+      "description": "some item description",
+      "type": "Helm",
+      "type2": "unique",
+      "stats": "+10 Defense\nAttacker Takes Lightning Damage of 7*\nHit Blinds Target*\nLightning Resist +15%\n+100 Defense vs. Missile*\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Duskdeep",
+      "requiredLVL": "17",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/duskdeep.gif",
+      "description": "some item description",
+      "type": "Full Helm",
+      "type2": "unique",
+      "stats": "+30-50% Enhanced Defense (varies)\n+10-20 Defense (varies)\nDamage Reduced By 7\nAll Resistances +15\n+8 To Maximum Damage\n-2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Howltusk",
+      "requiredLVL": "25",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/howltusk.gif",
+      "description": "some item description",
+      "type": "Great Helm",
+      "type2": "unique",
+      "stats": "35% Damage Taken Goes to Mana\n+80% Enhanced Defense\nMagic Damage Reduced By 2\nAttacker Takes Damage of 3*\nKnockback\nHit Causes Monster To Flee 25%\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "The Face of Honor",
+      "requiredLVL": "20",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/mask.gif",
+      "description": "some item description",
+      "type": "Mask",
+      "type2": "unique",
+      "stats": "+25 Defense\n+50% Damage To Undead\nHit Causes Monsters to Flee 50%\nAll Resistances +10\n+20 To Strength\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Undead Crown",
+      "requiredLVL": "29",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/undeadcrown.gif",
+      "description": "some item description",
+      "type": "Crown",
+      "type2": "unique",
+      "stats": "+30-60% Enhanced Defense (varies)\n+50% Damage Vs. Undead\n+50-100 Attack Rating Vs. Undead (varies)\nHalf Freeze Duration\n5% Life Stolen Per Hit\nPoison Resist +50%\n+40 Defense\n+3 To Skeleton Mastery (Necromancer Only)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Wormskull",
+      "requiredLVL": "21",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/wormskull.gif",
+      "description": "some item description",
+      "type": "Bone Helm",
+      "type2": "unique",
+      "stats": "+1 To Necromancer Skill Levels\n+80 Poison Damage Over 8 Seconds\n5% Life Stolen Per Hit\nPoison Resist +25%\n+10 To Mana\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
     }
   ],
   "jewels": [
