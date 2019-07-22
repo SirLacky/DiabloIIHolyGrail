@@ -4,6 +4,7 @@
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
 <html>
 <head>
+    <link rel="stylesheet" type="text/css" href="media/css/style.css">
     <title>Login Page</title>
 </head>
 <body>

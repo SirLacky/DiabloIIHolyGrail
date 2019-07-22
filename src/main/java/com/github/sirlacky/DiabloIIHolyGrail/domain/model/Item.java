@@ -156,7 +156,6 @@ public class Item {
                     JsonNode diff = nextElement.path("difficulty");
                     item.setDifficulty(diff.asText());
                 }
-                logger.info(item.toString());
                 itemList.add(item);
             }
 
@@ -164,7 +163,8 @@ public class Item {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        return null;
+        logger.info("Created list");
+        return itemList;
     }
 }
 

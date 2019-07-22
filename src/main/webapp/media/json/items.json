@@ -287,7 +287,7 @@
       "jpg":"http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring1.gif",
       "description":"some item description",
       "type2": "unique",
-      "stats": "\nNagelring\nRing\n\n\tRequired Level: 7\nMagic Damage Reduced By 3\n+50-75 To Attack Rating (varies)\nAttacker Takes Damage of 3*\n15-30% Better Chance of Getting Magic Items (varies)\n(Only Spawns In Patch 1.09 or later) "
+      "stats": "Magic Damage Reduced By 3\n+50-75 To Attack Rating (varies)\nAttacker Takes Damage of 3*\n15-30% Better Chance of Getting Magic Items (varies)\n(Only Spawns In Patch 1.09 or later) "
     },
     {
       "name":"Manald Heal",

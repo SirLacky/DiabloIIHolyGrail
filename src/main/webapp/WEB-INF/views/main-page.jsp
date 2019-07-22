@@ -10,7 +10,13 @@
 <body>
 <h1>Welcome on Main Page</h1>
 <hr>
-...
+
+<h2> Items: </h2>
+
+<button type="submit" value="headgear">HEADGEAR</button>
+<a href="/rings" class="button">RINGS</a>
+
+
 <hr>
 <a href="/logout" class="button">LOG OUT</a>
 </body>

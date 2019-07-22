@@ -1,3 +1,8 @@
+body {
+    background-color: dimgray;
+    color: gainsboro;
+}
+
 a.button {
     width: 150px;
     color: black !important;
@@ -17,4 +22,20 @@ a.button {
 
 a.button:hover {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
 }
