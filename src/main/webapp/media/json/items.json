@@ -1,5 +1,85 @@
 {
   "headgear": [
+    {
+      "name": "Biggin's Bonnet",
+      "requiredLVL": "3",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/warbonet.gif",
+      "description": "some item description",
+      "type": "Cap",
+      "type2": "unique",
+      "stats": "+30% Enhanced Damage\n+14 Defense\n+30 To Attack Rating\n+15 To Mana\n+15 To Life\n(Spawns In Any Patch) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Tarnhelm",
+      "requiredLVL": "15",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/tarnhelm.gif",
+      "description": "some item description",
+      "type": "Skull Cap",
+      "type2": "unique",
+      "stats": "+1 To All Skill Levels\n25-50% Better Chance of Getting Magic Items (varies)\n75% Extra Gold From Monsters\n(Spawns In Any Patch) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Coif of Glory",
+      "requiredLVL": "14",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/coifofglory.gif",
+      "description": "some item description",
+      "type": "Helm",
+      "type2": "unique",
+      "stats": "+10 Defense\nAttacker Takes Lightning Damage of 7*\nHit Blinds Target*\nLightning Resist +15%\n+100 Defense vs. Missile*\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Duskdeep",
+      "requiredLVL": "17",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/duskdeep.gif",
+      "description": "some item description",
+      "type": "Full Helm",
+      "type2": "unique",
+      "stats": "+30-50% Enhanced Defense (varies)\n+10-20 Defense (varies)\nDamage Reduced By 7\nAll Resistances +15\n+8 To Maximum Damage\n-2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Howltusk",
+      "requiredLVL": "25",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/howltusk.gif",
+      "description": "some item description",
+      "type": "Great Helm",
+      "type2": "unique",
+      "stats": "35% Damage Taken Goes to Mana\n+80% Enhanced Defense\nMagic Damage Reduced By 2\nAttacker Takes Damage of 3*\nKnockback\nHit Causes Monster To Flee 25%\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "The Face of Honor",
+      "requiredLVL": "20",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/mask.gif",
+      "description": "some item description",
+      "type": "Mask",
+      "type2": "unique",
+      "stats": "+25 Defense\n+50% Damage To Undead\nHit Causes Monsters to Flee 50%\nAll Resistances +10\n+20 To Strength\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Undead Crown",
+      "requiredLVL": "29",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/undeadcrown.gif",
+      "description": "some item description",
+      "type": "Crown",
+      "type2": "unique",
+      "stats": "+30-60% Enhanced Defense (varies)\n+50% Damage Vs. Undead\n+50-100 Attack Rating Vs. Undead (varies)\nHalf Freeze Duration\n5% Life Stolen Per Hit\nPoison Resist +50%\n+40 Defense\n+3 To Skeleton Mastery (Necromancer Only)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Wormskull",
+      "requiredLVL": "21",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/wormskull.gif",
+      "description": "some item description",
+      "type": "Bone Helm",
+      "type2": "unique",
+      "stats": "+1 To Necromancer Skill Levels\n+80 Poison Damage Over 8 Seconds\n5% Life Stolen Per Hit\nPoison Resist +25%\n+10 To Mana\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
     {"name": "Peasant Crown",
       "requiredLVL": "28",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/cap.gif",
@@ -93,84 +173,74 @@
       "difficulty": "elite"
     },
     {
-      "name": "Biggin's Bonnet",
-      "requiredLVL": "3",
-      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/warbonet.gif",
+      "name": "Harlequin Crest",
+      "requiredLVL": "65",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/harlequincrest.gif",
       "description": "some item description",
-      "type": "Cap",
+      "type": "Shako",
       "type2": "unique",
-      "stats": "+30% Enhanced Damage\n+14 Defense\n+30 To Attack Rating\n+15 To Mana\n+15 To Life\n(Spawns In Any Patch) ",
-      "difficulty": "normal"
+      "stats": "+2 To All Skills\n+ (1.5 Per Character Level) 1-148 To Life (Based On Character Level)\n+ (1.5 Per Character Level) 1-148 To Mana (Based On Character Level)\nDamage Reduced By 10%\n50% Better Chance of Getting Magic Items\n+2 To All Attributes\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "elite"
     },
     {
-      "name": "Tarnhelm",
-      "requiredLVL": "15",
-      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/tarnhelm.gif",
+      "name": "Steel Shade",
+      "requiredLVL": "62",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/steelshade.gif",
       "description": "some item description",
-      "type": "Skull Cap",
+      "type": "Armet",
       "type2": "unique",
-      "stats": "+1 To All Skill Levels\n25-50% Better Chance of Getting Magic Items (varies)\n75% Extra Gold From Monsters\n(Spawns In Any Patch) ",
-      "difficulty": "normal"
+      "stats": "+100-130% Enhanced Defense (varies)\nReplenish Life +10-18 (varies)\n4-8% Mana Stolen Per Hit (varies)\n+5-11 Fire Absorb (varies)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
     },
     {
-      "name": "Coif of Glory",
-      "requiredLVL": "14",
-      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/coifofglory.gif",
+      "name": "Veil of Steel",
+      "requiredLVL": "73",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/veilofsteel.gif",
       "description": "some item description",
-      "type": "Helm",
+      "type": "Spired Helm",
       "type2": "unique",
-      "stats": "+10 Defense\nAttacker Takes Lightning Damage of 7*\nHit Blinds Target*\nLightning Resist +15%\n+100 Defense vs. Missile*\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "normal"
+      "stats": "+60% Enhanced Defense\n+140 To Defense\nAll Resistances +50\n+15 To Strength\n+15 To Vitality\n-4 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "elite"
     },
     {
-      "name": "Duskdeep",
-      "requiredLVL": "17",
-      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/duskdeep.gif",
+      "name": "Nightwing's Veil",
+      "requiredLVL": "67",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/nightwingsveil.gif",
       "description": "some item description",
-      "type": "Full Helm",
+      "type": "Spired Helm",
       "type2": "unique",
-      "stats": "+30-50% Enhanced Defense (varies)\n+10-20 Defense (varies)\nDamage Reduced By 7\nAll Resistances +15\n+8 To Maximum Damage\n-2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "normal"
+      "stats": "+90-120% Enhanced Defense (varies)\n+2 To All Skills\n+8-15% To Cold Skill Damage (varies)\n+10-20 To Dexterity (varies)\n+5-9 Cold Absorb (varies)\nHalf Freeze Duration\nRequirements -50%\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
     },
     {
-      "name": "Howltusk",
-      "requiredLVL": "25",
-      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/howltusk.gif",
+      "name": "Andariel's Visage",
+      "requiredLVL": "83",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/armor/mask.gif",
       "description": "some item description",
-      "type": "Great Helm",
+      "type": "Demonhead",
       "type2": "unique",
-      "stats": "35% Damage Taken Goes to Mana\n+80% Enhanced Defense\nMagic Damage Reduced By 2\nAttacker Takes Damage of 3*\nKnockback\nHit Causes Monster To Flee 25%\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "normal"
+      "stats": "+100-150% Enhanced Defense (varies)\n+2 To All Skills\n20% Increased Attack Speed\n8-10% Life Stolen Per Hit (varies)\n+25-30 To Strength (varies)\n+10% To Maximum Poison Resist\nFire Resist -30%\nPoison Resist +70%\n15% Chance To Cast Level 15 Poison Nova When Struck\nLevel 3 Venom (20 charges)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
     },
     {
-      "name": "The Face of Honor",
-      "requiredLVL": "20",
-      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/mask.gif",
+      "name": "Crown of Ages",
+      "requiredLVL": "82",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/crownofages.gif",
       "description": "some item description",
-      "type": "Mask",
+      "type": "Corona",
       "type2": "unique",
-      "stats": "+25 Defense\n+50% Damage To Undead\nHit Causes Monsters to Flee 50%\nAll Resistances +10\n+20 To Strength\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "normal"
+      "stats": "+50% Enhanced Defense\n+100-150 Defense (varies)\n+1 To All Skills\nDamage Reduced By 10-15% (varies)\nAll Resistances +20-30 (varies)\n+30% Faster Hit Recovery\nSocketed (1-2) (varies)\nIndestructible\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
     },
     {
-      "name": "Undead Crown",
-      "requiredLVL": "29",
-      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/undeadcrown.gif",
+      "name": "Giant Skull",
+      "requiredLVL": "65",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/giantskull.gif",
       "description": "some item description",
-      "type": "Crown",
+      "type": "Bone Visage",
       "type2": "unique",
-      "stats": "+30-60% Enhanced Defense (varies)\n+50% Damage Vs. Undead\n+50-100 Attack Rating Vs. Undead (varies)\nHalf Freeze Duration\n5% Life Stolen Per Hit\nPoison Resist +50%\n+40 Defense\n+3 To Skeleton Mastery (Necromancer Only)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "normal"
-    },
-    {
-      "name": "Wormskull",
-      "requiredLVL": "21",
-      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/wormskull.gif",
-      "description": "some item description",
-      "type": "Bone Helm",
-      "type2": "unique",
-      "stats": "+1 To Necromancer Skill Levels\n+80 Poison Damage Over 8 Seconds\n5% Life Stolen Per Hit\nPoison Resist +25%\n+10 To Mana\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "normal"
+      "stats": "+250-320 Defense (varies)\n10% Chance Of Crushing Blow\nKnockback\n+25-35 to Strength (varies)\nSocketed (1-2) (varies)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
     }
   ],
   "jewels": [
