@@ -1,4 +1,156 @@
 {
+  "armor": [
+    {
+      "name": "Greyform",
+      "requiredLVL": "7",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/greyform.gif",
+      "description": "some item description",
+      "type": "Quilted Armor",
+      "type2": "unique",
+      "stats": "+20 Defense\n5% Life Stolen Per Hit\nMagic Damage Reduced By 3\nCold Resist 20%\nFire Resist 20%\n+10 To Dexterity\n(Spawns In Any Patch) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Blinkbar's Form",
+      "requiredLVL": "12",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/blinkbatsform.gif",
+      "description": "some item description",
+      "type": "Leather Armor",
+      "type2": "unique",
+      "stats": "+25 Defense\n+50 Defense VS. Missile*\n10% Faster Run/Walk*\n40% Faster Hit Recovery\nAdds 3-6 Fire Damage\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "The Centurion",
+      "requiredLVL": "14",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/thecenturion.gif",
+      "description": "some item description",
+      "type": "Hard Leather Armor",
+      "type2": "unique",
+      "stats": "+30 Defense\nReplenish Life +5\n+50 To Attack Rating\n+15 To Mana\n+15 To Max Stamina\n+15 To Life\n25% Slow Stamina Drain\nDamage Reduced By 2\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Twitchthroe",
+      "requiredLVL": "16",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/twitchthroe.gif",
+      "description": "some item description",
+      "type": "Studded Leather",
+      "type2": "unique",
+      "stats": "+25 Defense\n25% Increase chance of blocking*\n20% Faster Hit Recovery\n20% Increased Attack Speed\n+10 To Dexterity\n+10 To Strength\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Darkglow",
+      "requiredLVL": "14",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/darkglow.gif",
+      "description": "some item description",
+      "type": "Ring Mail",
+      "type2": "unique",
+      "stats": "+70-100% Enhanced Defense (varies)\n5% To Max Poison Resist\n5% To Max Cold Resist\n5% To Max Lightning Resist\n5% To Max Fire Resist\n+50 Defense vs. Melee\n+20 To Attack Rating\nAll Resistances +10\n+3 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Hawkmail",
+      "requiredLVL": "15",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/hawkmail.gif",
+      "description": "some item description",
+      "type": "Scale Mail",
+      "type2": "unique",
+      "stats": "+80-100% Enhanced Defense (varies)\n10% Faster Run/Walk\n15% To Max Cold Resist\nCold Resist +15%\nCannot Be Frozen\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Venom Ward",
+      "requiredLVL": "20",
+      "jpg": "",
+      "description": "some item description",
+      "type": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/venomsward.gif",
+      "type2": "unique",
+      "stats": "+60-100% Enhanced Defense (varies)\n+2 To Light Radius\n15% To Max Poison Resist\nPoison Resist +90%\nPoison Length Reduced By 50%\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Sparking Mail",
+      "requiredLVL": "17",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/sparklingmail.gif",
+      "description": "some item description",
+      "type": "Chain Mail",
+      "type2": "unique",
+      "stats": "+70-80% Enhanced Defense (varies)\nFreezes Target*\nCold Resist +30%\nMagic Damage Reduced By 1\n+4 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Iceblink",
+      "requiredLVL": "22",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/iceblink.gif",
+      "description": "some item description",
+      "type": "Splint Mail",
+      "type2": "unique",
+      "stats": "+70-80% Enhanced Defense (varies)\nFreezes Target*\nCold Resist +30%\nMagic Damage Reduced By 1\n+4 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Heavenly Garb",
+      "requiredLVL": "29",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/heavenlygarb.gif",
+      "description": "some item description",
+      "type": "Light Plate",
+      "type2": "unique",
+      "stats": "+100% Enhanced Defense\nRegenerate Mana 25%\nAll Resistances +10\n+15 To Energy\n+50% Damage To Undead\n+100 To Attack Rating Against Undead\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Rockfleece",
+      "requiredLVL": "28",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/rockfleece.gif",
+      "description": "some item description",
+      "type": "Field Plate",
+      "type2": "unique",
+      "stats": "+100-130% Enhanced Defense (varies)\nRequirements -10%\nDamage Reduced By 10%\n+5 To Strength\nDamage Reduced By 5\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Boneflesh",
+      "requiredLVL": "26",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/boneflesh.gif",
+      "description": "some item description",
+      "type": "Plate Mail",
+      "type2": "unique",
+      "stats": "+100-120% Enhanced Defense (varies)\n5% Life Stolen Per Hit\n25% Chance Of Open Wounds\n+35 To Attack Rating\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Rattlecage",
+      "requiredLVL": "29",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/rattlecage.gif",
+      "description": "some item description",
+      "type": "Gothic Plate",
+      "type2": "unique",
+      "stats": "+200 Defense\n25% Chance of Crushing Blow\nHit Causes Monster To Flee 40%\n+45 To Attack Rating\n(Spawns In Any Patch) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Goldskin",
+      "requiredLVL": "28",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/goldskin.gif",
+      "description": "some item description",
+      "type": "Full Plate Mail",
+      "type2": "unique",
+      "stats": "+120-150% Enhanced Defense\n+2 To Light Radius\nAll Resistances +35\nAttacker Takes Damage of 10*\n100% Extra Gold From Monsters\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Silks of the Victor",
+      "requiredLVL": "28",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/victorssilk.gif",
+      "description": "some item description",
+      "type": "Ancient Armor",
+      "type2": "unique",
+      "stats": "+100-120% Enhanced Defense (varies)\n+1 To All Skills\n5% Mana Stolen Per Hit\n+2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    }
+  ],
   "headgear": [
     {
       "name": "Biggin's Bonnet",
