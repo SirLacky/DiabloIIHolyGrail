@@ -149,6 +149,156 @@
       "type2": "unique",
       "stats": "+100-120% Enhanced Defense (varies)\n+1 To All Skills\n5% Mana Stolen Per Hit\n+2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
       "difficulty": "normal"
+    },
+    {
+      "name": "The Spirit Shroud",
+      "requiredLVL": "28",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/armor/quilted.gif",
+      "description": "some item description",
+      "type": "Ghost Armor",
+      "type2": "unique",
+      "stats": "+150% Enhanced Defense\nCannot Be Frozen\n+1 To All Skills\nReplenish Life +10\nMagic Damage Reduced By 7-11 (varies)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Skin of the Vipermagi",
+      "requiredLVL": "29",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/uniques/vipermagicskin.gif",
+      "description": "some item description",
+      "type": "Serpentskin Armor",
+      "type2": "unique",
+      "stats": "+120% Enhanced Defense\n+1 To All Skills\n30% Faster Cast Rate\nMagic Damage Reduced By 9-13 (varies)\nAll Resistances +20-35 (varies)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Skin of the Flayed One",
+      "requiredLVL": "31",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/uniques/flayedoneskin.gif",
+      "description": "some item description",
+      "type": "Demonhide Armor",
+      "type2": "unique",
+      "stats": "+150-190% Enhanced Defense (varies)\nRepairs 1 Durability In 10 Seconds\n5-7% Life Stolen Per Hit (varies)\nReplenish Life +15-25 (varies)\nAttacker Takes Damage of 15\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Iron Pelt",
+      "requiredLVL": "33",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/uniques/ironpelt.gif",
+      "description": "some item description",
+      "type": "Trelised Armor",
+      "type2": "unique",
+      "stats": "+50-100% Enhanced Defense (varies)\n+ (3 Per Character Level) 3-297 Defense (Based On Character Level)\nDamage Reduced by 15-20 (varies)\nMagic Damage Reduced by 10-16 (varies)\n+25 To Life\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Crow Caw",
+      "requiredLVL": "37",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/armor/scalemail.gif",
+      "description": "some item description",
+      "type": "Tigulated Mail",
+      "type2": "unique",
+      "stats": "+150-180% Enhanced Defense (varies)\n15% Increased Attack Speed\n15% Faster Hit Recovery\n35% Chance of Open Wounds\n+15 Dexterity\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Spirit Forge",
+      "requiredLVL": "35",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/armor/ringmail.gif",
+      "description": "some item description",
+      "type": "Linked Mail",
+      "type2": "unique",
+      "stats": "+120-160% Enhanced Defense (varies)\n+ (1.25 Per Character Level) 1-123 Life (Based On Character Level)\nFire Resist +5%\nAdds 20-65 Fire Damage\n+15 To Strength\nGem Sockets (2)\n+4 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Duriel's Shell",
+      "requiredLVL": "41",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/uniques/durielsshell.gif",
+      "description": "some item description",
+      "type": "Cuirass",
+      "type2": "unique",
+      "stats": "+160-200% Enhanced Defense (varies)\n+ (1.25 Per Character Level) 1-123 Defense (Based On Character Level)\n+ (1 Per Character Level) 1-99 To Life (Based On Character Level)\nResist Fire +20%\nResist Lightning +20%\nResist Poison +20%\nResist Cold +50%\nCannot Be Frozen\n+15 To Strength\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Shaftstop",
+      "requiredLVL": "38",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/armor/chainmail.gif",
+      "description": "some item description",
+      "type": "Mesh Armor",
+      "type2": "unique",
+      "stats": "+180-220% Enhanced Defense (varies)\nDamage Reduced By 30%\n+250 Defense Vs. Missile\n+60 To Life\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Skullder's Ire",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/armor/splintmail.gif",
+      "description": "some item description",
+      "type": "Russet Armor",
+      "type2": "unique",
+      "stats": "Defense: 634-732 (varies)(Base Defense: 225-243)\nRequired Level: 42\nRequired Strength: 97\nDurability: 90\n+160-200% Enhanced Defense (varies)\nRepairs 1 Durability In 5 Seconds\n+ (1.25 Per Character Level) 1-123 % Better Chance Of Getting Magic Items (Based On Character Level)\n+1 To All Skill Levels\nMagic Damage Reduced By 10\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Que-Hegan's Wisdom",
+      "requiredLVL": "51",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/armor/lightplate.gif",
+      "description": "some item description",
+      "type": "Mage Plate",
+      "type2": "unique",
+      "stats": "+140-160% Enhanced Defense (varies)\n+1 To All Skill Levels\n+3 To Mana After Each Kill\n20% Faster Cast Rate\n20% Faster Hit Recovery\nMagic Damage Reduced By 6-10 (varies)\n+15 To Energy\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Toothrow",
+      "requiredLVL": "48",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/uniques/toothrow.gif",
+      "description": "some item description",
+      "type": "Sharktooth Armor",
+      "type2": "unique",
+      "stats": "+160-220% Enhanced Defense (varies)\n+40-60 Defense(varies)\n40% Chance of Open Wounds\nFire Resist +15%\n+10 Strength\nAttacker Takes Damage of 20-40 (varies)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Guardian Angel",
+      "requiredLVL": "45",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/uniques/guardianangel.gif",
+      "description": "some item description",
+      "type": "Templar Coat",
+      "type2": "unique",
+      "stats": "+180-200% Enhanced Defense (varies)\n+20% Increased Chance Of Blocking\n+30% Faster Block Rate\n+ (2.5 Per Character Level) 2-247 To Attack Rating Against Demons (Based On Character Level)\n+1 To Paladin Skill Levels\n+4 To Light Radius\n15% To Maximum Poison Resist\n15% To Maximum Cold Resist\n15% To Maximum Lightning Resist\n15% To Maximum Fire Resist\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Atma's Wail",
+      "requiredLVL": "51",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/armor/gothicplate.gif",
+      "description": "some item description",
+      "type": "Embossed Plate",
+      "type2": "unique",
+      "stats": "+120-160% Enhanced Defense (varies)\n+ (2 Per Character Level) 2-198 Defense (Based On Character Level)\n30% Faster Hit Recovery\nReplenish Life +10\nIncrease Maximum Mana 15%\n+15 To Dexterity\n+20% Better Chance Of Getting Magic Items\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Black Hades",
+      "requiredLVL": "53",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/armor/fullplate.gif",
+      "description": "some item description",
+      "type": "Chaos Armor",
+      "type2": "unique",
+      "stats": "+140-200% Enhanced Defense (varies)\n+30-60% Damage To Demons (varies)\n+200-250 To Attack Rating Against Demons (varies)\nHalf Freeze Duration\nGem Socket (3)\n-2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Corpsemourn",
+      "requiredLVL": "55",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/uniques/corpsemourn.gif",
+      "description": "some item description",
+      "type": "Ornate Plate",
+      "type2": "unique",
+      "stats": "+150-180% Enhanced Defense (varies)\nLevel 5 Corpse Explosion (40 Charges)\nAdds 12-36 Fire Damage\n6% Chance To Cast Level 2 Iron Maiden When Struck\nCold Resist +35%\n+10 To Vitality\n+8 To Strength\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
     }
   ],
   "headgear": [
