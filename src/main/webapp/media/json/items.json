@@ -1,4 +1,56 @@
 {
+  "gloves": [
+    {
+      "name": "The Hand of Broc",
+      "requiredLVL": "5",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/thehandofbroc.gif",
+      "description": "some item description",
+      "type": "Leather Gloves",
+      "type2": "unique",
+      "stats": "+10-20% Enhanced Defense (varies)\n+10 Defense\n3% Life Stolen Per Hit\n3% Mana Stolen Per Hit\nPoison Resist +10%\n+20 To Mana\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Bloodfist",
+      "requiredLVL": "9",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/bloodfist.gif",
+      "description": "some item description",
+      "type": "Heavy Gloves",
+      "type2": "unique",
+      "stats": "+10-20% Enhanced Defense (varies)\n+10 Defense\n+10% Increased Attack Speed\n+30% Faster Hit Recovery\n+40 To Life\n+5 To Min Damage\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Chance Guards",
+      "requiredLVL": "15",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/chanceguards.gif",
+      "description": "some item description",
+      "type": "Chain Gloves",
+      "type2": "unique",
+      "stats": "+20-30% Enhanced Defense (varies)\n+15 Defense\n+25 To Attack Rating\n25-40% Better Chance of Getting Magic Item (varies)\n200% Extra Gold From Monsters\n+2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Magefist",
+      "requiredLVL": "23",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/magefist.gif",
+      "description": "some item description",
+      "type": "Light Gauntlets",
+      "type2": "unique",
+      "stats": "+20-30% Enhanced Defense (varies)\n+10 Defense\n+1 To Fire Skills\n+20% Faster Cast Rate\nRegenerate Mana 25%\nAdds 1-6 Fire Damage\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Frostburn",
+      "requiredLVL": "29",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/frostburn.gif",
+      "description": "some item description",
+      "type": "Gauntlets",
+      "type2": "unique",
+      "stats": "+10-20% Enhanced Defense (varies)\n+30 Defense\n+5% Enhanced Damage\nIncrease Maximum Mana 40%*\nAdds 1-6 Cold Damage, Cold Duration: 2 Seconds\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    }
+  ],
   "armor": [
     {
       "name": "Greyform",
