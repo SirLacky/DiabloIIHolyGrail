@@ -299,7 +299,78 @@
       "type2": "unique",
       "stats": "+150-180% Enhanced Defense (varies)\nLevel 5 Corpse Explosion (40 Charges)\nAdds 12-36 Fire Damage\n6% Chance To Cast Level 2 Iron Maiden When Struck\nCold Resist +35%\n+10 To Vitality\n+8 To Strength\n(Only Spawns In Patch 1.09 or later) ",
       "difficulty": "exeptional"
+    },
+    {
+      "name": "Ormus Robes",
+      "requiredLVL": "75",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/ormusrobes.gif",
+      "description": "some item description",
+      "type": "Dush Shroud",
+      "type2": "unique",
+      "stats": "+10-20 Defense (varies)\n+20% Faster Cast Rate\n+10-15% To Cold Skill Damage (varies)\n+10-15% To Fire Skill Damage (varies)\n+10-15% To Lightning Skill Damage (varies)\n+3 bonus to a random Sorceress skill (Sorceress Only)*\nRegenerate Mana 10-15% (varies)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "The Gladiator's Bane",
+      "requiredLVL": "85",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/uniques/gladiatorsbane.gif",
+      "description": "some item description",
+      "type": "Wire Fleece",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Defense (varies)\n+50 Defense\nCannot Be Frozen\n30% Faster Hit Recovery\nPoison Length Reduced By 50%\nAttacker Takes Damage Of 20\nDamage Reduced By 15-20 (varies)\nMagic Damage Reduced By 15-20 (varies)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Arkaine's Valor",
+      "requiredLVL": "85",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/uniques/balrogskin.gif",
+      "description": "some item description",
+      "type": "Balrog Skin",
+      "type2": "unique",
+      "stats": "+150-180% Enhanced Defense (varies)\n+1-2 To All Skills* (varies)\n+ (0.5 Per Character Level) 0-49 To Vitality (Based On Character Level)\n30% Faster Hit Recovery\nDamage Reduced By 10-15 (varies)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Leviathan",
+      "requiredLVL": "65",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/leviathan.gif",
+      "description": "some item description",
+      "type": "Kraken Shell",
+      "type2": "unique",
+      "stats": "+170-200% Enhanced Defense (varies)\n+100-150 Defense (varies)\n+40-50 To Strength (varies)\nDamage Reduced By 15-25% (varies)\nIndestructible\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Steel Carapace",
+      "requiredLVL": "66",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/steelcarapace.gif",
+      "description": "some item description",
+      "type": "Shadow Plate",
+      "type2": "unique",
+      "stats": "+190-220% Enhanced Defense (varies)\nRegenerate Mana 10-15% (varies)\n+20% Faster Hit Recovery\nCold Resist +40-60% (varies)\nDamage Reduced by 9-14 (varies)\nRepairs 1 Durability in 20 Seconds\n8% Chance To Cast Level 6 Iron Maiden When Struck\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Templar's Might",
+      "requiredLVL": "74",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/templarsmight.gif",
+      "description": "some item description",
+      "type": "Sacred Armor",
+      "type2": "unique",
+      "stats": "+170-220% Enhanced Defense (varies)\n+250-300 Defense vs. Missile (varies)\n+10-15 To Strength (varies)\n+10-15 To Vitality (varies)\n+20% Faster Hit Recovery\n+40-50 Maximum Stamina (varies)\n+1-2 To Offensive Auras (Paladin Only) (varies)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Tyrael's Might",
+      "requiredLVL": "84",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/milabregasrobe.gif",
+      "description": "some item description",
+      "type": "Sacred Armor",
+      "type2": "unique",
+      "stats": "+120-150% Enhanced Defense (varies)\n+50-100% Damage To Demons (varies)\n+20% Faster Run/Walk\n+20-30 To Strength (varies)\nAll Resistances +20-30 (varies)\nCannot Be Frozen\nRequirements -100%\nSlain Monsters Rest in Peace\nIndestructible\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
     }
+
   ],
   "headgear": [
     {
