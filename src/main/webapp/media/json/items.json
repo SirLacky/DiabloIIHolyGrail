@@ -49,6 +49,56 @@
       "type2": "unique",
       "stats": "+10-20% Enhanced Defense (varies)\n+30 Defense\n+5% Enhanced Damage\nIncrease Maximum Mana 40%*\nAdds 1-6 Cold Damage, Cold Duration: 2 Seconds\n(Only Spawns In Patch 1.09 or later) ",
       "difficulty": "normal"
+    },
+    {
+      "name": "Venom Grip",
+      "requiredLVL": "29",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/leathergloves.gif",
+      "description": "some item description",
+      "type": "Demonhide Gloves",
+      "type2": "unique",
+      "stats": "+130-160% Enhanced Defense (varies)\n+15-25 Defense (varies)\n5% Chance of Crushing Blow\n+60 Poison Damage Over 4 Seconds\n5% Life Stolen Per Hit\n5% To Maximum Poison Resist\nPoison Resist +30%\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Gravepalm",
+      "requiredLVL": "32",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/heavygloves.gif",
+      "description": "some item description",
+      "type": "Sharkskin Gloves",
+      "type2": "unique",
+      "stats": "+140-180% Enhanced Defense (varies)\n+100-200% Damage To Undead (varies)\n+100-200 To Attack Rating Against Undead(varies)\n+10 To Energy\n+10 To Strength\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Ghoulhide",
+      "requiredLVL": "36",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/chaingloves.gif",
+      "description": "some item description",
+      "type": "Heavy Bracers",
+      "type2": "unique",
+      "stats": "+150-190% Enhanced Defense (varies)\n+ (8 Per Character Level) 8-792 To Attack Rating Against Undead (Based On Character Level)\n+ (2 Per Character Level) 2-198 % Damage To Undead (Based On Character Level)\n4-5% Mana Stolen Per Hit (varies)\n+20 To Life\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Lava Gout",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/lightgauntlets.gif",
+      "description": "some item description",
+      "type": "Battle Gauntlets",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Defense (varies)\n2% Chance To Cast Level 10 Enchant On Striking\nHalf Freeze Duration\nAdds 13-46 Fire Damage\n+20% Increased Attack Speed\nFire Resist +24%\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Hellmouth",
+      "requiredLVL": "47",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/gauntlets.gif",
+      "description": "some item description",
+      "type": "War Gountlets",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Defense (varies)\n4% Chance To Cast Level 12 Firestorm On Striking\n2% Chance To Cast Level 4 Meteor On Striking\n+15 Fire Absorb\nAdds 15-72 Fire Damage\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
     }
   ],
   "armor": [
