@@ -13,7 +13,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.logging.Logger;
 
-public class Item {
+public class Item  {
 
     private String name;
     private String requiredLVL;

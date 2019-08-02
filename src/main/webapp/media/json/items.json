@@ -1,4 +1,56 @@
 {
+"boots": [
+  {
+    "name": "Hotsput",
+    "requiredLVL": "5",
+    "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/hotspur.gif",
+    "description": "some item description",
+    "type": "boots",
+    "type2": "unique",
+    "stats": "+10-20% Enhanced Defense (varies)\n+6 Defense\nFire Resist +45%\n15% To Max Fire Resist\nAdds 3-6 Fire Damage\n+15 To Life\n(Only Spawns In Patch 1.09 or later) ",
+    "difficulty": "normal"
+  },
+  {
+    "name": "Gorefoot",
+    "requiredLVL": "9",
+    "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/gorefoot.gif",
+    "description": "some item description",
+    "type": "Heavy Boots",
+    "type2": "unique",
+    "stats": "+20-30% Enhanced Defense (varies)\n20% Faster Run/Walk\n2% Mana Stolen Per Hit\nAttacker Takes Damage of 2\n+12 Defense\n+2 To Leap (Barbarian Only)\n(Only Spawns In Patch 1.09 or later) ",
+    "difficulty": "normal"
+  },
+  {
+    "name": "Treads of Cthon",
+    "requiredLVL": "15",
+    "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/treadsofcthon.gif",
+    "description": "some item description",
+    "type": "Chain Boots",
+    "type2": "unique",
+    "stats": "+30-40% Enhanced Defense (varies)\n+12 Defense\n50% Slower Stamina Drain\n30% Faster Run/Walk\n+50 Defense VS. Missile*\n+10 To Life\n(Only Spawns In Patch 1.09 or later) ",
+    "difficulty": "normal"
+  },
+  {
+    "name": "Goblin Toe",
+    "requiredLVL": "22",
+    "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/goblintoe.gif",
+    "description": "some item description",
+    "type": "Light Plated Boots",
+    "type2": "unique",
+    "stats": "+50-60% Enhanced Defense (varies)\n25% Chance of a Crushing Blow\n-1 To Light Radius\nDamage Reduced By 1\nMagic Damage Reduced By 1\n+15 Defense\n(Only Spawns In Patch 1.09 or later) ",
+    "difficulty": "normal"
+  },
+  {
+    "name": "Tearhaunch",
+    "requiredLVL": "29",
+    "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/tearhaunch.gif",
+    "description": "some item description",
+    "type": "Greaves",
+    "type2": "unique",
+    "stats": "+60-80% Enhanced Defense (varies)\n20% Faster Run/Walk\nAll Resistances +10\n+35 Defense\n+5 To Dexterity\n+5 To Strength\n+2 To Vigor (Paladin Only)\n(Only Spawns In Patch 1.09 or later) ",
+    "difficulty": "normal"
+  }
+],
   "gloves": [
     {
       "name": "The Hand of Broc",
