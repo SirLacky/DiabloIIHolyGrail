@@ -1,6 +1,36 @@
 {
 "boots": [
   {
+    "name": "Sandstorm Trek",
+    "requiredLVL": "64",
+    "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/heavyboots.gif",
+    "description": "some item description",
+    "type": "Scarabshell Boots",
+    "type2": "unique",
+    "stats": "+140-170% Enhanced Defense (varies)\n+20% Faster Hit Recovery\n+20% Faster Run/Walk\n+ (1 Per Character Level) +1-99 Maximum Stamina (Based On Character Level)\n+10-15 To Strength (varies)\n+10-15 To Vitality (varies)\n50% Slower Stamina Drain\nPoison Resist +40-70% (varies)\nRepairs 1 Durability In 20 Seconds\n(Only Spawns In Patch 1.10 or later) ",
+    "difficulty": "elite"
+  },
+  {
+    "name": "Marrowwalk",
+    "requiredLVL": "66",
+    "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/chainboots.gif",
+    "description": "some item description",
+    "type": "Boneweave Boots",
+    "type2": "unique",
+    "stats": "+170-200% Enhanced Defense (varies)\n+20% Faster Run/Walk\n+1-2 To Skeleton Mastery (Necromancer Only) (varies)\n+10-20 To Strength (varies)\n+17 To Dexterity\nRegenerate Mana 10%\nHeal Stamina Plus 10%\nHalf Freeze Duration\nLevel 33 Bone Prison (13 Charges)\nLevel 12 Life Tap (10 Charges)\n(Only Spawns In Patch 1.10 or later) ",
+    "difficulty": "elite"
+  },
+  {
+    "name": "Shadow Dancer",
+    "requiredLVL": "71",
+    "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/shadowdancer.gif",
+    "description": "some item description",
+    "type": "Myrmidon Greaves",
+    "type2": "unique",
+    "stats": "+70-100% Enhanced Defense (varies)\n+1-2 To Shadow Disciplines (Assassin Only) (varies)\n+30% Faster Run/Walk\n+30% Faster Hit Recovery\n+15-25 To Dexterity (varies)\nRequirements -20%\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) ",
+    "difficulty": "elite"
+  },
+  {
     "name": "Infernostride",
     "requiredLVL": "29",
     "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/leatherboots.gif",
