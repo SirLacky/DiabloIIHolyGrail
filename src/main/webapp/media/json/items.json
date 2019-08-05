@@ -1,4 +1,56 @@
 {
+  "belts": [
+    {
+      "name": "Lenymo",
+      "requiredLVL": "7",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/lenymscord.gif",
+      "description": "some item description",
+      "type": "Sash",
+      "type2": "unique",
+      "stats": "Regenerate Mana 30%\nAll Resistances +5\n+15 To Mana\n+1 To Light Radius\n(Spawns In Any Patch) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Snakecord",
+      "requiredLVL": "12",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/snakecord.gif",
+      "description": "some item description",
+      "type": "Light Belt",
+      "type2": "unique",
+      "stats": "+20-30% Enhanced Defense (varies)\n+10 Defense\nReplenish Life +5\nPoison Resist +25%\nPoison Length Reduced By 50%\n+12 Poison Damage Over 3 Seconds\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Nightsmoke",
+      "requiredLVL": "20",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/nightsmoke.gif",
+      "description": "some item description",
+      "type": "Belt",
+      "type2": "unique",
+      "stats": "+30-50% Enhanced Defense (varies)\n+15 Defense\n50% Damage Taken Goes to Mana*\nDamage Reduced By 2\nAll Resistances +10\n+20 To Mana\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Goldwrap",
+      "requiredLVL": "27",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/goldwrap.gif",
+      "description": "some item description",
+      "type": "Heavy Belt",
+      "type2": "unique",
+      "stats": "+40-60% Enhanced Defense (varies)\n+25 Defense\n10% Increased Attack Speed\n30% Better Chance Of Getting Magic Items\n50-80% Extra Gold From Monsters (varies)\n+2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Bladebuckle",
+      "requiredLVL": "29",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/bladebuckle.gif",
+      "description": "some item description",
+      "type": "Plated Belt",
+      "type2": "unique",
+      "stats": "+80-100% Enhanced Defense (varies)\n+30 Defense\n+30% Faster Hit Recovery\n+10 To Dexterity\n+5 To Strength\nDamage Reduced By 3\nAttacker Takes Damage of 8*\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    }
+  ],
 "boots": [
   {
     "name": "Sandstorm Trek",
