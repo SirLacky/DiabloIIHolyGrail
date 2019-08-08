@@ -1,6 +1,56 @@
 {
   "belts": [
     {
+      "name": "String of Ears",
+      "requiredLVL": "29",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/sash.gif",
+      "description": "some item description",
+      "type": "Demonhide Sash",
+      "type2": "unique",
+      "stats": "+150-180% Enhanced Defense (varies)\n+15 Defense\n6-8% Life Stolen Per Hit (varies)\nDamage Reduced By 10-15% (varies)\nMagic Damage Reduced 10-15 (varies)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Razortail",
+      "requiredLVL": "32",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/lightbelt.gif",
+      "description": "some item description",
+      "type": "Sharkskin Belt",
+      "type2": "unique",
+      "stats": "+120-150% Enhanced Defense (varies)\n+15 Defense\n+10 To Maximum Damage\nPiercing Attack (33)\n+15 To Dexterity\nAttacker Takes Damage of (1 Per Character Level) 1-99 (Based On Character Level)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Gloom's Trap",
+      "requiredLVL": "36",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/belt.gif",
+      "description": "some item description",
+      "type": "Mesh Belt",
+      "type2": "unique",
+      "stats": "+120-150% Enhanced Defense (varies)\n5% Mana Stolen Per Hit\nIncrease Maximum Mana 15%\nRegenerate Mana 15%\n+15 To Vitality\n-3 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Snowclash",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/heavybelt.gif",
+      "description": "some item description",
+      "type": "Battle Belt",
+      "type2": "unique",
+      "stats": "+130-170% Enhanced Defense (varies)\n5% Chance To Cast Level 7-19 Blizzard When Struck (varies)\n+15 Cold Absorb\n15% To Maximum Cold Resist\nAdds 13-21 Cold Damage @ 3 sec. duration (Normal)\n+2 To Chilling Armor (Sorceress Only)\n+2 To Blizzard (Sorceress Only)\n+3 To Glacial Spike (Sorceress Only)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Thundersgod's Vigor",
+      "requiredLVL": "47",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/girdle.gif",
+      "description": "some item description",
+      "type": "War Belt",
+      "type2": "unique",
+      "stats": "+160-200% Enhanced Defense (varies)\nAdds 1-50 Lightning Damage\n5% Chance To Cast Level 7 Fist Of The Heavens When Struck\n+20 Lightning Absorb\n10% To Maximum Lightning Resist\n+20 To Strength\n+20 To Vitality\n+3 To Lightning Fury (Amazon Only)\n+3 To Lightning Strike (Amazon Only)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
       "name": "Lenymo",
       "requiredLVL": "7",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/lenymscord.gif",
