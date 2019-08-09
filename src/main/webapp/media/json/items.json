@@ -1,6 +1,36 @@
 {
   "belts": [
     {
+      "name": "Arachnid Mesh",
+      "requiredLVL": "80",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/arachnidmesh.gif",
+      "description": "some item description",
+      "type": "Spiderweb Sash",
+      "type2": "unique",
+      "stats": "+90-120% Enhanced Defense (varies)\nSlows Target By 10%\n+1 To All Skills\n+20% Faster Cast Rate\nIncreases Maximum Mana 5%\nLevel 3 Venom (11 Charges)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Nosferatu's Coil",
+      "requiredLVL": "51",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/nosferatuscoil.gif",
+      "description": "some item description",
+      "type": "Vampirefang Belt",
+      "type2": "unique",
+      "stats": "Slows Target By 10%\n+2 To Mana After Each Kill\n5-7% Life Stolen Per Hit (varies)\n+15 To Strength\n10% Increased Attack Speed\n-3 To Light Radius\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Verdungo's Hearty Cord",
+      "requiredLVL": "63",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/verdungosheartycord.gif",
+      "description": "some item description",
+      "type": "Mithril Coil",
+      "type2": "unique",
+      "stats": "+90-140% Enhanced Defense (varies)\n10% Faster Hit Recovery\n+30-40 To Vitality (varies)\nReplenish Life +10-13 (varies)\n+100-120 Maximum Stamina (varies)\nDamage Reduced By 10-15% (varies)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
       "name": "String of Ears",
       "requiredLVL": "29",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/sash.gif",
