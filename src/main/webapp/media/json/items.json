@@ -1,4 +1,26 @@
 {
+  "throwing weapons": [
+    {
+      "name": "Deathbit",
+      "requiredLVL": "44",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/throwingknife.gif",
+      "description": "some item description",
+      "type": "Battle Dart",
+      "type2": "unique",
+      "stats": "+130-180% Enhanced Damage (varies)\n40% Deadly Strike\n+200-450 To Attack Rating (varies)\n7-9% Life Stolen Per Hit (varies)\n4-6% Mana Stolen Per Hit (varies)\nReplenishes Quantity [1 in 4 sec.]\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "The Scalper",
+      "requiredLVL": "57",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/throwingaxe.gif",
+      "description": "some item description",
+      "type": "Francisca",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Damage (varies)\n33% Chance Of Open Wounds\n+4 To Mana After Each Kill\n20% Increased Attack Speed\n25% Bonus To Attack Rating\n4-6% Life Stolen Per Hit (varies)\nReplenishes Quantity [1 in 3 sec.]",
+      "difficulty": "exeptional"
+    }
+  ],
   "belts": [
     {
       "name": "Arachnid Mesh",
