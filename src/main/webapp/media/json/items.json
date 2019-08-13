@@ -1,6 +1,34 @@
 {
   "throwing weapons": [
     {
+      "name": "Warshrike",
+      "requiredLVL": "75",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/warshrike.gif",
+      "description": "some item description",
+      "type": "Winged Knife",
+      "type2": "unique",
+      "stats": "+200-250% Enhanced Damage (varies)\n50% Deadly Strike\n+30% Increased Attack Speed\nPiercing Attack [50]\n25% Chance To Cast Level 9 Nova On Striking\nReplenishes Quantity [1 in 3 sec.]\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },{
+      "name": "Gimmershred",
+      "requiredLVL": "70",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/gimmershred.gif",
+      "description": "some item description",
+      "type": "Flying Axe",
+      "type2": "unique",
+      "stats": "+160-210% Enhanced Damage (varies)\nAdds 218-483 Fire Damage\nAdds 29-501 Lightning Damage\nAdds 176-397 Cold Damage, 4 sec. Duration (Normal)\n+30% Increased Attack Speed\nIncreased Stack Size [60]\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },{
+      "name": "Lacerator",
+      "requiredLVL": "68",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/weapons/balancedaxe.gif",
+      "description": "some item description",
+      "type": "Winged Axe",
+      "type2": "unique",
+      "stats": "+150-210% Enhanced Damage (varies)\n+30% Increased Attack Speed\n33% Chance of Open Wounds\nPrevent Monster Heal\nHit Causes Monster To Flee 50%\n33% Chance To Cast Level 3 Amplify Damage On Striking\nReplenishes Quantity [1 in 4 sec.]\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
       "name": "Deathbit",
       "requiredLVL": "44",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/throwingknife.gif",
