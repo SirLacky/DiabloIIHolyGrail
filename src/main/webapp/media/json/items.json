@@ -1,4 +1,106 @@
 {
+  "axes": [
+    {
+      "name": "The Gnasher",
+      "requiredLVL": "5",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/thegnasher.gif",
+      "description": "some item description",
+      "type": "Hand Axe",
+      "type2": "unique",
+      "stats": "+60-70% Enhanced Damage (varies)\n20% Chance of Crushing Blow\n50% Chance of Open Wounds*\n+8 To Strength\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Deathspade",
+      "requiredLVL": "9",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/deathspade.gif",
+      "description": "some item description",
+      "type": "Axe",
+      "type2": "unique",
+      "stats": "+60-70% Enhanced Damage (varies)\n+8 To Minimum Damage\n15% Bonus to Attack Rating\nHit Blinds Target*\n+4 points of Mana after each kill\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Bladebone",
+      "requiredLVL": "15",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/doubleaxe.gif",
+      "description": "some item description",
+      "type": "Double Axe",
+      "type2": "unique",
+      "stats": "+30-50% Enhanced Damage (varies)\n+100% Damage To Undead\nAdds 8-12 Fire Damage\n20% Increased Attack Speed\n+40 to Attack Rating Against Undead\n+20 Defense\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Skull Splitter",
+      "requiredLVL": "21",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/mindrend.gif",
+      "description": "some item description",
+      "type": "Military Pick",
+      "type2": "unique",
+      "stats": "+60-100% Enhanced Damage (varies)\nAdds 1-(12-15) Lightning Damage (varies)\n+50-100 To Attack Rating (varies)\n15% Chance Of Open Wounds\nHit Blinds Target +2*\nRegenerate Mana 20%\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Rakescar",
+      "requiredLVL": "27",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/waraxe.gif",
+      "description": "some item description",
+      "type": "War Axe",
+      "type2": "unique",
+      "stats": "+75-150% Enhanced Damage (varies)\n+38 Poison Damage Over 3 Seconds\n30% Increased Attack Speed\n+50 To Attack Rating\nPoison resist +50%\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Axe of Fechmar",
+      "requiredLVL": "8",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/largeaxe.gif",
+      "description": "some item description",
+      "type": "Large Axe",
+      "type2": "unique",
+      "stats": "+70-90% Enhanced Damage (varies)\nFreezes Target +3*\nCold Resist +50%\n+2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Goreshovel",
+      "requiredLVL": "14",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/broadaxe.gif",
+      "description": "some item description",
+      "type": "Broad Axe",
+      "type2": "unique",
+      "stats": "+40-50% Enhanced Damage (varies)\n+9 To Maximum Damage\n60% Chance of Open Wounds*\n30% Increased Attack Speed\n+25 To Strength\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "The Chieftain",
+      "requiredLVL": "19",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/thechieftan.gif",
+      "description": "some item description",
+      "type": "Battle Axe",
+      "type2": "unique",
+      "stats": "+100% Enhanced Damage\n20% Increased Attack Speed\nAdds 1-40 Lightning Damage\nAll Resistances +10-20 (varies)\n+6 To Mana After Each Kill\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Brainhew",
+      "requiredLVL": "25",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/brainhew.gif",
+      "description": "some item description",
+      "type": "Great Axe",
+      "type2": "unique",
+      "stats": "+50-80% Enhanced Damage (varies)\n+14 To Minimum Damage\nAdds 15-35 Fire Damage\n10-13% Mana Stolen Per Hit (varies)\n+25 To Mana\n+4 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Humongous",
+      "requiredLVL": "29",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/giantaxe.gif",
+      "description": "some item description",
+      "type": "Giant Axe",
+      "type2": "unique",
+      "stats": "+80-120% Enhanced Damage (varies)\nAdds 8-(15-25) Damage (varies)\n33% chance of Crushing Blow\nRequirements 20%*\n+20-30 to Strength (varies)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    }
+  ],
   "throwing weapons": [
     {
       "name": "Warshrike",
@@ -9,7 +111,8 @@
       "type2": "unique",
       "stats": "+200-250% Enhanced Damage (varies)\n50% Deadly Strike\n+30% Increased Attack Speed\nPiercing Attack [50]\n25% Chance To Cast Level 9 Nova On Striking\nReplenishes Quantity [1 in 3 sec.]\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) ",
       "difficulty": "elite"
-    },{
+    },
+    {
       "name": "Gimmershred",
       "requiredLVL": "70",
       "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/gimmershred.gif",
@@ -18,7 +121,8 @@
       "type2": "unique",
       "stats": "+160-210% Enhanced Damage (varies)\nAdds 218-483 Fire Damage\nAdds 29-501 Lightning Damage\nAdds 176-397 Cold Damage, 4 sec. Duration (Normal)\n+30% Increased Attack Speed\nIncreased Stack Size [60]\n(Only Spawns In Patch 1.10 or later) ",
       "difficulty": "elite"
-    },{
+    },
+    {
       "name": "Lacerator",
       "requiredLVL": "68",
       "jpg": "http://classic.battle.net/diablo2exp/images/items/weapons/balancedaxe.gif",
