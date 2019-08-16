@@ -1,6 +1,106 @@
 {
   "axes": [
     {
+      "name": "Coldkill",
+      "requiredLVL": "36",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/coldkill.gif",
+      "description": "some item description",
+      "type": "Hatchet",
+      "type2": "unique",
+      "stats": "+150-190% Enhanced Damage (varies)\n30% Increased Attack Speed\n10% Chance To Cast Level 10 Ice Blast On Striking\n10% Chance To Cast Level 5 Frost Nova When Struck\n+40 Cold Damage - 2 Second Duration\n15% To Maximum Cold Resist\nCold Resist +15%\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Butcher's Pupil",
+      "requiredLVL": "39",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/butcherspupil.gif",
+      "description": "some item description",
+      "type": "Cleaver",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Damage (varies)\nAdds 30-50 Damage\n35% Deadly Strike\n25% Chance of Open Wounds\n30% Increased Attack Speed\nIndestructible\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Islestrike",
+      "requiredLVL": "43",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/doubleaxe.gif",
+      "description": "some item description",
+      "type": "Twin Axe",
+      "type2": "unique",
+      "stats": "+170-190% Enhanced Damage (varies)\n25% Chance of Crushing Blow\n+2 To Druid Skill Levels\n+50 Defense VS. Missile\n+10 To All Attributes\n+1 Fury (Druid Only)\n+1 Maul (Druid Only)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Pompeii's Wrath",
+      "requiredLVL": "45",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/mindrend.gif",
+      "description": "some item description",
+      "type": "Crowbill",
+      "type2": "unique",
+      "stats": "+140-170% Enhanced Damage (varies)\nAdds 35-150 Fire Damage\nSlows Target By 50%\n4% Chance To Cast Level 8 Volcano On Striking\nKnockback\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Guardian Naga",
+      "requiredLVL": "48",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/waraxe.gif",
+      "description": "some item description",
+      "type": "Naga",
+      "type2": "unique",
+      "stats": "+150-180% Enhanced Damage (varies)\n+20 To Maximum Damage\n+250 Poison Damage Over 10 Seconds\n5% Chance To Cast Level 8 Poison Nova On Striking\nPoison Resist +30%\nAttacker Takes Damage of 15\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Warlord's Trust",
+      "requiredLVL": "35",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/largeaxe.gif",
+      "description": "some item description",
+      "type": "Military Axe",
+      "type2": "unique",
+      "stats": "+175% Enhanced Damage\nRepairs 1 Durability In 4 Seconds\n+ (0.5 Per Character Level) 0-49 To Vitality (Based On Character Level)\nReplenish Life +20\nAll Resistances +10\n+75 Defense\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Spellsteel",
+      "requiredLVL": "39",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/broadaxe.gif",
+      "description": "some item description",
+      "type": "Bearded Axe",
+      "type2": "unique",
+      "stats": "+165% Enhanced Damage\n10% Faster Cast Rate\nRequirements -60%\nRegenerate Mana 25%\n+100 To Mana\nLevel 12 Firestorm (60 Charges)\nLevel 10 Holy Bolt (100 Charges)\nLevel 3 Decrepify (30 Charges)\nLevel l Teleport (20 Charges)\nMagic Damage Reduced By 12-15 (varies)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Stormrider",
+      "requiredLVL": "41",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/stormrider.gif",
+      "description": "some item description",
+      "type": "Tabar",
+      "type2": "unique",
+      "stats": "+100% Enhanced Damage\nAdds 35-75 Damage\nAdds 1-200 Lightning Damage\n15% Chance To Cast Level 5 Charged Bolt When Struck\n10% Chance To Cast Level 13-20 Charged Bolt On Striking (varies)\n5% Chance To Cast Level 10 Chain Lightning On Striking\nAttacker Takes Lightning Damage Of 15\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Boneslayer Blade",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/brainhew.gif",
+      "description": "some item description",
+      "type": "Gothic Axe",
+      "type2": "unique",
+      "stats": "+180-220% Enhanced Damage(varies)\n+ (5 Per Character Level) 5-495 To Attack Rating Against Undead (Based On Character Level)\n+ (2.5 Per Character Level) 2-247 % Damage To Undead (Based On Character Level)\n50% Chance To Cast Level 12-20 Holy Bolt When Struck (varies)\nLevel 20 Holy Bolt (200 Charges)\n20% Increased Attack Speed\n35% Bonus To Attack Rating\n+8 To Strength\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "The Minotaur",
+      "requiredLVL": "45",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/minotuar.gif",
+      "description": "some item description",
+      "type": "Ancient Axe",
+      "type2": "unique",
+      "stats": "+140-200% Enhanced Damage (varies)\nAdds 20-30 Damage\nSlows Target By 50%\n30% Chance of Crushing Blow\nHit Blinds Target +2\nHalf Freeze Duration\n+15-20 To Strength (varies)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
       "name": "The Gnasher",
       "requiredLVL": "5",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/thegnasher.gif",
