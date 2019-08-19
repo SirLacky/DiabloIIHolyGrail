@@ -1,6 +1,86 @@
 {
   "shields": [
     {
+      "name": "Visceratuant",
+      "requiredLVL": "28",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/peltalunata.gif",
+      "description": "some item description",
+      "type": "Defender",
+      "type2": "unique",
+      "stats": "+100-150% Enhanced Defense (varies)\n30% Increased Chance of Blocking\n30% Faster Block Rate\n+1 To Sorceress Skill Levels\nAttacker Takes Lightning Damage of 10\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Moser's Blessed Circle",
+      "requiredLVL": "31",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/blessedcircle.gif",
+      "description": "some item description",
+      "type": "Round Shield",
+      "type2": "unique",
+      "stats": "+180-220% Enhanced Defense (varies)\n+25% Increased Chance of Blocking\n30% Faster Block Rate\nAll Resistances +25\nSocketed (2)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Stormchaser",
+      "requiredLVL": "35",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/stormchaser.gif",
+      "description": "some item description",
+      "type": "Scutum",
+      "type2": "unique",
+      "stats": "+160-220% Enhanced Defense (varies)\n+20% Increased Chance of Blocking\n4% Chance To Cast Level 5 Tornado When Struck\n4% Chance To Cast Level 6 Blizzard When Struck\n10% Faster Block Rate\n+150 To Attack Rating\nLightning Resist +50%\nHalf Freeze Duration\nAdds 1-60 Lightning Damage\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Tiamat's Rebuke",
+      "requiredLVL": "38",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/steelclash.gif",
+      "description": "some item description",
+      "type": "Dragon Shield",
+      "type2": "unique",
+      "stats": "+140-200% Enhanced Defense (varies)\nAdds 27-53 Cold Damage - 6 Second Duration\nAdds 35-95 Fire Damage\nAdds 1-120 Lightning Damage\n3% Chance To Cast Level 6 Hydra When Struck\n5% Chance To Cast Level 7 Nova When Struck\n5% Chance To Cast Level 9 Frost Nova When Struck\nAll Resistances +25-35% (varies)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Lance Guard",
+      "requiredLVL": "35",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/lanceguard.gif",
+      "description": "some item description",
+      "type": "Barbed Shield",
+      "type2": "unique",
+      "stats": "+70-120% Enhanced Defense (varies)\n15% Damage Taken Goes To Mana\n30% Faster Hit Recovery\n20% Deadly Strike\n+50 To Life\nAttacker Takes Damage of 47\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Gerke's Sanctuary",
+      "requiredLVL": "44",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/bverritkeep.gif",
+      "description": "some item description",
+      "type": "Pavise",
+      "type2": "unique",
+      "stats": "+180-240% Enhanced Defense (varies)\n+30% Increased Chance of Blocking\nAll Resistances +20-30 (varies)\nReplenish Life +15\nDamage Reduced By 11-16 (varies)\nMagic Damage Reduced By 14-18 (varies)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Lidless Wall",
+      "requiredLVL": "41",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/lidlesswall.gif",
+      "description": "some item description",
+      "type": "Grim Shield",
+      "type2": "unique",
+      "stats": "+80-130% Enhanced Defense (varies)\n+1 To All Skills\nIncrease Maximum Mana 10%\n20% Faster Cast Rate\n+3-5 To Mana After Each Kill (varies)\n+10 To Energy\n+1 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Radament's Sphere",
+      "requiredLVL": "50",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/theward.gif",
+      "description": "some item description",
+      "type": "Ancient Shield",
+      "type2": "unique",
+      "stats": "+160-200% Enhanced Defense (varies)\n+20% Increased Chance Of Blocking\n+20% Faster Block Rate\n5% Chance To Cast Level 5 Poison Nova When Struck\nLevel 6 Poison Explosion (40 Charges)\nPoison Resist +75%\n+80 Poison Damage Over 4 Seconds\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
       "name": "Pelta Lunata",
       "requiredLVL": "2",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/peltalunata.gif",
