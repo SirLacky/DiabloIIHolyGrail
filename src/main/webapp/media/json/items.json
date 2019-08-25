@@ -1,4 +1,36 @@
 {
+  "paladin" : [
+    {
+      "name": "Alma Negra",
+      "requiredLVL": "77",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/classspecific/rondache.gif",
+      "description": "some item description",
+      "type": "Sacred Rondache",
+      "type2": "unique",
+      "stats": "+180-210% Enhanced Defense (varies)\n+1-2 To Paladin Skill Levels (varies)\n20% Increased Chance of Blocking\n30% Faster Block Rate\n+40-75% Enhanced Damage (varies)\n40-75% Bonus to Attack Rating (varies)\nMagic Damage Reduced By 5-9 (varies)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Herald Of Zakarum",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/classspecific/aerinshield.gif",
+      "description": "some item description",
+      "type": "Gilded Shield",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Defense (varies)\n30% Increased Chance Of Blocking\n30% Faster Block Rate\n20% Bonus To Attack Rating\n+20 To Strength\n+20 To Vitality\nAll Resistances +50\n+2 To Paladin Skill Levels\n+2 To Combat Skills (Paladin Only)",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Dragonscale",
+      "requiredLVL": "80",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/classspecific/aerinshield.gif",
+      "description": "some item description",
+      "type": "Zakarum Shield",
+      "type2": "unique",
+      "stats": "+170-200% Enhanced Defense (varies)\nAdds 211-371 Fire Damage\n+15% To Fire Skill Damage\n+10 To Hydra*\n+5% To Maximum Fire Resist\n+15-25 To Strength (varies)\nFire Absorb 10-20% (varies)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    }
+  ],
   "necromancer": [
     {
       "name": "Homunculus",
