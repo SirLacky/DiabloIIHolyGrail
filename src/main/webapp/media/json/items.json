@@ -1,4 +1,36 @@
 {
+  "necromancer": [
+    {
+      "name": "Homunculus",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/classspecific/demonhead.gif",
+      "description": "some item description",
+      "type": "Hierophant Trophy",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Defense (varies)\n+5 To Mana After Each Kill\n40% Increased Chance of Blocking\n30% Faster Block Rate\n+2 To Necromancer Skill Levels\n+20 To Energy\nRegenerate Mana 33%\nAll Resistances +40\n+2 To Curses Skills (Necromancer Only)",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Darkforce Spawn",
+      "requiredLVL": "65",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/classspecific/demonhead.gif",
+      "description": "some item description",
+      "type": "Bloodlord Skull",
+      "type2": "unique",
+      "stats": "+140-180% Enhanced Defense (varies)\n+1-3 To Summoning Skills (Necromancer Only) (varies)\n+1-3 To Poison And Bone Skills (Necromancer Only) (varies)\n+1-3 To Curses (Necromancer Only) (varies)\n+30% Faster Cast Rate\nIncrease Maximum Mana 10%",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Boneflame",
+      "requiredLVL": "72",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/classspecific/gargoylehead.gif",
+      "description": "some item description",
+      "type": "Succubus Skull",
+      "type2": "unique",
+      "stats": "+120-150% Enhanced Defense (varies)\n+20% Faster Run/Walk\n+2-3 To Necromancer Skill Levels (varies)\nAll Resistances +20-30 (varies)\n15% Chance To Cast Level 3 Terror When Struck\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    }
+  ],
   "shields": [
     {
       "name": "Blackoak Shield",
