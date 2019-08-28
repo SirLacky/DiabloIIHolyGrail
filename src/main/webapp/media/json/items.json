@@ -1,4 +1,46 @@
 {
+  "druid": [
+    {
+      "name": "Jalal;s Mane",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/classspecific/spiritmask.gif",
+      "description": "some item description",
+      "type": "Totemic Mask",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Defense (varies)\n30% Faster Hit Recovery\n20% Bonus To Attack Rating\n+2 To Druid Skill Levels\nAll Resistances +30\n+5 To Mana After Each Kill\n+20 To Strength\n+20 To Energy\n+2 To Shape Shifting Skills (Druid Only)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Cerebus' Bite",
+      "requiredLVL": "63",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/classspecific/cerebusbite.gif",
+      "description": "some item description",
+      "type": "Blood Spirit",
+      "type2": "unique",
+      "stats": "+130-140% Enhanced Defense (varies)\n60-120% Bonus to Attack Rating (varies)\n7-10% Life Stolen Per Hit (varies)\n33% Chance of Open Wounds\n+2-4 To Shape Shifting Skills (Druid Only) (varies)\n+1-2 To Feral Rage (Druid Only) (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Revenlore",
+      "requiredLVL": "74",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/classspecific/hawkhelm.gif",
+      "description": "some item description",
+      "type": "Sky Spirit",
+      "type2": "unique",
+      "stats": "+120-150% Enhanced Defense (varies)\n+7 To Raven (Druid Only)\n+3 To Elemental Skills (Druid Only)\n+20-30 To Energy (varies)\n-10-20% To Enemy Fire Resistance (varies)\nAll Resistances +15-25 (varies)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Spirit Keeper",
+      "requiredLVL": "67",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/classspecific/antlers.gif",
+      "description": "some item description",
+      "type": "Earth Spirit",
+      "type2": "unique",
+      "stats": "+170-190% Enhanced Defense (varies)\n+1-2 To Druid Skill Levels (varies)\n+20% Faster Hit Recovery\n+10% To Maximum Poison Resist\nFire Resist +30-40% (varies)\n+9-14 Lightning Absorb (varies)\nCold Absorb 15-25% (varies)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    }
+  ],
   "barbarian" : [
     {
       "name": "Arreat's Face",
