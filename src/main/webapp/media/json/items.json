@@ -1,4 +1,86 @@
 {
+  "bows" : [
+    {
+      "name": "Pluckeye",
+      "requiredLVL": "7",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/pluckeye.gif",
+      "description": "some item description",
+      "type": "Short Bow",
+      "type2": "unique",
+      "stats": "+100% Enhanced Damage\n+28 to Attack Rating\n3% Mana Stolen Per Hit\n+10 to Life\n+2 To Mana After Each Kill\n+2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Witherstring",
+      "requiredLVL": "13",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/witherstring.gif",
+      "description": "some item description",
+      "type": "Hunter's Bow",
+      "type2": "unique",
+      "stats": "+40-50% Enhanced Damage (varies)\nFires Magic Arrows [Level 3]\nAdds 1-3 Damage\n30% Increased Attack Speed\n+50 To Attack Rating\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Raven Claw",
+      "requiredLVL": "15",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/rimeraven.gif",
+      "description": "some item description",
+      "type": "Long Bow",
+      "type2": "unique",
+      "stats": "+60-70% Enhanced Damage (varies)\nFires Explosive Arrows [Level 3]\n50% Bonus to Attack Rating\n+3 To Dexterity\n+3 To Strength\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Rogue's Bow",
+      "requiredLVL": "20",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/piercerib.gif",
+      "description": "some item description",
+      "type": "Composite Bow",
+      "type2": "unique",
+      "stats": "+40-60% Enhanced Damage (varies)\n+100% Damage to Undead\n30% Deadly Strike\n50% Increased Attack Speed\n+60 to Attack Rating\nAll Resistances +10\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Stormstrike",
+      "requiredLVL": "25",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/pullspite.gif",
+      "description": "some item description",
+      "type": "Short Battle Bow",
+      "type2": "unique",
+      "stats": "+70-90% Enhanced Damage (varies)\nAdds 1-30 lightning damage\nPiercing Attack (25)\n+28 to Attack Rating\nLightning Resist +25%\n+8 to Strength\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Wizendraw",
+      "requiredLVL": "26",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/wizendraw.gif",
+      "description": "some item description",
+      "type": "Long Battle Bow",
+      "type2": "unique",
+      "stats": "+70-80% Enhanced Damage (varies)\n+50-100 To Attack Rating (varies)\nFires Magic Arrows [Level 5]\n20% Increased Attack Speed\nCold Resist 26%\n+15 to Energy\n+30 to Mana\n-(20-35)% To Enemy Cold Resistance (varies)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Hellclap",
+      "requiredLVL": "27",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/hellclap.gif",
+      "description": "some item description",
+      "type": "Short War Bow",
+      "type2": "unique",
+      "stats": "+70-90% Enhanced Damage (varies)\nAdds 15-(30-50) Fire Damage (varies)\n10% Increased Attack Speed\n+50-75 to Attack Rating (varies)\n+1 To Fire Skills*\nFire Resist +40%\n+12 to Dexterity\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Blastbark",
+      "requiredLVL": "28",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/blastbark.gif",
+      "description": "some item description",
+      "type": "Long War Bow",
+      "type2": "unique",
+      "stats": "+70-130% Enhanced Damage (varies)\n+1 To Amazon Skill Levels\n3% Mana stolen per hit\n+5 to Strength\n+2 To Exploding Arrow (Amazon Only)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    }
+  ],
   "druid": [
     {
       "name": "Jalal;s Mane",
