@@ -1,6 +1,36 @@
 {
   "bows" : [
     {
+      "name": "Eaglehorn",
+      "requiredLVL": "69",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/longbattlebow.gif",
+      "description": "some item description",
+      "type": "Crusader Bow",
+      "type2": "unique",
+      "stats": "+200% Enhanced Damage\n+ (2 Per Character Level) 2-198% Enhanced Maximum Damage (Based On Character Level)\n+1 To Amazon Skill Levels\n+ (6 Per Character Level) 6-594 To Attack Rating (Based On Character Level)\n+25 To Dexterity\nIgnores Target's Defense\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Widowmaker",
+      "requiredLVL": "65",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/widowmaker.gif",
+      "description": "some item description",
+      "type": "Ward Bow",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Damage (varies)\nIgnore Target's Defense\n33% Deadly Strike\n+3-5 To Guided Arrow* (varies)\nFires Magic Arrows [Level 11]\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Windforce",
+      "requiredLVL": "73",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/windforce.gif",
+      "description": "some item description",
+      "type": "Hydra Bow",
+      "type2": "unique",
+      "stats": "+250% Enhanced Damage\n+ (3.125 Per Character Level) 3-309 To Maximum Damage (Based On Character Level)\n20% Increased Attack Speed\n6-8% Mana Stolen Per Hit (varies)\nHeal Stamina Plus 30%\n+10 To Strength\n+5 To Dexterity\nKnockback\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "elite"
+    },
+    {
       "name": "Skystrike",
       "requiredLVL": "28",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/shortbow.gif",
