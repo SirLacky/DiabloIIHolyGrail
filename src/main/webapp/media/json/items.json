@@ -1,4 +1,46 @@
 {
+  "crossbows": [
+    {
+      "name": "Leadcrow",
+      "requiredLVL": "9",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/leadcrow.gif",
+      "description": "some item description",
+      "type": "Light Crossbow",
+      "type2": "unique",
+      "stats": "+70% Enhanced Damage\n25% Deadly Strike\n+40 to Attack Rating\nPoison Resist +30%\n+10 to Life\n+10 to Dexterity\n(Spawns In Any Patch) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Ichorsting",
+      "requiredLVL": "18",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/ichorsting.gif",
+      "description": "some item description",
+      "type": "Crossbow",
+      "type2": "unique",
+      "stats": "+50% Enhanced Damage\nAdds 30 Poison Damage Over 3 Seconds\n20% Increased Attack Speed\nPiercing Attack (50)\n+50 to Attack Rating\n+20 to Dexterity\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Hellcast",
+      "requiredLVL": "27",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/hellcast.gif",
+      "description": "some item description",
+      "type": "Heavy Crossbow",
+      "type2": "unique",
+      "stats": "+70-80% Enhanced Damage (varies)\nFires Explosive Arrows Or Bolts [Level 5]\nAdds 15-35 Fire Damage\n20% Increased Attack Speed\n+70 to Attack Rating\n15% To Max Fire Resist\nFire Resist +15%\n(Only Spawns In Patch 1.10 or later)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Doomslinger",
+      "requiredLVL": "28",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/doomspittle.gif",
+      "description": "some item description",
+      "type": "Repeating Crossbow",
+      "type2": "unique",
+      "stats": "+60-100% Enhanced Damage (varies)\nPiercing Attack (35)\n30% Increased Attack Speed\n+1 To Amazon Skill Levels\n+15 To Life\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    }
+  ],
   "bows" : [
     {
       "name": "Eaglehorn",
