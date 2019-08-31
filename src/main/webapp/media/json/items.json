@@ -1,6 +1,46 @@
 {
   "crossbows": [
     {
+      "name": "Langer Briser",
+      "requiredLVL": "32",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/langerbriser.gif",
+      "description": "some item description",
+      "type": "Arbalest",
+      "type2": "unique",
+      "stats": "+170-200% Enhanced Damage (varies)\n+10-30 To Maximum Damage (varies)\n33% Chance Of Open Wounds\nAdds 1-212 Lightning Damage\n+30 To Life\nKnockback\n30-60% Better Chance Of Getting Magic Items (varies)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Pus Spitter",
+      "requiredLVL": "36",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/pusspitter.gif",
+      "description": "some item description",
+      "type": "Siege Crossbow",
+      "type2": "unique",
+      "stats": "+150-220% Enhanced Damage (varies)\n+150 Poison Damage Over 8 Seconds\nRequirements -60%\n9% Chance To Cast Level 6 Poison Nova When Struck\n4% Chance To Cast Level 1 Lower Resist On Striking\n+ (5 Per Character Level) 5-495 To Attack Rating (Based On Character Level)\n10% Increased Attack Speed\n+2 To Necromancer Skill Levels\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Buriza-Do-Kyanon",
+      "requiredLVL": "41",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/hellcast.gif",
+      "description": "some item description",
+      "type": "Ballista",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Damage (varies)\n+ (2.5 Per Character Level) 2-247 To Maximum Damage (Based On Character Level)\nAdds 32-196 Cold Damage - 8 Second Duration\nPiercing Attack (100)\nFreezes Target +3\n+75-150 Defense(varies)\n+35 to Dexterity\n80% Increased Attack Speed\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Demon Machine",
+      "requiredLVL": "49",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/demonmachine.gif",
+      "description": "some item description",
+      "type": "Chu-Ko-Nu",
+      "type2": "unique",
+      "stats": "+123% Enhanced Damage\n+66 To Maximum Damage\nFires Explosive Bolts [Level 6]\n+632 To Attack Rating\nPiercing Attack (66)\n+321 Defense\n+36 To Mana\n(Only Spawns In Patch 1.10 or later)",
+      "difficulty": "exeptional"
+    },
+    {
       "name": "Leadcrow",
       "requiredLVL": "9",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/leadcrow.gif",
