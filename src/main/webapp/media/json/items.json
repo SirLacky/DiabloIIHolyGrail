@@ -1,6 +1,26 @@
 {
   "crossbows": [
     {
+      "name": "Hellrack",
+      "requiredLVL": "76",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/hellrack.gif",
+      "description": "some item description",
+      "type": "Colossus Crossbow",
+      "type2": "unique",
+      "stats": "+180-230% Enhanced Damage (varies)\n100-150% Bonus To Attack Rating (varies)\nAdds 63-324 Fire Damage\nAdds 63-324 Lightning Damage\nAdds 63-324 Cold Damage\n+20% Increased Attack Speed\nLevel 18 Immolation Arrow (150 charges)\nSocketed (2)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Gut Siphon",
+      "requiredLVL": "71",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/gutsiphon.gif",
+      "description": "some item description",
+      "type": "Demon Crossbow",
+      "type2": "unique",
+      "stats": "+160-220% Enhanced Damage (varies)\nPiercing Attack [33]\n12-18% Life Stolen Per Hit (varies)\n33% Chance of Open Wounds\nSlows Target by 25%\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
       "name": "Langer Briser",
       "requiredLVL": "32",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/langerbriser.gif",
