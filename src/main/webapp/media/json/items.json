@@ -1,4 +1,46 @@
 {
+  "daggers": [
+    {
+      "name": "Gull",
+      "requiredLVL": "4",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/dagger.gif",
+      "description": "some item description",
+      "type": "Dagger",
+      "type2": "unique",
+      "stats": "Adds 1-15 damage\n100% Better Chance of Getting Magic Item\n-5 to Mana\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "The Diggler",
+      "requiredLVL": "11",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/thediggler.gif",
+      "description": "some item description",
+      "type": "Dirk",
+      "type2": "unique",
+      "stats": "+50% Enhanced Damage\nIgnore Target's Defense\n30% Increased Attack Speed\nCold Resist +25%\nFire Resist +25%\n+10 To Dexterity\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "The Jade Tan DO",
+      "requiredLVL": "19",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/thejadetando.gif",
+      "description": "some item description",
+      "type": "Kris",
+      "type2": "unique",
+      "stats": "+100-150 to Attack Rating (varies)\n+180 Poison Damage Over 4 Seconds\nPoison Resist +95%\n+20% To Maximum Poison Resist\nCannot Be Frozen\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Spectral Shard",
+      "requiredLVL": "25",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/iricesshard.gif",
+      "description": "some item description",
+      "type": "Blade",
+      "type2": "unique",
+      "stats": "50% Faster Cast Rate\n+55 To Attack Rating\nAll Resistances +10\n+50 To Mana\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    }
+  ],
   "crossbows": [
     {
       "name": "Hellrack",
