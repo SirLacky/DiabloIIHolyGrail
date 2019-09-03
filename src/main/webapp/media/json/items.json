@@ -1,4 +1,36 @@
 {
+  "jevelins" : [
+    {
+    "name": "Demon's Arch",
+    "requiredLVL": "68",
+    "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/demonsarch.gif",
+    "description": "some item description",
+    "type": "Balrog Spear",
+    "type2": "unique",
+    "stats": "+160-210% Enhanced Damage (varies)\nAdds 232-323 Fire Damage\nAdds 23-333 Lightning Damage\n+30% Increased Attack Speed\n6-12% Life Stolen Per Hit (varies)\nReplenishes Quantity [1 in 3 sec.]\n(Only Spawns In Patch 1.10 or later) ",
+    "difficulty": "elite"
+  },
+    {
+      "name": "Wraith Flight",
+      "requiredLVL": "76",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/wraithflight.gif",
+      "description": "some item description",
+      "type": "Ghost Glaive",
+      "type2": "unique",
+      "stats": "+150-190% Enhanced Damage (varies)\n9-13% Life Stolen Per Hit (varies)\n+15 To Mana After Each Kill\nReplenishes Quantity [1 in 2 sec.]\nEthereal (Cannot Be Repaired)*\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Gargoyle's Bite",
+      "requiredLVL": "70",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/gargoylesbite.gif",
+      "description": "some item description",
+      "type": "Winged Harpoon",
+      "type2": "unique",
+      "stats": "+180-230% Enhanced Damage (varies)\n+293 Poison Damage Over 10 Seconds\nLevel 11 Plague Javelin (60 charges)\n9-15% Life Stolen Per Hit (varies)\nReplenishes Quantity [1 in 3 sec.]\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    }
+  ],
   "daggers": [
     {
       "name": "Wizardspike",
