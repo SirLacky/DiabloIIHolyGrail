@@ -1,4 +1,66 @@
 {
+  "amazon": [
+    {
+      "name": "Stoneraven",
+      "requiredLVL": "64",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/classspecific/stoneraven.gif",
+      "description": "some item description",
+      "type": "Matriarchal Spear",
+      "type2": "unique",
+      "stats": "+230-280% Enhanced Damage (varies)\nAdds 101-187 Magic Damage\n+400-600 Defense (varies)\nAll Resistances +30-50 (varies)\n+1-3 To Javelin and Spear Skills (Amazon Only) (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Lycander's Flank",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/classspecific/maidenpike.gif",
+      "description": "some item description",
+      "type": "Ceremonial Pike",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Damage (varies)\nAdds 25-50 Damage\n+2 To Amazon Skill Levels\n+30% Increased Attack Speed\n5-9% Life Stolen Per Hit (varies)\n+20 To Strength\n+20 To Vitality\n+20% Enhanced Defense\n+2 To Javelin and Spear Skills (Amazon Only)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Lycander's Aim",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/classspecific/reflexbow.gif",
+      "description": "some item description",
+      "type": "Ceremonial Bow",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Damage (varies)\nAdds 25-50 Damage\n+20% Increased Attack Speed\n+2 To Amazon Skill Levels\n5-8% Mana Stolen Per Hit (varies)\n+20 To Energy\n+20 To Dexterity\n+20% Enhanced Defense\n+2 To Bow And Crossbow Skills (Amazon Only)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Titan's Revenge",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/classspecific/maidenjavelin.gif",
+      "description": "some item description",
+      "type": "Ceremonial Javelin",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Damage (varies)\nAdds 25-50 Damage\n+2 To Amazon Skill Levels\n5-9% Life Stolen Per Hit (varies)\n+30% Faster Run/Walk\n+20 To Strength\n+20 To Dexterity\nReplenishes Quantity [1 in 3 sec.]\nIncreased Stack Size [60]\n+2 To Javelin and Spear Skills (Amazon Only)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Thunderstroke",
+      "requiredLVL": "69",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/classspecific/thunderstroke.gif",
+      "description": "some item description",
+      "type": "Matriarchal Javelin",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Damage (varies)\nAdds 1-511 Lightning Damage\n+15% Increased Attack Speed\n-15% To Enemy Lightning Resistance\n20% Chance To Cast Level 14 Lightning On Striking\n+2-4 To Javelin and Spear Skills (Amazon Only) (varies)\n+3 To Lightning Bolt (Amazon Only)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Blood Raven's Charge",
+      "requiredLVL": "71",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/classspecific/bloodravenscharge.gif",
+      "description": "some item description",
+      "type": "Matriarchal Bow",
+      "type2": "unique",
+      "stats": "+180-230% Enhanced Damage (varies)\n200-300% Bonus To Attack Rating (varies)\nFires Explosive Arrows Or Bolts [Level 13]\nLevel 5 Revive (30 charges)\n+2-4 To Bow And Crossbow Skills (Amazon Only) (varies)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    }
+  ],
   "jevelins" : [
     {
     "name": "Demon's Arch",
