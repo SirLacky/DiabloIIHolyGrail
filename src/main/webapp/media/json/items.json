@@ -1,4 +1,86 @@
 {
+  "maces": [
+    {
+      "name": "Felloak",
+      "requiredLVL": "3",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/felloak.gif",
+      "description": "some item description",
+      "type": "Club",
+      "type2": "unique",
+      "stats": "+70-80% Enhanced Damage (varies)\n+50% Damage To Undead\nAdds 6-8 Fire Damage\nKnockback\nLightning Resist +60%\nFire Resist +20%\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Stoutnail",
+      "requiredLVL": "5",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/stoutnail.gif",
+      "description": "some item description",
+      "type": "Spiked Club",
+      "type2": "unique",
+      "stats": "+100% Enhanced Damage\n+50% Damage To Undead\n+7 To Vitality\nAttacker Takes Damage of 3-10 (varies)\nMagic Damage Reduced By 2\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Crushflange",
+      "requiredLVL": "9",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/crushflange.gif",
+      "description": "some item description",
+      "type": "Mace",
+      "type2": "unique",
+      "stats": "+50-60% Enhanced Damage (varies)\n+50% Damage To Undead\n33% Chance Of Crushing Blow\nKnockback\nFire Resist +50%\n+15 To Strength\n+2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Bloodrise",
+      "requiredLVL": "15",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/bloodrise.gif",
+      "description": "some item description",
+      "type": "Morning Star",
+      "type2": "unique",
+      "stats": "+120% Enhanced Damage\n+50% Damage To Undead\n25% Chance Of Open Wounds\n10% Increased Attack Speed\n5% Life Stolen Per Hit\n50% bonus to Attack Rating\n+3 To Sacrifice (Paladin Only)\n+2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "The General's Tan Do Li Ga",
+      "requiredLVL": "21",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/thegeneralstandoliga.gif",
+      "description": "some item description",
+      "type": "Flail",
+      "type2": "unique",
+      "stats": "+50-60% Enhanced Damage (varies)\n+50% Damage To Undead\nAdds 1-20 Damage\n20% Increased Attack Speed\n5% Mana Stolen Per Hit\nSlows Target By 50%\n+25 Defense\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Ironstone",
+      "requiredLVL": "27",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/ironstone.gif",
+      "description": "some item description",
+      "type": "War Hammer",
+      "type2": "unique",
+      "stats": "+100-150% Enhanced Damage (varies)\n+50% Damage To Undead\nAdds 1-10 Lightning Damage\n+100-150 To Attack Rating (varies)\n+10 To Strength\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Bonesnap",
+      "requiredLVL": "24",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/bonesnap.gif",
+      "description": "some item description",
+      "type": "Maul",
+      "type2": "unique",
+      "stats": "+200-300% Enhanced Damage (varies)\n+100% Damage To Undead\n40% chance of Crushing Blow\nCold Resist +30%\nFire Resist +30%\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Steeldriver",
+      "requiredLVL": "29",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/steeldriver.gif",
+      "description": "some item description",
+      "type": "Great Maul",
+      "type2": "unique",
+      "stats": "+150-250% Enhanced Damage (varies)\n+50% Damage To Undead\n40% Increased Attack Speed\nRequirements -50%\nHeal Stamina plus 25%\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    }
+  ],
   "sorceress": [
     {
       "name": "The Oculus",
