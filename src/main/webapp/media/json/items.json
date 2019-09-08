@@ -1,6 +1,86 @@
 {
   "maces": [
     {
+      "name": "Dark Clan Crusher",
+      "requiredLVL": "34",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/felloak.gif",
+      "description": "some item description",
+      "type": "Cudgel",
+      "type2": "unique",
+      "stats": "+195% Enhanced Damage\n+200% Damage To Demons\n+50% Damage To Undead\n+200 To Attack Rating Against Demons\n+20-25% Bonus To Attack Rating (varies)\n+15 Life After Each Demon Kill\n+2 To Druid Skill Levels\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Feshrender",
+      "requiredLVL": "38",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/stoutnail.gif",
+      "description": "some item description",
+      "type": "Barbed Club",
+      "type2": "unique",
+      "stats": "+130-200% Enhanced Damage (varies)\nAdds 35-50 Damage\n+50% Damage To Undead\n20% Deadly Strike\n20% Chance of Crushing Blow\n25% Chance of Open Wounds\n+1 To Druid Skills\n+2 To Shape Shifting Skills (Druid Only)\nPrevent Monster Heal\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Sureshrill Frost",
+      "requiredLVL": "39",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/crushflange.gif",
+      "description": "some item description",
+      "type": "Flanged Mace",
+      "type2": "unique",
+      "stats": "+150-180% Enhanced Damage (varies)\nAdds 5-10 Damage\n+50% Damage To Undead\nAdds 63-112 Cold Damage, 5 sec. Cold Duration (Normal)\nFreezes Target +3\nLevel 9 Frozen Orb (50 Charges)\nCannot Be Frozen\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Moonfall",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/bloodrise.gif",
+      "description": "some item description",
+      "type": "Jagged Star",
+      "type2": "unique",
+      "stats": "+120-150% Enhanced Damage (varies)\nAdds 10-15 Damage\n+50% Damage To Undead\nAdds 55-115 Fire Damage\n5% Chance To Cast Level 6 Meteor On Striking\nLevel 11 Meteor (60 Charges)\nMagic Damage Reduced By 9-12 (varies)\n+2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Baezil's Vortex",
+      "requiredLVL": "45",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/thegeneralstandoliga.gif",
+      "description": "some item description",
+      "type": "Knout",
+      "type2": "unique",
+      "stats": "+160-200% Enhanced Damage (varies)\n+50% Damage To Undead\nAdds 1-150 Lightning Damage\n20% Increased Attack Speed\n5% Chance To Cast Level 8 Nova On Striking\nLevel 15 Nova (80 Charges)\nLightning Resist +25%\n+100 To Mana\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Earthshaker",
+      "requiredLVL": "43",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/warhammer.gif",
+      "description": "some item description",
+      "type": "Battle Hammer",
+      "type2": "unique",
+      "stats": "+180% Enhanced Damage\n+50% Damage To Undead\n5% Chance To Cast Level 7 Fissure On Striking\n+30% Increased Attack Speed\nHit Blinds Target\nKnockback\n+3 To Elemental Skills (Druid Only)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Bloodtree Stump",
+      "requiredLVL": "48",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/maul.gif",
+      "description": "some item description",
+      "type": "War CLub",
+      "type2": "unique",
+      "stats": "+180-220% Enhanced Damage (varies)\n+50% Damage To Undead\n50% Chance Of Crushing Blow\nAll Resistances +20\n+25 To Strength\n+2 To Masteries (Barbarian Only)\n+3 To Mace Masteries (Barbarian Only)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "The Gavel Of Pain",
+      "requiredLVL": "45",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/gavelofpain.gif",
+      "description": "some item description",
+      "type": "Martel de Fer",
+      "type2": "unique",
+      "stats": "+130-160% Enhanced Damage (varies)\nAdds 12-30 Damage\n+50% Damage To Undead\n5% Chance To Cast Level 1 Iron Maiden When Struck\n5% Chance To Cast Level 1 Amplify Damage On Striking\nLevel 8 Amplify Damage (3 Charges)\nAttacker Takes Damage of 26\nIndestructible\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
       "name": "Felloak",
       "requiredLVL": "3",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/felloak.gif",
