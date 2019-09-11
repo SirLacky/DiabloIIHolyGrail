@@ -1,6 +1,66 @@
 {
   "polearms": [
     {
+      "name": "The Meat Scraper",
+      "requiredLVL": "41",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/meatscraper.gif",
+      "description": "some item description",
+      "type": "Lochaber Axe",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Damage (varies)\n50% Chance Of Open Wounds\n30% Increased Attack Speed\n10% Life Stolen Per Hit\n25% Better Chance Of Getting Magic Items\n+3 To Masteries (Barbarian Only)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Blackleach Blade",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/voulge.gif",
+      "description": "some item description",
+      "type": "Bill",
+      "type2": "unique",
+      "stats": "+100-140% Enhanced Damage (varies)\n+ (1.25 Per Character Level) 1-123 To Maximum Damage (Based On Character Level)\n5% Chance To Cast Level 5 Weaken On Striking\nRequirements -25%\n-2 To Light Radius\n8% Life Stolen Per Hit\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Athena's Wrath",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/athenaswrath.gif",
+      "description": "some item description",
+      "type": "Battle Scythe",
+      "type2": "unique",
+      "stats": "+150-180% Enhanced Damage (varies)\n+ (1 Per Character Level) 1-99 To Maximum Damage (Based On Character Level)\n+ (1 Per Character Level) 1-99 To Life (Based On Character Level)\n30% Increased Attack Speed\n+1-3 To Druid Skill Levels (varies)\n+15 To Dexterity\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Pierre Tombale Couant",
+      "requiredLVL": "43",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/poleaxe.gif",
+      "description": "some item description",
+      "type": "Partizan",
+      "type2": "unique",
+      "stats": "+160-220% Enhanced Damage (varies)\nAdds 12-20 Damage\n55% Deadly Strike\n+100-200 To Attack Rating (varies)\n+3 To Barbarian Skill Levels\n6% Mana Stolen Per Hit\n30% Faster Hit Recovery\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Husoldal Evo",
+      "requiredLVL": "44",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/halberd.gif",
+      "description": "some item description",
+      "type": "Bec-De-Corbin",
+      "type2": "unique",
+      "stats": "+160-200% Enhanced Damage (varies)\nAdds 20-32 Damage\n20% Increased Attack Speed\n+200-250 To Attack Rating (varies)\nPrevent Monster Heal\nReplenish Life +20\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
+      "name": "Grim's Burning Dead",
+      "requiredLVL": "45",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/warscythe.gif",
+      "description": "some item description",
+      "type": "Grim Scythe",
+      "type2": "unique",
+      "stats": "+140-180% Enhanced Damage (varies)\nAdds 131-232 Fire Damage\n+3 To Necromancer Skill Levels\n-50% Target Defense\n+20% Enhanced Defense\n+200-250 To Attack Rating (varies)\nFire Resist +45%\nRequirements -50%\nAttacker Takes Damage of 8\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exeptional"
+    },
+    {
       "name": "Dimoak's Hew",
       "requiredLVL": "8",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/bardiche.gif",
