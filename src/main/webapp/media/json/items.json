@@ -1,6 +1,36 @@
 {
   "sceoters": [
     {
+      "name": "Zakarum's Hand",
+      "requiredLVL": "37",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/scepter.gif",
+      "description": "some item description",
+      "type": "Rune Scepter",
+      "type2": "unique",
+      "stats": "+180-220% Enhanced Damage (varies)\n+50% Damage To Undead\n30% Increased Attack Speed\n6% Chance To Cast Level 5 Blizzard On Striking\n8% Mana Stolen Per Hit\nIgnore Target's Defense\nRegenerate Mana 10%\nHeal Stamina Plus 15%\n+2 To Holy Shock (Paladin Only)\n+2 To Holy Freeze (Paladin Only)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "The Fetid Sprinkler",
+      "requiredLVL": "38",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/grandscepter.gif",
+      "description": "some item description",
+      "type": "Holy Water Sprinkler",
+      "type2": "unique",
+      "stats": "+160-190% Enhanced Damage (varies)\nAdds 15-25 Damage\n+50% Damage To Undead\n+2 To Paladin Skill Levels\n10% Chance To Cast Level 1 Confuse On Striking\n5% Chance To Cast Level 1 Decrepify On Striking\n+160 Poison Damage Over 4 Seconds\n+150-200 To Attack Rating (varies)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Hand of Blessed Light",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/warscepter.gif",
+      "description": "some item description",
+      "type": "Divine Scepter",
+      "type2": "unique",
+      "stats": "+130-160% Enhanced Damage (varies)\nAdds 20-45 Damage\n+50% Damage To Undead\n+2 To Paladin Skill Levels\n100% Bonus To Attack Rating\nRegenerate Mana 15%\n+50 Defense\n5% Chance To Cast Level 4 Fist Of Heavens On Striking\n+2 To Fist Of The Heavens (Paladin Only)\n+4 Holy Bolt (Paladin Only)\n+4 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exceptional"
+    },
+    {
       "name": "Knell Striker",
       "requiredLVL": "5",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/scepter.gif",
@@ -80,7 +110,7 @@
       "type": "Lochaber Axe",
       "type2": "unique",
       "stats": "+150-200% Enhanced Damage (varies)\n50% Chance Of Open Wounds\n30% Increased Attack Speed\n10% Life Stolen Per Hit\n25% Better Chance Of Getting Magic Items\n+3 To Masteries (Barbarian Only)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Blackleach Blade",
@@ -90,7 +120,7 @@
       "type": "Bill",
       "type2": "unique",
       "stats": "+100-140% Enhanced Damage (varies)\n+ (1.25 Per Character Level) 1-123 To Maximum Damage (Based On Character Level)\n5% Chance To Cast Level 5 Weaken On Striking\nRequirements -25%\n-2 To Light Radius\n8% Life Stolen Per Hit\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Athena's Wrath",
@@ -100,7 +130,7 @@
       "type": "Battle Scythe",
       "type2": "unique",
       "stats": "+150-180% Enhanced Damage (varies)\n+ (1 Per Character Level) 1-99 To Maximum Damage (Based On Character Level)\n+ (1 Per Character Level) 1-99 To Life (Based On Character Level)\n30% Increased Attack Speed\n+1-3 To Druid Skill Levels (varies)\n+15 To Dexterity\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Pierre Tombale Couant",
@@ -110,7 +140,7 @@
       "type": "Partizan",
       "type2": "unique",
       "stats": "+160-220% Enhanced Damage (varies)\nAdds 12-20 Damage\n55% Deadly Strike\n+100-200 To Attack Rating (varies)\n+3 To Barbarian Skill Levels\n6% Mana Stolen Per Hit\n30% Faster Hit Recovery\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Husoldal Evo",
@@ -120,7 +150,7 @@
       "type": "Bec-De-Corbin",
       "type2": "unique",
       "stats": "+160-200% Enhanced Damage (varies)\nAdds 20-32 Damage\n20% Increased Attack Speed\n+200-250 To Attack Rating (varies)\nPrevent Monster Heal\nReplenish Life +20\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Grim's Burning Dead",
@@ -130,7 +160,7 @@
       "type": "Grim Scythe",
       "type2": "unique",
       "stats": "+140-180% Enhanced Damage (varies)\nAdds 131-232 Fire Damage\n+3 To Necromancer Skill Levels\n-50% Target Defense\n+20% Enhanced Defense\n+200-250 To Attack Rating (varies)\nFire Resist +45%\nRequirements -50%\nAttacker Takes Damage of 8\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Dimoak's Hew",
@@ -302,7 +332,7 @@
       "type": "Cudgel",
       "type2": "unique",
       "stats": "+195% Enhanced Damage\n+200% Damage To Demons\n+50% Damage To Undead\n+200 To Attack Rating Against Demons\n+20-25% Bonus To Attack Rating (varies)\n+15 Life After Each Demon Kill\n+2 To Druid Skill Levels\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Feshrender",
@@ -312,7 +342,7 @@
       "type": "Barbed Club",
       "type2": "unique",
       "stats": "+130-200% Enhanced Damage (varies)\nAdds 35-50 Damage\n+50% Damage To Undead\n20% Deadly Strike\n20% Chance of Crushing Blow\n25% Chance of Open Wounds\n+1 To Druid Skills\n+2 To Shape Shifting Skills (Druid Only)\nPrevent Monster Heal\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Sureshrill Frost",
@@ -322,7 +352,7 @@
       "type": "Flanged Mace",
       "type2": "unique",
       "stats": "+150-180% Enhanced Damage (varies)\nAdds 5-10 Damage\n+50% Damage To Undead\nAdds 63-112 Cold Damage, 5 sec. Cold Duration (Normal)\nFreezes Target +3\nLevel 9 Frozen Orb (50 Charges)\nCannot Be Frozen\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Moonfall",
@@ -332,7 +362,7 @@
       "type": "Jagged Star",
       "type2": "unique",
       "stats": "+120-150% Enhanced Damage (varies)\nAdds 10-15 Damage\n+50% Damage To Undead\nAdds 55-115 Fire Damage\n5% Chance To Cast Level 6 Meteor On Striking\nLevel 11 Meteor (60 Charges)\nMagic Damage Reduced By 9-12 (varies)\n+2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Baezil's Vortex",
@@ -342,7 +372,7 @@
       "type": "Knout",
       "type2": "unique",
       "stats": "+160-200% Enhanced Damage (varies)\n+50% Damage To Undead\nAdds 1-150 Lightning Damage\n20% Increased Attack Speed\n5% Chance To Cast Level 8 Nova On Striking\nLevel 15 Nova (80 Charges)\nLightning Resist +25%\n+100 To Mana\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Earthshaker",
@@ -352,7 +382,7 @@
       "type": "Battle Hammer",
       "type2": "unique",
       "stats": "+180% Enhanced Damage\n+50% Damage To Undead\n5% Chance To Cast Level 7 Fissure On Striking\n+30% Increased Attack Speed\nHit Blinds Target\nKnockback\n+3 To Elemental Skills (Druid Only)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Bloodtree Stump",
@@ -362,7 +392,7 @@
       "type": "War CLub",
       "type2": "unique",
       "stats": "+180-220% Enhanced Damage (varies)\n+50% Damage To Undead\n50% Chance Of Crushing Blow\nAll Resistances +20\n+25 To Strength\n+2 To Masteries (Barbarian Only)\n+3 To Mace Masteries (Barbarian Only)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "The Gavel Of Pain",
@@ -372,7 +402,7 @@
       "type": "Martel de Fer",
       "type2": "unique",
       "stats": "+130-160% Enhanced Damage (varies)\nAdds 12-30 Damage\n+50% Damage To Undead\n5% Chance To Cast Level 1 Iron Maiden When Struck\n5% Chance To Cast Level 1 Amplify Damage On Striking\nLevel 8 Amplify Damage (3 Charges)\nAttacker Takes Damage of 26\nIndestructible\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Felloak",
@@ -464,7 +494,7 @@
       "type": "Swirling Crystal",
       "type2": "unique",
       "stats": "+3 To Sorceress Skill Levels\n+5 To Mana After Each Kill\nAll Resistances +20\n25% Chance To Cast Level 1 Teleport When Struck\n+30% Faster Cast Rate\n+20 To Vitality\n+20 To Energy\n+20% Enhanced Defense\n50% Better Chance Of Getting Magic Items\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Eschuta's Temper",
@@ -506,7 +536,7 @@
       "type": "Greater Talons",
       "type2": "unique",
       "stats": "+150-200% Enhanced Damage (varies)\nAdds 25-50 Damage\n30% Faster Hit Recovery\n20% Bonus To Attack Rating\n5-9% Life Stolen Per Hit (varies)\n+20 To Strength\n+20 To Dexterity\n+2 To Assassin Skill Levels\n+1 To Martial Arts Skills (Assassin Only)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Jade Talon",
@@ -548,7 +578,7 @@
       "type": "Ceremonial Pike",
       "type2": "unique",
       "stats": "+150-200% Enhanced Damage (varies)\nAdds 25-50 Damage\n+2 To Amazon Skill Levels\n+30% Increased Attack Speed\n5-9% Life Stolen Per Hit (varies)\n+20 To Strength\n+20 To Vitality\n+20% Enhanced Defense\n+2 To Javelin and Spear Skills (Amazon Only)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Lycander's Aim",
@@ -558,7 +588,7 @@
       "type": "Ceremonial Bow",
       "type2": "unique",
       "stats": "+150-200% Enhanced Damage (varies)\nAdds 25-50 Damage\n+20% Increased Attack Speed\n+2 To Amazon Skill Levels\n5-8% Mana Stolen Per Hit (varies)\n+20 To Energy\n+20 To Dexterity\n+20% Enhanced Defense\n+2 To Bow And Crossbow Skills (Amazon Only)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Titan's Revenge",
@@ -568,7 +598,7 @@
       "type": "Ceremonial Javelin",
       "type2": "unique",
       "stats": "+150-200% Enhanced Damage (varies)\nAdds 25-50 Damage\n+2 To Amazon Skill Levels\n5-9% Life Stolen Per Hit (varies)\n+30% Faster Run/Walk\n+20 To Strength\n+20 To Dexterity\nReplenishes Quantity [1 in 3 sec.]\nIncreased Stack Size [60]\n+2 To Javelin and Spear Skills (Amazon Only)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Thunderstroke",
@@ -662,7 +692,7 @@
       "type": "Poignard",
       "type2": "unique",
       "stats": "+200-240% Enhanced Damage (varies)\nAdds 15-27 Damage\n15% Increased Attack Speed\n+1 To Necromancer Skill Levels\nPrevent Monster Heal\nIgnore Target's Defense\n8% Life Stolen Per Hit\n+10 To Dexterity\n(Only Spawns In Patch 1.09 or later)",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Heart Carver",
@@ -672,7 +702,7 @@
       "type": "Rondel",
       "type2": "unique",
       "stats": "+190-240% Enhanced Damage (varies)\nAdds 15-35 Damage\n35% Deadly Strike\nIgnore Target's Defense\n+4 To Grim Ward (Barbarian Only)\n+4 To Find Item (Barbarian Only)\n+4 To Find Potion (Barbarian Only)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Blackbog's Sharp",
@@ -682,7 +712,7 @@
       "type": "Cinquedeas",
       "type2": "unique",
       "stats": "+488 Poison Damage Over 10 Seconds\nAdds 15-45 Damage\n30% Increased Attack Speed\nSlows Target By 50%\n+50 Defense\n+4 To Poison Nova (Necromancer Only)\n+4 To Poison Explosion (Necromancer Only)\n+5 To Poison Dagger (Necromancer Only)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Stormspike",
@@ -692,7 +722,7 @@
       "type": "Stiletto",
       "type2": "unique",
       "stats": "+150% Enhanced Damage\nAdds 1-120 Lightning Damage\n25% Chance To Cast Level 3 Charged Bolt When Struck\nLightning Resist + (1 Per Character Level) 1-99 % (Based On Character Level)\nAttacker Takes Lightning Damage of 20\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Gull",
@@ -764,7 +794,7 @@
       "type": "Arbalest",
       "type2": "unique",
       "stats": "+170-200% Enhanced Damage (varies)\n+10-30 To Maximum Damage (varies)\n33% Chance Of Open Wounds\nAdds 1-212 Lightning Damage\n+30 To Life\nKnockback\n30-60% Better Chance Of Getting Magic Items (varies)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Pus Spitter",
@@ -774,7 +804,7 @@
       "type": "Siege Crossbow",
       "type2": "unique",
       "stats": "+150-220% Enhanced Damage (varies)\n+150 Poison Damage Over 8 Seconds\nRequirements -60%\n9% Chance To Cast Level 6 Poison Nova When Struck\n4% Chance To Cast Level 1 Lower Resist On Striking\n+ (5 Per Character Level) 5-495 To Attack Rating (Based On Character Level)\n10% Increased Attack Speed\n+2 To Necromancer Skill Levels\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Buriza-Do-Kyanon",
@@ -784,7 +814,7 @@
       "type": "Ballista",
       "type2": "unique",
       "stats": "+150-200% Enhanced Damage (varies)\n+ (2.5 Per Character Level) 2-247 To Maximum Damage (Based On Character Level)\nAdds 32-196 Cold Damage - 8 Second Duration\nPiercing Attack (100)\nFreezes Target +3\n+75-150 Defense(varies)\n+35 to Dexterity\n80% Increased Attack Speed\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Demon Machine",
@@ -794,7 +824,7 @@
       "type": "Chu-Ko-Nu",
       "type2": "unique",
       "stats": "+123% Enhanced Damage\n+66 To Maximum Damage\nFires Explosive Bolts [Level 6]\n+632 To Attack Rating\nPiercing Attack (66)\n+321 Defense\n+36 To Mana\n(Only Spawns In Patch 1.10 or later)",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Leadcrow",
@@ -876,7 +906,7 @@
       "type": "Edge Bow",
       "type2": "unique",
       "stats": "+150-200% Enhanced Damage (varies)\nAdds 1-250 Lightning Damage\n2% Chance To Cast Level 6 Meteor On Striking\n30% Increased Attack Speed\n+100 To Attack Rating\n+1 To Amazon Skill Levels\n+10 to Energy\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Riphook",
@@ -886,7 +916,7 @@
       "type": "Razor Bow",
       "type2": "unique",
       "stats": "180-220% Enhanced Damage (varies)\nSlows Target By 30%\n30% Chance of Open Wounds\n30% Increased Attack Speed\n7-10% Life Stolen Per Hit (varies)\n+35 To Mana\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Kuku Shakaku",
@@ -896,7 +926,7 @@
       "type": "Cedar Bow",
       "type2": "unique",
       "stats": "+150-180% Enhanced Damage (varies)\nFires Explosive Arrows Or Bolts [Level 7]\nPiercing Attack (50)\nAdds 40-180 Fire Damage\n+3 To Immolation Arrow (Amazon Only)\n+3 To Bow And Crossbow Skills (Amazon Only)\n(Only Spawns In Patch 1.10 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Endlesshail",
@@ -906,7 +936,7 @@
       "type": "Double Bow",
       "type2": "unique",
       "stats": "+180-220% Enhanced Damage (varies)\nAdds 15-30 Cold Damage - 3 Second Duration\nCold Resist +35%\n+50 Defense VS. Missile\n+40 To Mana\n+3-5 To Strafe (Amazon Only) (varies)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Witchwild String",
@@ -916,7 +946,7 @@
       "type": "Short Siege Bow",
       "type2": "unique",
       "stats": "+150-170% Enhanced Damage (varies)\nFires Magic Arrows [Level 20]\n2% Chance To Cast Level 5 Amplify Damage On Striking\n+ (1 Per Character Level) 1-99 % Deadly Strike (Based On Character Level)\nAll Resistances +40\nSockets (2)\n(Only Spawns In Patch 1.10 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Cliffkiller",
@@ -926,7 +956,7 @@
       "type": "Large Siege Bow",
       "type2": "unique",
       "stats": "+190-230% Enhanced Damage (varies)\nAdds (5-10)-(20-30) Damage (varies)\n+2 To Amazon Skill Levels\n+80 Defense VS. Missile\n+50 To Life\nKnockback\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Magewrath",
@@ -936,7 +966,7 @@
       "type": "Rune Bow",
       "type2": "unique",
       "stats": "+120-150% Enhanced Damage (varies)\nAdds 25-50 Damage\n+200-250 To Attack Rating (varies)\n+1 To Amazon Skill Levels\nHit Blinds Target\n15% Mana Stolen Per Hit\nMagic Damage Reduced By 9-13 (varies)\n+10 To Dexterity\n+3 Guided Arrow (Amazon Only)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Goldstrike Arch",
@@ -946,7 +976,7 @@
       "type": "Gothic Bow",
       "type2": "unique",
       "stats": "+200-250% Enhanced Damage (varies)\n+100-200% Damage To Demons (varies)\n+100-200% Damage To Undead (varies)\n50% Increased Attack Speed\n5% Chance To Cast Level 7 Fist Of Heavens On Striking\nReplenish Life +12\n+100-150% Bonus To Attack Rating (varies)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Pluckeye",
@@ -1038,7 +1068,7 @@
       "type": "Totemic Mask",
       "type2": "unique",
       "stats": "+150-200% Enhanced Defense (varies)\n30% Faster Hit Recovery\n20% Bonus To Attack Rating\n+2 To Druid Skill Levels\nAll Resistances +30\n+5 To Mana After Each Kill\n+20 To Strength\n+20 To Energy\n+2 To Shape Shifting Skills (Druid Only)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Cerebus' Bite",
@@ -1080,7 +1110,7 @@
       "type": "Slayer Guard",
       "type2": "unique",
       "stats": "+150-200% Enhanced Defense (varies)\n30% Faster Hit Recovery\n20% Bonus To Attack Rating\n+2 To Barbarian Skill Levels\n3-6% Life Stolen Per Hit (varies)\nAll Resistances +30\n+20 To Strength\n+20 To Dexterity\n+2 To Combat Skills (Barbarian Only)",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Wolfhowl",
@@ -1132,7 +1162,7 @@
       "type": "Gilded Shield",
       "type2": "unique",
       "stats": "+150-200% Enhanced Defense (varies)\n30% Increased Chance Of Blocking\n30% Faster Block Rate\n20% Bonus To Attack Rating\n+20 To Strength\n+20 To Vitality\nAll Resistances +50\n+2 To Paladin Skill Levels\n+2 To Combat Skills (Paladin Only)",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Dragonscale",
@@ -1154,7 +1184,7 @@
       "type": "Hierophant Trophy",
       "type2": "unique",
       "stats": "+150-200% Enhanced Defense (varies)\n+5 To Mana After Each Kill\n40% Increased Chance of Blocking\n30% Faster Block Rate\n+2 To Necromancer Skill Levels\n+20 To Energy\nRegenerate Mana 33%\nAll Resistances +40\n+2 To Curses Skills (Necromancer Only)",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Darkforce Spawn",
@@ -1246,7 +1276,7 @@
       "type": "Defender",
       "type2": "unique",
       "stats": "+100-150% Enhanced Defense (varies)\n30% Increased Chance of Blocking\n30% Faster Block Rate\n+1 To Sorceress Skill Levels\nAttacker Takes Lightning Damage of 10\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Moser's Blessed Circle",
@@ -1256,7 +1286,7 @@
       "type": "Round Shield",
       "type2": "unique",
       "stats": "+180-220% Enhanced Defense (varies)\n+25% Increased Chance of Blocking\n30% Faster Block Rate\nAll Resistances +25\nSocketed (2)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Stormchaser",
@@ -1266,7 +1296,7 @@
       "type": "Scutum",
       "type2": "unique",
       "stats": "+160-220% Enhanced Defense (varies)\n+20% Increased Chance of Blocking\n4% Chance To Cast Level 5 Tornado When Struck\n4% Chance To Cast Level 6 Blizzard When Struck\n10% Faster Block Rate\n+150 To Attack Rating\nLightning Resist +50%\nHalf Freeze Duration\nAdds 1-60 Lightning Damage\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Tiamat's Rebuke",
@@ -1276,7 +1306,7 @@
       "type": "Dragon Shield",
       "type2": "unique",
       "stats": "+140-200% Enhanced Defense (varies)\nAdds 27-53 Cold Damage - 6 Second Duration\nAdds 35-95 Fire Damage\nAdds 1-120 Lightning Damage\n3% Chance To Cast Level 6 Hydra When Struck\n5% Chance To Cast Level 7 Nova When Struck\n5% Chance To Cast Level 9 Frost Nova When Struck\nAll Resistances +25-35% (varies)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Lance Guard",
@@ -1286,7 +1316,7 @@
       "type": "Barbed Shield",
       "type2": "unique",
       "stats": "+70-120% Enhanced Defense (varies)\n15% Damage Taken Goes To Mana\n30% Faster Hit Recovery\n20% Deadly Strike\n+50 To Life\nAttacker Takes Damage of 47\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Gerke's Sanctuary",
@@ -1296,7 +1326,7 @@
       "type": "Pavise",
       "type2": "unique",
       "stats": "+180-240% Enhanced Defense (varies)\n+30% Increased Chance of Blocking\nAll Resistances +20-30 (varies)\nReplenish Life +15\nDamage Reduced By 11-16 (varies)\nMagic Damage Reduced By 14-18 (varies)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Lidless Wall",
@@ -1306,7 +1336,7 @@
       "type": "Grim Shield",
       "type2": "unique",
       "stats": "+80-130% Enhanced Defense (varies)\n+1 To All Skills\nIncrease Maximum Mana 10%\n20% Faster Cast Rate\n+3-5 To Mana After Each Kill (varies)\n+10 To Energy\n+1 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Radament's Sphere",
@@ -1316,7 +1346,7 @@
       "type": "Ancient Shield",
       "type2": "unique",
       "stats": "+160-200% Enhanced Defense (varies)\n+20% Increased Chance Of Blocking\n+20% Faster Block Rate\n5% Chance To Cast Level 5 Poison Nova When Struck\nLevel 6 Poison Explosion (40 Charges)\nPoison Resist +75%\n+80 Poison Damage Over 4 Seconds\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Pelta Lunata",
@@ -1488,7 +1518,7 @@
       "type": "Hatchet",
       "type2": "unique",
       "stats": "+150-190% Enhanced Damage (varies)\n30% Increased Attack Speed\n10% Chance To Cast Level 10 Ice Blast On Striking\n10% Chance To Cast Level 5 Frost Nova When Struck\n+40 Cold Damage - 2 Second Duration\n15% To Maximum Cold Resist\nCold Resist +15%\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Butcher's Pupil",
@@ -1498,7 +1528,7 @@
       "type": "Cleaver",
       "type2": "unique",
       "stats": "+150-200% Enhanced Damage (varies)\nAdds 30-50 Damage\n35% Deadly Strike\n25% Chance of Open Wounds\n30% Increased Attack Speed\nIndestructible\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Islestrike",
@@ -1508,7 +1538,7 @@
       "type": "Twin Axe",
       "type2": "unique",
       "stats": "+170-190% Enhanced Damage (varies)\n25% Chance of Crushing Blow\n+2 To Druid Skill Levels\n+50 Defense VS. Missile\n+10 To All Attributes\n+1 Fury (Druid Only)\n+1 Maul (Druid Only)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Pompeii's Wrath",
@@ -1518,7 +1548,7 @@
       "type": "Crowbill",
       "type2": "unique",
       "stats": "+140-170% Enhanced Damage (varies)\nAdds 35-150 Fire Damage\nSlows Target By 50%\n4% Chance To Cast Level 8 Volcano On Striking\nKnockback\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Guardian Naga",
@@ -1528,7 +1558,7 @@
       "type": "Naga",
       "type2": "unique",
       "stats": "+150-180% Enhanced Damage (varies)\n+20 To Maximum Damage\n+250 Poison Damage Over 10 Seconds\n5% Chance To Cast Level 8 Poison Nova On Striking\nPoison Resist +30%\nAttacker Takes Damage of 15\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Warlord's Trust",
@@ -1538,7 +1568,7 @@
       "type": "Military Axe",
       "type2": "unique",
       "stats": "+175% Enhanced Damage\nRepairs 1 Durability In 4 Seconds\n+ (0.5 Per Character Level) 0-49 To Vitality (Based On Character Level)\nReplenish Life +20\nAll Resistances +10\n+75 Defense\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Spellsteel",
@@ -1548,7 +1578,7 @@
       "type": "Bearded Axe",
       "type2": "unique",
       "stats": "+165% Enhanced Damage\n10% Faster Cast Rate\nRequirements -60%\nRegenerate Mana 25%\n+100 To Mana\nLevel 12 Firestorm (60 Charges)\nLevel 10 Holy Bolt (100 Charges)\nLevel 3 Decrepify (30 Charges)\nLevel l Teleport (20 Charges)\nMagic Damage Reduced By 12-15 (varies)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Stormrider",
@@ -1558,7 +1588,7 @@
       "type": "Tabar",
       "type2": "unique",
       "stats": "+100% Enhanced Damage\nAdds 35-75 Damage\nAdds 1-200 Lightning Damage\n15% Chance To Cast Level 5 Charged Bolt When Struck\n10% Chance To Cast Level 13-20 Charged Bolt On Striking (varies)\n5% Chance To Cast Level 10 Chain Lightning On Striking\nAttacker Takes Lightning Damage Of 15\n(Only Spawns In Patch 1.10 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Boneslayer Blade",
@@ -1568,7 +1598,7 @@
       "type": "Gothic Axe",
       "type2": "unique",
       "stats": "+180-220% Enhanced Damage(varies)\n+ (5 Per Character Level) 5-495 To Attack Rating Against Undead (Based On Character Level)\n+ (2.5 Per Character Level) 2-247 % Damage To Undead (Based On Character Level)\n50% Chance To Cast Level 12-20 Holy Bolt When Struck (varies)\nLevel 20 Holy Bolt (200 Charges)\n20% Increased Attack Speed\n35% Bonus To Attack Rating\n+8 To Strength\n(Only Spawns In Patch 1.10 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "The Minotaur",
@@ -1578,7 +1608,7 @@
       "type": "Ancient Axe",
       "type2": "unique",
       "stats": "+140-200% Enhanced Damage (varies)\nAdds 20-30 Damage\nSlows Target By 50%\n30% Chance of Crushing Blow\nHit Blinds Target +2\nHalf Freeze Duration\n+15-20 To Strength (varies)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "The Gnasher",
@@ -1720,7 +1750,7 @@
       "type": "Battle Dart",
       "type2": "unique",
       "stats": "+130-180% Enhanced Damage (varies)\n40% Deadly Strike\n+200-450 To Attack Rating (varies)\n7-9% Life Stolen Per Hit (varies)\n4-6% Mana Stolen Per Hit (varies)\nReplenishes Quantity [1 in 4 sec.]\n(Only Spawns In Patch 1.10 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "The Scalper",
@@ -1730,7 +1760,7 @@
       "type": "Francisca",
       "type2": "unique",
       "stats": "+150-200% Enhanced Damage (varies)\n33% Chance Of Open Wounds\n+4 To Mana After Each Kill\n20% Increased Attack Speed\n25% Bonus To Attack Rating\n4-6% Life Stolen Per Hit (varies)\nReplenishes Quantity [1 in 3 sec.]",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     }
   ],
   "belts": [
@@ -1772,7 +1802,7 @@
       "type": "Demonhide Sash",
       "type2": "unique",
       "stats": "+150-180% Enhanced Defense (varies)\n+15 Defense\n6-8% Life Stolen Per Hit (varies)\nDamage Reduced By 10-15% (varies)\nMagic Damage Reduced 10-15 (varies)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Razortail",
@@ -1782,7 +1812,7 @@
       "type": "Sharkskin Belt",
       "type2": "unique",
       "stats": "+120-150% Enhanced Defense (varies)\n+15 Defense\n+10 To Maximum Damage\nPiercing Attack (33)\n+15 To Dexterity\nAttacker Takes Damage of (1 Per Character Level) 1-99 (Based On Character Level)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Gloom's Trap",
@@ -1792,7 +1822,7 @@
       "type": "Mesh Belt",
       "type2": "unique",
       "stats": "+120-150% Enhanced Defense (varies)\n5% Mana Stolen Per Hit\nIncrease Maximum Mana 15%\nRegenerate Mana 15%\n+15 To Vitality\n-3 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Snowclash",
@@ -1802,7 +1832,7 @@
       "type": "Battle Belt",
       "type2": "unique",
       "stats": "+130-170% Enhanced Defense (varies)\n5% Chance To Cast Level 7-19 Blizzard When Struck (varies)\n+15 Cold Absorb\n15% To Maximum Cold Resist\nAdds 13-21 Cold Damage @ 3 sec. duration (Normal)\n+2 To Chilling Armor (Sorceress Only)\n+2 To Blizzard (Sorceress Only)\n+3 To Glacial Spike (Sorceress Only)\n(Only Spawns In Patch 1.10 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Thundersgod's Vigor",
@@ -1812,7 +1842,7 @@
       "type": "War Belt",
       "type2": "unique",
       "stats": "+160-200% Enhanced Defense (varies)\nAdds 1-50 Lightning Damage\n5% Chance To Cast Level 7 Fist Of The Heavens When Struck\n+20 Lightning Absorb\n10% To Maximum Lightning Resist\n+20 To Strength\n+20 To Vitality\n+3 To Lightning Fury (Amazon Only)\n+3 To Lightning Strike (Amazon Only)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Lenymo",
@@ -1904,7 +1934,7 @@
     "type": "Demonhide Boots",
     "type2": "unique",
     "stats": "5% Chance To Cast Level 8 Blaze When Struck\n20% Faster Run/Walk\nAdds 12-33 Fire Damage\n+120-150% Enhanced Defense (varies)\n+15 Defense\n10% To Maximum Fire Resist\nFire Resist +30%\n40-70% Extra Gold From Monsters (varies)\n+2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
-    "difficulty": "exeptional"
+    "difficulty": "exceptional"
   },
   {
     "name": "Waterwalk",
@@ -1914,7 +1944,7 @@
     "type": "Sharkskin Boots",
     "type2": "unique",
     "stats": "+180-210% Enhanced Defense (varies)\n20% Faster Run/Walk\n+100 Defense Vs. Missile\n+15 To Dexterity\n+5% Maximum Fire Resist\nHeal Stamina Plus 50%\n+40 Max Stamina\n+45-65 To Life (varies)\n(Only Spawns In Patch 1.09 or later) ",
-    "difficulty": "exeptional"
+    "difficulty": "exceptional"
   },
   {
     "name": "Silkweave",
@@ -1924,7 +1954,7 @@
     "type": "Mesh Boots",
     "type2": "unique",
     "stats": "+150-190% Enhanced Defense (varies)\n30% Faster Run/Walk\n+5 To Mana After Each Kill\nIncrease Maximum Mana 10%\n+200 Defense VS. Missile\n(Only Spawns In Patch 1.09 or later) ",
-    "difficulty": "exeptional"
+    "difficulty": "exceptional"
   },
   {
     "name": "War Travelers",
@@ -1934,7 +1964,7 @@
     "type": "Battle Boots",
     "type2": "unique",
     "stats": "+150-190% Enhanced Defense (varies)\n25% Faster Run/Walk\n+10 To Vitality\n+10 To Strength\nAdds 15-25 Damage\n40% Slower Stamina Drain\nAttacker Takes Damage Of 5-10 (varies)\n30-50% Better Chance of Getting Magic Items (varies)\n(Only Spawns In Patch 1.09 or later) ",
-    "difficulty": "exeptional"
+    "difficulty": "exceptional"
   },
   {
     "name": "Gore Rider",
@@ -1944,7 +1974,7 @@
     "type": "War Boots",
     "type2": "unique",
     "stats": "+160-200% Enhanced Defense (varies)\n30% Faster Run/Walk\n10% Chance Of Open Wounds\n15% Chance Of Crushing Blow\n15% Deadly Strike\nRequirements -25%\n+20 Maximum Stamina\n(Only Spawns In Patch 1.09 or later) ",
-    "difficulty": "exeptional"
+    "difficulty": "exceptional"
   },
   {
     "name": "Hotsput",
@@ -2056,7 +2086,7 @@
       "type": "Demonhide Gloves",
       "type2": "unique",
       "stats": "+130-160% Enhanced Defense (varies)\n+15-25 Defense (varies)\n5% Chance of Crushing Blow\n+60 Poison Damage Over 4 Seconds\n5% Life Stolen Per Hit\n5% To Maximum Poison Resist\nPoison Resist +30%\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Gravepalm",
@@ -2066,7 +2096,7 @@
       "type": "Sharkskin Gloves",
       "type2": "unique",
       "stats": "+140-180% Enhanced Defense (varies)\n+100-200% Damage To Undead (varies)\n+100-200 To Attack Rating Against Undead(varies)\n+10 To Energy\n+10 To Strength\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Ghoulhide",
@@ -2076,7 +2106,7 @@
       "type": "Heavy Bracers",
       "type2": "unique",
       "stats": "+150-190% Enhanced Defense (varies)\n+ (8 Per Character Level) 8-792 To Attack Rating Against Undead (Based On Character Level)\n+ (2 Per Character Level) 2-198 % Damage To Undead (Based On Character Level)\n4-5% Mana Stolen Per Hit (varies)\n+20 To Life\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Lava Gout",
@@ -2086,7 +2116,7 @@
       "type": "Battle Gauntlets",
       "type2": "unique",
       "stats": "+150-200% Enhanced Defense (varies)\n2% Chance To Cast Level 10 Enchant On Striking\nHalf Freeze Duration\nAdds 13-46 Fire Damage\n+20% Increased Attack Speed\nFire Resist +24%\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Hellmouth",
@@ -2096,7 +2126,7 @@
       "type": "War Gountlets",
       "type2": "unique",
       "stats": "+150-200% Enhanced Defense (varies)\n4% Chance To Cast Level 12 Firestorm On Striking\n2% Chance To Cast Level 4 Meteor On Striking\n+15 Fire Absorb\nAdds 15-72 Fire Damage\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Dracul's Grasp",
@@ -2288,7 +2318,7 @@
       "type": "Ghost Armor",
       "type2": "unique",
       "stats": "+150% Enhanced Defense\nCannot Be Frozen\n+1 To All Skills\nReplenish Life +10\nMagic Damage Reduced By 7-11 (varies)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Skin of the Vipermagi",
@@ -2298,7 +2328,7 @@
       "type": "Serpentskin Armor",
       "type2": "unique",
       "stats": "+120% Enhanced Defense\n+1 To All Skills\n30% Faster Cast Rate\nMagic Damage Reduced By 9-13 (varies)\nAll Resistances +20-35 (varies)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Skin of the Flayed One",
@@ -2308,7 +2338,7 @@
       "type": "Demonhide Armor",
       "type2": "unique",
       "stats": "+150-190% Enhanced Defense (varies)\nRepairs 1 Durability In 10 Seconds\n5-7% Life Stolen Per Hit (varies)\nReplenish Life +15-25 (varies)\nAttacker Takes Damage of 15\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Iron Pelt",
@@ -2318,7 +2348,7 @@
       "type": "Trelised Armor",
       "type2": "unique",
       "stats": "+50-100% Enhanced Defense (varies)\n+ (3 Per Character Level) 3-297 Defense (Based On Character Level)\nDamage Reduced by 15-20 (varies)\nMagic Damage Reduced by 10-16 (varies)\n+25 To Life\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Crow Caw",
@@ -2328,7 +2358,7 @@
       "type": "Tigulated Mail",
       "type2": "unique",
       "stats": "+150-180% Enhanced Defense (varies)\n15% Increased Attack Speed\n15% Faster Hit Recovery\n35% Chance of Open Wounds\n+15 Dexterity\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Spirit Forge",
@@ -2338,7 +2368,7 @@
       "type": "Linked Mail",
       "type2": "unique",
       "stats": "+120-160% Enhanced Defense (varies)\n+ (1.25 Per Character Level) 1-123 Life (Based On Character Level)\nFire Resist +5%\nAdds 20-65 Fire Damage\n+15 To Strength\nGem Sockets (2)\n+4 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Duriel's Shell",
@@ -2348,7 +2378,7 @@
       "type": "Cuirass",
       "type2": "unique",
       "stats": "+160-200% Enhanced Defense (varies)\n+ (1.25 Per Character Level) 1-123 Defense (Based On Character Level)\n+ (1 Per Character Level) 1-99 To Life (Based On Character Level)\nResist Fire +20%\nResist Lightning +20%\nResist Poison +20%\nResist Cold +50%\nCannot Be Frozen\n+15 To Strength\n(Only Spawns In Patch 1.09 or later)",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Shaftstop",
@@ -2358,7 +2388,7 @@
       "type": "Mesh Armor",
       "type2": "unique",
       "stats": "+180-220% Enhanced Defense (varies)\nDamage Reduced By 30%\n+250 Defense Vs. Missile\n+60 To Life\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Skullder's Ire",
@@ -2368,7 +2398,7 @@
       "type": "Russet Armor",
       "type2": "unique",
       "stats": "Defense: 634-732 (varies)(Base Defense: 225-243)\nRequired Level: 42\nRequired Strength: 97\nDurability: 90\n+160-200% Enhanced Defense (varies)\nRepairs 1 Durability In 5 Seconds\n+ (1.25 Per Character Level) 1-123 % Better Chance Of Getting Magic Items (Based On Character Level)\n+1 To All Skill Levels\nMagic Damage Reduced By 10\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Que-Hegan's Wisdom",
@@ -2378,7 +2408,7 @@
       "type": "Mage Plate",
       "type2": "unique",
       "stats": "+140-160% Enhanced Defense (varies)\n+1 To All Skill Levels\n+3 To Mana After Each Kill\n20% Faster Cast Rate\n20% Faster Hit Recovery\nMagic Damage Reduced By 6-10 (varies)\n+15 To Energy\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Toothrow",
@@ -2388,7 +2418,7 @@
       "type": "Sharktooth Armor",
       "type2": "unique",
       "stats": "+160-220% Enhanced Defense (varies)\n+40-60 Defense(varies)\n40% Chance of Open Wounds\nFire Resist +15%\n+10 Strength\nAttacker Takes Damage of 20-40 (varies)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Guardian Angel",
@@ -2398,7 +2428,7 @@
       "type": "Templar Coat",
       "type2": "unique",
       "stats": "+180-200% Enhanced Defense (varies)\n+20% Increased Chance Of Blocking\n+30% Faster Block Rate\n+ (2.5 Per Character Level) 2-247 To Attack Rating Against Demons (Based On Character Level)\n+1 To Paladin Skill Levels\n+4 To Light Radius\n15% To Maximum Poison Resist\n15% To Maximum Cold Resist\n15% To Maximum Lightning Resist\n15% To Maximum Fire Resist\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Atma's Wail",
@@ -2408,7 +2438,7 @@
       "type": "Embossed Plate",
       "type2": "unique",
       "stats": "+120-160% Enhanced Defense (varies)\n+ (2 Per Character Level) 2-198 Defense (Based On Character Level)\n30% Faster Hit Recovery\nReplenish Life +10\nIncrease Maximum Mana 15%\n+15 To Dexterity\n+20% Better Chance Of Getting Magic Items\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Black Hades",
@@ -2418,7 +2448,7 @@
       "type": "Chaos Armor",
       "type2": "unique",
       "stats": "+140-200% Enhanced Defense (varies)\n+30-60% Damage To Demons (varies)\n+200-250 To Attack Rating Against Demons (varies)\nHalf Freeze Duration\nGem Socket (3)\n-2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Corpsemourn",
@@ -2428,7 +2458,7 @@
       "type": "Ornate Plate",
       "type2": "unique",
       "stats": "+150-180% Enhanced Defense (varies)\nLevel 5 Corpse Explosion (40 Charges)\nAdds 12-36 Fire Damage\n6% Chance To Cast Level 2 Iron Maiden When Struck\nCold Resist +35%\n+10 To Vitality\n+8 To Strength\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Ormus Robes",
@@ -2590,7 +2620,7 @@
       "type": "War Hat",
       "type2": "unique",
       "stats": "+100% Enhanced Defense\n+1 To All Skills\n15% Faster Run/Walk\nReplenish Life +6-12 (varies)\n+20 To Energy\n+20 To Vitality\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {"name": "Rockstopper",
       "requiredLVL": "31",
@@ -2599,7 +2629,7 @@
       "type": "Sallet",
       "type2": "unique",
       "stats": "+160-220% Enhanced Defense (varies)\nDamage Reduced By 10%\n30% Faster Hit Recovery\nCold Resist +20-40% (varies)\nFire Resist +20-50% (varies)\nLightning Resist +20-40% (varies)\n+15 To Vitality\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {"name": "Stealskull",
       "requiredLVL": "35",
@@ -2608,7 +2638,7 @@
       "type": "Casque",
       "type2": "unique",
       "stats": "+200-240% Enhanced Defense (varies)\n10% Increased Attack speed\n10% Faster Hit Recovery\n5% Life Stolen Per Hit\n5% Mana Stolen Per Hit\n30-50% Better Chance of Getting Magic Items (varies)",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {"name": "Darksight Helm",
       "requiredLVL": "38",
@@ -2617,7 +2647,7 @@
       "type": "Basinet",
       "type2": "unique",
       "stats": "+ (2 Per Character Level) 2-198 Defense (Based On Character Level)\n6% Chance To Cast Level 3 Dim Vision When Struck\nLevel 5 Cloak of Shadows (30 Charges)\nCannot Be Frozen\nFire Resist +20-40% (varies)\n5% Mana Stolen Per Hit\n-4 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {"name": "Valkyrie Wing",
       "requiredLVL": "44",
@@ -2626,7 +2656,7 @@
       "type": "Winged Helm",
       "type2": "unique",
       "stats": "+150-200% Defense (varies)\n+1-2 To Amazon Skill Levels (varies)\n20% Faster Run/Walk\n20% Faster Hit Recovery\n+2-4 To Mana After Each Kill (varies)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {"name": "Blackhorn's Face",
       "requiredLVL": "41",
@@ -2635,7 +2665,7 @@
       "type": "Death Mask",
       "type2": "unique",
       "stats": "+180-220% Enhanced Defense (varies)\nSlows Target By 20%\nAttacker Takes Lightning Damage of 25\nPrevent Monster Heal\n+20 Lightning Absorb\nLightning Resist +15%\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {"name": "Crown of Thieves",
       "requiredLVL": "49",
@@ -2644,7 +2674,7 @@
       "type": "Grand Crown",
       "type2": "unique",
       "stats": "+160-200% Enhanced Defense (varies)\n9-12% Life Stolen Per Hit (varies)\nFire Resist +33%\n+35 To Mana\n+50 To Life\n+25 To Dexterity\n80-100% Extra Gold From Monsters (varies)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {"name": "Vampire Gaze",
       "requiredLVL": "41",
@@ -2653,7 +2683,7 @@
       "type": "Grim Helm",
       "type2": "unique",
       "stats": "+100% Enhanced Defense\nAdds 6-22 Cold Damage - 4 Second Duration\n15% Slower Stamina Drain\n6-8% Life Stolen Per Hit (varies)\n6-8% Mana Stolen Per Hit (varies)\nDamage Reduced By 15-20% (varies)\nMagic Damage Reduced By 10-15 (varies)\n(Only Spawns In Patch 1.09 or later) ",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Kira's Guardian",
@@ -2663,7 +2693,7 @@
       "type": "Tiara",
       "type2": "unique",
       "stats": "+50-120 Defense (varies)\n+20% Faster Hit Recovery\nCannot Be Frozen\nAll Resistances +50-70 (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
-      "difficulty": "exeptional"
+      "difficulty": "exceptional"
     },
     {
       "name": "Griffon's Eye",
