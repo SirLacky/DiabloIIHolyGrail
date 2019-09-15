@@ -1,5 +1,35 @@
 {
-  "sceoters": [
+  "scepters": [
+    {
+      "name": "Heaven's Light",
+      "requiredLVL": "61",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/scepter.gif",
+      "description": "some item description",
+      "type": "Mighty Scepter",
+      "type2": "unique",
+      "stats": "+250-300% Enhanced Damage (varies)\n+50% Damage To Undead\n-33% Target Defense\n+20% Increased Attack Speed\n33% Chance of Crushing Blow\n+15-20 Life After Each Demon Kill (varies)\n+2-3 To Paladin Skill Levels (varies)\n+3 To Light Radius\nSocketed (1-2) (varies)*\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "The Redeemer",
+      "requiredLVL": "72",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/scepter.gif",
+      "description": "some item description",
+      "type": "Mighty Scepter",
+      "type2": "unique",
+      "stats": "+250-300% Enhanced Damage (varies)\nDamage +60-120 (varies)\n+50% Damage To Undead\n+200-250% Damage To Demons (varies)\n+2 To Paladin Skill Levels\n-33% Target Defense\n+2-4 To Redemption (Paladin Only) (varies)\n+2-4 To Holy Bolt (Paladin Only) (varies)\n+3 To Light Radius\nRequirements -60%\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Astreon's Iron Ward",
+      "requiredLVL": "66",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/warscepter.gif",
+      "description": "some item description",
+      "type": "Caduceus",
+      "type2": "unique",
+      "stats": "+240-290% Enhanced Damage (varies)\nDamage +40-85 (varies)\n+50% Damage To Undead\nAdds 80-240 Magic Damage\n33% Chance of Crushing Blow\nSlows Target By 25%\nDamage Reduced By 4-7 (varies)\n+2-4 To Combat Skills (Paladin Only) (varies)\n+10% Increased Attack Speed\n150-200% Bonus To Attack Rating (varies)\n(Only Spawns In Patch 1.10 or later) ",
+      "difficulty": "elite"
+    },
     {
       "name": "Zakarum's Hand",
       "requiredLVL": "37",
