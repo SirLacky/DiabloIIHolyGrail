@@ -1,4 +1,56 @@
 {
+  "spears" : [
+    {
+      "name": "The Dragon Chang",
+      "requiredLVL": "8",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/thedragonchang.gif",
+      "description": "some item description",
+      "type": "Spear",
+      "type2": "unique",
+      "stats": "+100% Damage To Undead\n+10 to Minimum Damage\nAdds 3-6 Fire Damage\n+35 to Attack Rating\n+2 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Razortine",
+      "requiredLVL": "12",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/razortine.gif",
+      "description": "some item description",
+      "type": "Trident",
+      "type2": "unique",
+      "stats": "+30-50% Enhanced Damage (varies)\nSlows Target By 25%*\n30% Increased Attack Speed\n50% target defense*\n+8 To Dexterity\n+15 To Strength\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Bloodthief",
+      "requiredLVL": "17",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/bloodthief.gif",
+      "description": "some item description",
+      "type": "Brandistock",
+      "type2": "unique",
+      "stats": "+50-70% Enhanced Damage (varies)\n35% Chance of Open Wounds*\n8-12% Life stolen per hit (varies)\n+26 to Life\n+10 to Strength\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Lance of Yaggai",
+      "requiredLVL": "22",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/lanceofyaggai.gif",
+      "description": "some item description",
+      "type": "Spetum",
+      "type2": "unique",
+      "stats": "Adds 1-60 Lightning Damage\nAll Resistances +15\n40% Increased Attack Speed\nAttacker takes damage of 8\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "The Tannr Gorerod",
+      "requiredLVL": "27",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/thetannrgorerod.gif",
+      "description": "some item description",
+      "type": "Pike",
+      "type2": "unique",
+      "stats": "+80-100% Enhanced Damage (varies)\nAdds 23-54 Fire Damage\n+60 to Attack Rating\nFire Resist +15%\n15% To Maximum Fire Resist\n+30 to Life\n+3 To Light Radius\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "normal"
+    }
+  ],
   "scepters": [
     {
       "name": "Heaven's Light",
