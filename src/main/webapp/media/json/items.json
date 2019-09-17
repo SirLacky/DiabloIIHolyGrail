@@ -1,6 +1,56 @@
 {
   "spears" : [
     {
+      "name": "The Impaler",
+      "requiredLVL": "31",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/impaler.gif",
+      "description": "some item description",
+      "type": "War Spear",
+      "type2": "unique",
+      "stats": "+140-170% Enhanced Damage (varies)\n40% Chance Of Open Wounds\n+20% Increased Attack Speed\nIgnore Target's Defense\n+150 To Attack Rating\nPrevent Monster Heal\n+5 To Impale (Amazon Only)\n+3 To Power Strike (Amazon Only)\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Kelpie Snare",
+      "requiredLVL": "33",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/razortine.gif",
+      "description": "some item description",
+      "type": "Fuscina",
+      "type2": "unique",
+      "stats": "+140-180% Enhanced Damage (varies)\nAdds 30-50 Damage\nSlows Target By 75%\n+ (1.25 Per Character Level) 1-123 To Life (Based On Character Level)\nFire Resist +50%\n+10 To Strength\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Soulfeast Tine",
+      "requiredLVL": "35",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/soulfeastine.gif",
+      "description": "some item description",
+      "type": "War Fork",
+      "type2": "unique",
+      "stats": "+150-190% Enhanced Damage (varies)\n+150-250 To Attack Rating (varies)\nRequirements -20%\n7% Life Stolen Per Hit\n7% Mana Stolen Per Hit\n20% Slower Stamina Drain\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Hone Sundan",
+      "requiredLVL": "37",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/lanceofyaggai.gif",
+      "description": "some item description",
+      "type": "Yari",
+      "type2": "unique",
+      "stats": "+160-200% Enhanced Damage (varies)\nAdds 20-40 Damage\n45% Chance of Crushing Blow\nRepairs 1 Durability In 10 Seconds\nSocketed (3)\n(Only Spawns In Patch 1.09 or later) ",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Spire of Honor",
+      "requiredLVL": "39",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/thetannrgorerod.gif",
+      "description": "some item description",
+      "type": "Lance",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Damage (varies)\nAdds 20-40 Damage\n+ (1.5 Per Character Level) 1-148 % Damage To Demons (Based On Character Level)\n20% Faster Hit Recovery\nReplenish Life +20\n+25% Bonus To Attack Rating\n+25% Enhanced Defense\n+3 To Combat Skills (Paladin Only)\n+3 To Light Radius\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
       "name": "The Dragon Chang",
       "requiredLVL": "8",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/thedragonchang.gif",
