@@ -1,4 +1,56 @@
 {
+  "staves": [
+    {
+      "name": "Short Staff",
+      "requiredLVL": "5",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/baneash.gif",
+      "description": "some item description",
+      "type": "Short Staff",
+      "type2": "unique",
+      "stats": "+50-60% Enhanced Damage (varies)\n+50% Damage To Undead\n20% Increased Attack Speed\n+30 To Mana\nFire Resist +50%\nAdds 4-6 Fire Damage\n+5 To Fire Bolt (Sorceress Only)\n+2 To Warmth (Sorceress Only)\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Serpent Lord",
+      "requiredLVL": "9",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/serpentlord.gif",
+      "description": "some item description",
+      "type": "Long Staff",
+      "type2": "unique",
+      "stats": "+30-40% Enhanced Damage (varies)\n+50% Damage To Undead\n+12 Poison Damage Over 3 Seconds\n100% Mana Stolen Per Hit (Yes that's correct!)\n-50% Target Defense\n+10 to Mana\nPoison Resist +50%\n-1 To Light Radius\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Spire of Lazarus",
+      "requiredLVL": "18",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/lazarusspire.gif",
+      "description": "some item description",
+      "type": "Gnarled Staff",
+      "type2": "unique",
+      "stats": "+50% Damage To Undead\nAdds 1-28 Lightning Damage\n+1 To Sorceress Skill Levels\n+2 To Lightning (Sorceress Only)\n+1 To Chain Lightning (Sorceress Only)\n+3 To Static Field (Sorceress Only)\nRegenerate Mana 43%\n+15 To Energy\nDamage Reduced By 5\nLightning Resist +75%\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "The Salamander",
+      "requiredLVL": "21",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/thesalamander.gif",
+      "description": "some item description",
+      "type": "Battle Staff",
+      "type2": "unique",
+      "stats": "+50% Damage To Undead\nAdds 15-32 Fire Damage\nFire Resist +30%\n+2 To Fire Skills*\n+3 To Warmth (Sorceress Only)\n+2 To Fire Ball (Sorceress Only)\n+1 To Fire Wall (Sorceress Only)\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "The Iron Jand Bong",
+      "requiredLVL": "28",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/theironlangbong.gif",
+      "description": "some item description",
+      "type": "War Staff",
+      "type2": "unique",
+      "stats": "+100% Enhanced Damage\n+50% Damage To Undead\n50% bonus to Attack Rating\n20% Faster Cast Rate\n+2 to Sorceress Skill Levels\n+3 To Frost Nova (Sorceress Only)\n+2 To Blaze (Sorceress Only)\n+2 To Nova (Sorceress Only)\n+30 Defense\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "normal"
+    }
+  ],
   "spears" : [
     {
       "name": "Arioc's Needle",
