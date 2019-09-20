@@ -1,6 +1,56 @@
 {
   "staves": [
     {
+      "name": "Razorswitch",
+      "requiredLVL": "28",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/shortstaff.gif",
+      "description": "some item description",
+      "type": "Jo Staff",
+      "type2": "unique",
+      "stats": "+50% Damage To Undead\n+1 To All Skills\n30% Faster Cast Rate\nMagic Damage Reduced By 15\nAll Resistances +50\n+175 To Mana\n+80 To Life\nAttacker Takes Damage Of 15\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Ribcracker",
+      "requiredLVL": "31",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/ribcracker.gif",
+      "description": "some item description",
+      "type": "Quarterstaff",
+      "type2": "unique",
+      "stats": "+200-300% Enhanced Damage (varies)\nAdds 30-65 Damage\n+50% Damage To Undead\n50% Chance Of Crushing Blow\n50% Increased Attack Speed\n50% Faster Hit Recovery\n+100% Enhanced Defense\n+100 Defense\n+15 To Dexterity\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Cgromatic Ire",
+      "requiredLVL": "35",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/lazarusspire.gif",
+      "description": "some item description",
+      "type": "Cedar Staff",
+      "type2": "unique",
+      "stats": "+50% Damage To Undead\n20% Faster Cast Rate\n+3 To Sorceress Skill Levels\nIncrease Maximum Life 20-25% (varies)\nAll Resistances +20-40(varies)\nAttacker Takes Lightning Damage Of 20\n+1 To Cold Mastery (Sorceress Only)\n+1 To Lightning Mastery (Sorceress Only)\n+1 To Fire Mastery (Sorceress Only)\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Warpspear",
+      "requiredLVL": "39",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/warpspear.gif",
+      "description": "some item description",
+      "type": "Gothic Staff",
+      "type2": "unique",
+      "stats": "+50% Damage To Undead\nIgnore Target's Defense\n+250 Defense Vs. Missiles\n+3 To Sorceress Skill Levels\n+3 To Energy Shield (Sorceress Only)\n+3 To Telekinesis (Sorceress Only)\n+3 To Teleport (Sorceress Only)\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Shull Collector",
+      "requiredLVL": "41",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/skullcollector.gif",
+      "description": "some item description",
+      "type": "Rune Staff",
+      "type2": "unique",
+      "stats": "+50% Damage To Undead\n+20 To Mana After Each Kill\nIncrease Maximum Mana 20%\n+ (1 Per Character Level) 1-99% Better Chance Of Getting Magic Items (Based On Character Level)\n+2 To All Skills\n(Only Spawns In Patch 1.09 or later",
+      "difficulty": "exceptional"
+    },
+    {
       "name": "Short Staff",
       "requiredLVL": "5",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/baneash.gif",
