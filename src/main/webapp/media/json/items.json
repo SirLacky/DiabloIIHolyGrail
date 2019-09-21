@@ -1,6 +1,26 @@
 {
   "staves": [
     {
+      "name": "Ondal's Wisdom",
+      "requiredLVL": "66",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/uniques/lazarusspire.gif",
+      "description": "some item description",
+      "type": "Elder Staff",
+      "type2": "unique",
+      "stats": "+2-4 To All Skills (varies)\n+45% Faster Cast Rate\n+450-550 Defense (varies)\n+40-50 To Energy (varies)\nMagic Damage Reduced by 5-8 (varies)\n+5% To Experience Gained\n+50% Damage To Undead\n(Only Spawns In Patch 1.10 or later)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Mang Song's Lesson",
+      "requiredLVL": "82",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/mangsongslesson.gif",
+      "description": "some item description",
+      "type": "Archon Staff",
+      "type2": "unique",
+      "stats": "+5 To All Skills\n+30% Faster Cast Rate\n-(7-15)% To Enemy Lightning Resistances (varies)\n-(7-15)% To Enemy Cold Resistances (varies)\n-(7-15)% To Enemy Fire Resistances (varies)\nRegenerate Mana 10%\n+50% Damage To Undead\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
+      "difficulty": "elite"
+    },
+    {
       "name": "Razorswitch",
       "requiredLVL": "28",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/shortstaff.gif",
