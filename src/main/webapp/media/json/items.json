@@ -1,6 +1,46 @@
 {
   "wands" : [
     {
+      "name": "Suicide Branch",
+      "requiredLVL": "33",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/wand.gif",
+      "description": "some item description",
+      "type": "Burnt Wand",
+      "type2": "unique",
+      "stats": "+50% Damage To Undead\n+1 To All Skills\n50% Faster Cast Rate\nIncrease Maximum Mana 10%\nAll Resistances +10\n+40 To Life\nAttacker Takes Damage of 25\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Carin Shard",
+      "requiredLVL": "35",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/maelstromwrath.gif",
+      "description": "some item description",
+      "type": "Petrified Wand",
+      "type2": "unique",
+      "stats": "+50% Damage To Undead\n+ (1.25 Per Character Level) 1-123 To Mana (Based On Character Level)\n+ (1.25 Per Character Level) 1-123 To Life (Based On Character Level)\n+1 To Necromancer Skill Levels\n+2 To Summoning Skills (Necromancer Only)\n10% Faster Cast Rate\n30% Faster Hit Recovery\nReplenish Life +5\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Arm of King Leoric",
+      "requiredLVL": "36",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/gravenspine.gif",
+      "description": "some item description",
+      "type": "Tomb Wand",
+      "type2": "unique",
+      "stats": "+50% Damage To Undead\n10% Chance To Cast Level 2 Bone Prison When Struck\n5% Chance To Cast Level 10 Bone Spirit When Struck\n+ (1.25 Per Character Level) 1-123 To Mana (Based On Character Level)\n10% Faster Cast Rate\n+2 To Terror (Necromancer Only)\n+2 To Raise Skeletal Mage (Necromancer Only)\n+3 To Skeleton Mastery (Necromancer Only)\n+3 To Raise Skeleton (Necromancer Only)\n+2 To Summoning Skills (Necromancer Only)\n+2 To Poison And Bone Skills (Necromancer Only)\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Blackhand Key",
+      "requiredLVL": "41",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/blackhandkey.gif",
+      "description": "some item description",
+      "type": "Grave Wand",
+      "type2": "unique",
+      "stats": "+50% Damage To Undead\n+2 To Necromancer Skill Levels\n+1 To Curses (Necromancer Only)\n20% Damage Taken Goes To Mana\n30% Faster Cast Rate\nFire Resist +37%\n+50 To Life\nLevel 13 Grim Ward (30 Charges)\n-2 To Light Radius\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
       "name": "Torch of Iro",
       "requiredLVL": "5",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/irostorch.gif",
