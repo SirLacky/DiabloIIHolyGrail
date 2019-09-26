@@ -1,6 +1,146 @@
 {
   "swords": [
     {
+      "name": "Bloodletter",
+      "requiredLVL": "30",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/rixotskeen.gif",
+      "description": "some item description",
+      "type": "Gladius",
+      "type2": "unique",
+      "stats": "+140% Enhanced Damage\nAdds 12-45 Damage\n+90 To Attack Rating\n20% Increased Attack Speed\n10% Slower Stamina Drain\n8% Life Stolen Per Hit\n+1-3 To Whirlwind (Barbarian Only) (varies)\n+2-4 To Sword Mastery (Barbarian Only) (varies)\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Coldsteel Eye",
+      "requiredLVL": "31",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/bloodcrescent.gif",
+      "description": "some item description",
+      "type": "Cutlass",
+      "type2": "unique",
+      "stats": "+200-250% Enhanced Damage (varies)\n50% Chance Of Deadly Strike\n20% Increased Attack Speed\n6% Mana Stolen Per Hit\nSlows Target By 30%\nHit Blinds Target\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Hexfire",
+      "requiredLVL": "33",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/krintizskewer.gif",
+      "description": "some item description",
+      "type": "Shamshir",
+      "type2": "unique",
+      "stats": "+140-160% Enhanced Damage (varies)\nAdds 35-40 Damage\n+3 To Fire Skills\nLevel 6 Hydra (36 Charges)\nIgnore Target's Defense\nFire Resist +25%\n10% To Maximum Fire Resist\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Blade Of Ali Baba",
+      "requiredLVL": "35",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/bladeofalibaba.gif",
+      "description": "some item description",
+      "type": "Tulwar",
+      "type2": "unique",
+      "stats": "+60-120% Enhanced Damage (varies)\n+ (2.5 Per Character Level) 2-247 % Extra Gold From Monsters (Based On Character Level)\n+ (1 Per Character Level) 1-99 % Better Chance of Getting Magic Items (Based On Character Level)\n+15 To Mana\n+5-15 To Dexterity (varies)\nSocketed (2)\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Ginther's Rift",
+      "requiredLVL": "37",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/riftlash.gif",
+      "description": "some item description",
+      "type": "Dimensional Blade",
+      "type2": "unique",
+      "stats": "+100-150% Enhanced Damage (varies)\nAdds 50-120 Magic Damage\n30% Increased Attack Speed\nMagic Damage Reduced By 7-12 (varies)\nRepairs 1 Durability in 5 Seconds\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Headstriker",
+      "requiredLVL": "39",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/headstriker.gif",
+      "description": "some item description",
+      "type": "Battle Sword",
+      "type2": "unique",
+      "stats": "150% Enhanced Damage\n+ (1 Per Character Level) 1-99 To Maximum Damage (Based On Character Level)\n(1.5 Per Character Level) 1-148 % Deadly Strike (Based On Character Level)\nPrevent Monster Heal\n+15 To Strength\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Plague Bearer",
+      "requiredLVL": "41",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/plaguebearer.gif",
+      "description": "some item description",
+      "type": "Rune Sword",
+      "type2": "unique",
+      "stats": "150% Enhanced Damage\nAdds 10-45 Damage\n+300 Poison Damage Over 8 Seconds\n5% Chance To Cast Level 4 Poison Nova On Striking\nPoison Resist +45%\n+5 To Rabies (Druid Only)\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "The Atlantean",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/atlantean.gif",
+      "description": "some item description",
+      "type": "Ancient Sword",
+      "type2": "unique",
+      "stats": "+200-250% Enhanced Damage (varies)\n+2 To Paladin Skill Levels\n50% Bonus To Attack Rating\n+75 Defense\n+8 To Vitality\n+12 To Dexterity\n+16 To Strength\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Crainte Vomir",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/shadowfang.gif",
+      "description": "some item description",
+      "type": "Espandon",
+      "type2": "unique",
+      "stats": "+160-200% Enhanced Damage (varies)\n50% Increased Attack Speed\nSlows Target By 35%\n-70 To Monster Defense Per Hit\n20% Faster Run/Walk\nDamage Reduced By 10%\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Bing Sz Wang",
+      "requiredLVL": "43",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/soulflay.gif",
+      "description": "some item description",
+      "type": "Dacian Faix",
+      "type2": "unique",
+      "stats": "+130-160% Enhanced Damage (varies)\nAdds 50-140 Cold Damage - 3 Second Duration\n5% Chance To Cast Level 3 Frozen Orb On Striking\nFreezes Target +2\nRequirements -30%\n+20 To Strength\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "The Vile Husk",
+      "requiredLVL": "44",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/kinemilsawl.gif",
+      "description": "some item description",
+      "type": "Tusk Sword",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Damage (varies)\n+ (7.5 Per Character Level) 7-742% Damage To Undead (Based On Character Level)\n+ (10 Per Character Level) 10-990 To Attack Rating against Undead (Based On Character Level)\n+250 Poison Damage Over 6 Seconds\n6% Chance To Cast Level 1 Amplify Damage On Striking\nPoison Resist +50%\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Cloudcrack",
+      "requiredLVL": "45",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/blacktongue.gif",
+      "description": "some item description",
+      "type": "Gothic Sword",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Damage (varies)\n6% Chance To Cast Level 7 Fist Of The Heavens On Striking\nAdds 1-240 Lightning Damage\n10% To Maximum Lightning Resist\n+30 Defense\nAttacker Takes Lightning Damage Of 15\n+2 To Defensive Auras (Paladin Only)\n+2 To Offensive Auras (Paladin Only)\n+2 To Light Radius\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Todesfaelle Flamme",
+      "requiredLVL": "48",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/todesfaelleflamme.gif",
+      "description": "some item description",
+      "type": "Executioner Sword",
+      "type2": "unique",
+      "stats": "+120-160% Enhanced Damage (varies)\nAdds 50-200 Fire Damage\n10% Chance To Cast Level 6 Fire Ball On Attack\nLevel 10 Fire Wall (20 Charges)\nLevel 10 Enchant (45 Charges)\n+10 Fire Absorb\nFire Resist +40%\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "",
+      "requiredLVL": "",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/swordguard.gif",
+      "description": "some item description",
+      "type": "",
+      "type2": "unique",
+      "stats": "+170-180% Enhanced Damage (varies)\n+ (5 Per Character Level) 5-495 Defense (Based On Character Level)\n30% Damage Taken Goes To Mana\nRequirements -50%\nAll Resistances +10-20 (varies)\n20% Faster Hit Recovery\n20% Increased Chance Of Blocking\n+100 Defense vs. Missile\n+200 Defense vs. Melee\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "exceptional"
+    },
+    {
       "name": "Rixot's Keen",
       "requiredLVL": "2",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/rixotskeen.gif",
