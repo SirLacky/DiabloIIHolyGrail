@@ -1,6 +1,86 @@
 {
   "swords": [
     {
+      "name": "Djinn Slayer",
+      "requiredLVL": "65",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/uniques/bloodcrescent.gif",
+      "description": "some item description",
+      "type": "Ataghan",
+      "type2": "unique",
+      "stats": "+190-240% Enhanced Damage (varies)\n+100-150% Damage To Demons (varies)\nAdds 250-500 Fire Damage\n3-6% Mana Stolen Per Hit (varies)\n+3-7 Lightning Absorb (varies)\n+200-300 To Attack Rating Against Demons (varies)\nSocketed (1-2) (varies)\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Bloodmoon",
+      "requiredLVL": "61",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/uniques/krintizskewer.gif",
+      "description": "some item description",
+      "type": "Elegant Blade",
+      "type2": "unique",
+      "stats": "+210-260% Enhanced Damage (varies)\n10-15% Life Stolen Per Hit (varies)\n50% Chance of Open Wounds\n+7-13 Life After Each Kill (varies)\nLevel 15 Blood Golem (9 charges)\n(Only Spawns In Patch 1.10 or later)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Lightsabre",
+      "requiredLVL": "58",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/uniques/azurewrath.gif",
+      "description": "some item description",
+      "type": "Phase Blade",
+      "type2": "unique",
+      "stats": "+150-200% Enhanced Damage (varies)\nAdds 10-30 Damage\nAdds 60-120 Magic Damage\nAdds 1-200 Lightning Damage\n5-7% Mana Stolen Per Hit (varies)\n5% Chance To Cast Level 14-20 Chain Lightning On Attack (varies)\n20% Increased Attack Speed\nIgnore Target's Defense\nLightning Absorb 25%\n+7 To Light Radius\n(Only Spawns In Patch 1.10 or later)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Azurewrath",
+      "requiredLVL": "85",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/azurewrath.gif",
+      "description": "some item description",
+      "type": "Phase Blade",
+      "type2": "unique",
+      "stats": "+230-270% Enhanced Damage (varies)\n+30% Increased Attack Speed\nAdds 250-500 Magic Damage\nAdds 250-500 Cold Damage, 10 sec. Duration (Normal)\n+1 To All Skills\n+5-10 To All Attributes (varies)\nLevel 10-13 Sanctuary Aura When Equipped (varies)\n+3 To Light Radius\n(Ladder Only)\n(Only Spawns In Patch 1.10 or later)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Frostwind",
+      "requiredLVL": "70",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/uniques/hellplague.gif",
+      "description": "some item description",
+      "type": "Balrog Blade",
+      "type2": "unique",
+      "stats": "+180-230% Enhanced Damage (varies)\nAdds 237-486 Cold Damage, 6 sec. Duration (Normal)\n+7-14 To Arctic Blast* (varies)\nFreezes Target +4\nCold Absorb 7-15% (varies)\nHalf Freeze Duration\n+25% Increased Attack Speed\n(Only Spawns In Patch 1.10 or later)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Flamebellow",
+      "requiredLVL": "71",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/elite/flamebellow.gif",
+      "description": "some item description",
+      "type": "Balrog Blade",
+      "type2": "unique",
+      "stats": "+170-240% Enhanced Damage (varies)\nAdds 233-482 Fire Damage\n+3 To Fire Skills\n+12-18 To Inferno* (varies)\n+10-20 To Strength (varies)\n+5-10 To Vitality (varies)\n12% Chance To Cast Level 16 Firestorm On Striking\nFire Absorb 20-30% (varies)\n(Only Spawns In Patch 1.10 or later)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Doombringer",
+      "requiredLVL": "69",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/uniques/blacktongue.gif",
+      "description": "some item description",
+      "type": "Champion Sword",
+      "type2": "unique",
+      "stats": "+180-250% Enhanced Damage (varies)\nAdds 30-100 Damage\n8% Chance To Cast Level 3 Weaken On Striking\n40% Bonus To Attack Rating\nIncrease Maximum Life 20%\n5-7% Life Stolen Per Hit (varies)\nIndestructible\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "The Grandfather",
+      "requiredLVL": "81",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/uniques/thepatriarch.gif",
+      "description": "some item description",
+      "type": "Colossus Blade",
+      "type2": "unique",
+      "stats": "+150-250% Enhanced Damage (varies)\n+ (2.5 Per Character Level) 2-247 To Maximum Damage (Based On Character Level)\n+50% Bonus To Attack Rating\n+80 To Life\n+20 To All Attributes\nIndestructible\n(Only Spawns In Patch 1.09 or later)",
+      "difficulty": "elite"
+    },
+    {
       "name": "Bloodletter",
       "requiredLVL": "30",
       "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/rixotskeen.gif",

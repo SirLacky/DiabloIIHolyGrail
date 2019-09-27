@@ -9,5 +9,4 @@ public class DiabloIIHolyGrailApplication {
     public static void main(String[] args) {
         SpringApplication.run(DiabloIIHolyGrailApplication.class,args);
     }
-
 }
