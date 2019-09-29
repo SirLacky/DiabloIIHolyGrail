@@ -13,7 +13,7 @@
 
 <h2> Items: </h2>
 
-<button type="submit" value="headgear">HEADGEAR</button>
+<a href="/headgear" class="button">HEADGEAR</a>
 <a href="/rings" class="button">RINGS</a>
 
 
