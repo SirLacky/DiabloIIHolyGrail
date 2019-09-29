@@ -17,6 +17,7 @@
 <a href="/rings" class="button">RINGS</a>
 <a href="/amulets" class="button">AMULETS</a>
 <a href="/charms" class="button">CHARMS</a>
+<a href="/jewels" class="button">JEWELS</a>
 
 <hr>
 <a href="/logout" class="button">LOG OUT</a>
