@@ -12,17 +12,16 @@ import java.util.logging.Logger;
 import static com.github.sirlacky.DiabloIIHolyGrail.domain.model.Item.getItems;
 
 @Controller
-@RequestMapping("/amulets")
-public class AmuletsPageController {
+@RequestMapping("/charms")
+public class CharmsPageController {
 
-    Logger logger = Logger.getLogger(AmuletsPageController.class.getName());
+    Logger logger = Logger.getLogger(CharmsPageController.class.getName());
 
     @GetMapping
-    public String prepareAmuletsPage(ModelMap model) {
-        List<Item> amuletsList = getItems("amulets");
-        model.put("amulets", amuletsList);
-        logger.info("Created amulets page");
-        return "items-amulets-page";
+    public String prepareCharmsPage(ModelMap model) {
+        List<Item> charmsList = getItems("charms");
+        model.put("charms",charmsList);
+        logger.info("Created charms page");
+        return "item-charms-page";
     }
-
 }

@@ -16,6 +16,7 @@
 <a href="/headgear" class="button">HEADGEAR</a>
 <a href="/rings" class="button">RINGS</a>
 <a href="/amulets" class="button">AMULETS</a>
+<a href="/charms" class="button">CHARMS</a>
 
 <hr>
 <a href="/logout" class="button">LOG OUT</a>
