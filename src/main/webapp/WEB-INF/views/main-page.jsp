@@ -19,6 +19,7 @@
 <a href="/charms" class="button">CHARMS</a>
 <a href="/jewels" class="button">JEWELS</a>
 <a href="/armor" class="button">ARMOR</a>
+<a href="/gloves" class="button">GLOVES</a>
 
 <hr>
 <a href="/logout" class="button">LOG OUT</a>
