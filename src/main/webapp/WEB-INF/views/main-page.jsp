@@ -21,6 +21,7 @@
 <a href="/armor" class="button">ARMOR</a>
 <a href="/gloves" class="button">GLOVES</a>
 <a href="/boots" class="button">BOOTS</a>
+<a href="/belts" class="button">BELTS</a>
 
 <hr>
 <a href="/logout" class="button">LOG OUT</a>
