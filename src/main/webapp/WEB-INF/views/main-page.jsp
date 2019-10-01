@@ -24,6 +24,7 @@
 <a href="/belts" class="button">BELTS</a>
 <a href="/throwing-weapons" class="button">THROWING WEAPON</a>
 <a href="/axes" class="button">AXES</a>
+<a href="/shields" class="button">SHIELDS</a>
 
 <hr>
 <a href="/logout" class="button">LOG OUT</a>
