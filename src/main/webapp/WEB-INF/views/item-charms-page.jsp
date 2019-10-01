@@ -10,7 +10,8 @@
 <body>
 <h1>Charms:</h1>
 <hr>
-
+<a href="/main" class="buttonBlue">BACK</a>
+<hr>
     <c:forEach items="${charms}" var="charms">
 <table>
         <tr>
@@ -24,6 +25,5 @@
         </tr>
 </table>
     </c:forEach>
-
 </body>
 </html>

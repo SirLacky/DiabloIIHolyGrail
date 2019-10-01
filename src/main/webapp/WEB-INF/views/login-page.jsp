@@ -20,7 +20,7 @@
     User Name: <input type="text" name="username" required min="3" max="20"/><br>
     Password: <input type="password" name="password" required min="3" max="20"/><br>
     Stay logged in? <input type="checkbox" name="remember-me"/><br>
-    <button type="submit">Log in</button>
+    <button type="submit" class="buttonGreen">Log in</button>
 </form>
 </body>
 </html>

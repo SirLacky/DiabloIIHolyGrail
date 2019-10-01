@@ -10,7 +10,8 @@
 <body>
 <h1>Necromancer Items:</h1>
 <hr>
-
+<a href="/main" class="buttonBlue">BACK</a>
+<hr>
     <c:forEach items="${necromancer}" var="necromancer">
 <table>
         <tr>

@@ -10,7 +10,8 @@
 <body>
 <h1>Rings:</h1>
 <hr>
-
+<a href="/main" class="buttonBlue">BACK</a>
+<hr>
     <c:forEach items="${rings}" var="rings">
 <table>
         <tr>

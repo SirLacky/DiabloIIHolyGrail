@@ -15,7 +15,7 @@
     User Name: <form:input path="username"/><br>
     Password: <form:password path="password"/><br>
     Confirm Password: <form:password path="confirmedPassword"/><br>
-    <button type="submit">Submit</button>
+    <button type="submit" class="buttonGreen">Submit</button>
 </form:form>
 </body>
 </html>

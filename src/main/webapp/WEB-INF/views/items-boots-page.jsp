@@ -10,7 +10,8 @@
 <body>
 <h1>Boots:</h1>
 <hr>
-
+<a href="/main" class="buttonBlue">BACK</a>
+<hr>
     <c:forEach items="${boots}" var="boots">
 <table>
         <tr>

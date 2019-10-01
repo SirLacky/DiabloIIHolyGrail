@@ -8,29 +8,30 @@
     <title>Main Page</title>
 </head>
 <body>
+
 <h1>Welcome on Main Page</h1>
 <hr>
 
 <h2> Items: </h2>
 
-<a href="/headgear" class="button">HEADGEAR</a>
-<a href="/rings" class="button">RINGS</a>
-<a href="/amulets" class="button">AMULETS</a>
-<a href="/charms" class="button">CHARMS</a>
-<a href="/jewels" class="button">JEWELS</a>
-<a href="/armor" class="button">ARMOR</a>
-<a href="/gloves" class="button">GLOVES</a>
-<a href="/boots" class="button">BOOTS</a>
-<a href="/belts" class="button">BELTS</a>
-<a href="/throwing-weapons" class="button">THROWING WEAPONS</a>
-<a href="/axes" class="button">AXES</a>
-<a href="/shields" class="button">SHIELDS</a>
-<a href="/necromanceritems" class="button">NECROMANCER TROPHIES</a>
-<a href="/paladinitems" class="button">PALADIN SHIELDS</a>
-<a href="/barbarianitems" class="button">BARBARIAN HELMS</a>
+<a href="/headgear" class="buttonYellow">HEADGEAR</a>
+<a href="/rings" class="buttonYellow">RINGS</a>
+<a href="/amulets" class="buttonYellow">AMULETS</a>
+<a href="/charms" class="buttonYellow">CHARMS</a>
+<a href="/jewels" class="buttonYellow">JEWELS</a>
+<a href="/armor" class="buttonYellow">ARMOR</a>
+<a href="/gloves" class="buttonYellow">GLOVES</a>
+<a href="/boots" class="buttonYellow">BOOTS</a>
+<a href="/belts" class="buttonYellow">BELTS</a>
+<a href="/throwing-weapons" class="buttonYellow">THROWING WEAPONS</a>
+<a href="/axes" class="buttonYellow">AXES</a>
+<a href="/shields" class="buttonYellow">SHIELDS</a>
+<a href="/necromanceritems" class="buttonYellow">NECROMANCER TROPHIES</a>
+<a href="/paladinitems" class="buttonYellow">PALADIN SHIELDS</a>
+<a href="/barbarianitems" class="buttonYellow">BARBARIAN HELMS</a>
 
 
 <hr>
-<a href="/logout" class="button">LOG OUT</a>
+<a href="/logout" class="buttonRed">LOG OUT</a>
 </body>
 </html>
