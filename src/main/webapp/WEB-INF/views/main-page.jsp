@@ -22,10 +22,11 @@
 <a href="/gloves" class="button">GLOVES</a>
 <a href="/boots" class="button">BOOTS</a>
 <a href="/belts" class="button">BELTS</a>
-<a href="/throwing-weapons" class="button">THROWING WEAPON</a>
+<a href="/throwing-weapons" class="button">THROWING WEAPONS</a>
 <a href="/axes" class="button">AXES</a>
 <a href="/shields" class="button">SHIELDS</a>
-<a href="/necromanceritems" class="button">NECROMANCER</a>
+<a href="/necromanceritems" class="button">NECROMANCER TROPHIES</a>
+<a href="/paladinitems" class="button">PALADIN SHIELDS</a>
 
 
 <hr>
