@@ -4,7 +4,7 @@ body {
 }
 
 a.button {
-    width: 150px;
+    width: 200px;
     color: black !important;
     background-color: #ffeb3b !important;
     font: inherit;
@@ -17,7 +17,10 @@ a.button {
     text-decoration: none;
     text-align: center;
     white-space: nowrap;
-
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 a.button:hover {

@@ -27,6 +27,7 @@
 <a href="/shields" class="button">SHIELDS</a>
 <a href="/necromanceritems" class="button">NECROMANCER TROPHIES</a>
 <a href="/paladinitems" class="button">PALADIN SHIELDS</a>
+<a href="/barbarianitems" class="button">BARBARIAN HELMS</a>
 
 
 <hr>
