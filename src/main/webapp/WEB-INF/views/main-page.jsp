@@ -25,6 +25,8 @@
 <a href="/throwing-weapons" class="button">THROWING WEAPON</a>
 <a href="/axes" class="button">AXES</a>
 <a href="/shields" class="button">SHIELDS</a>
+<a href="/necromanceritems" class="button">NECROMANCER</a>
+
 
 <hr>
 <a href="/logout" class="button">LOG OUT</a>
