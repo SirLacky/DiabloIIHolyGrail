@@ -33,6 +33,7 @@
 <a href="/bows" class="buttonYellow">BOWS</a>
 <a href="/crossbows" class="buttonYellow">CROSSBOWS</a>
 <a href="/daggers" class="buttonYellow">DAGGERS</a>
+<a href="/jevelins" class="buttonYellow">JEVELINS</a>
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
