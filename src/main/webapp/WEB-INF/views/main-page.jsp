@@ -31,7 +31,7 @@
 <a href="/barbarianitems" class="buttonYellow">BARBARIAN HELMS</a>
 <a href="/druiditems" class="buttonYellow">DRUID HELMS</a>
 <a href="/bows" class="buttonYellow">BOWS</a>
-
+<a href="/crossbows" class="buttonYellow">CROSSBOWS</a>
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
