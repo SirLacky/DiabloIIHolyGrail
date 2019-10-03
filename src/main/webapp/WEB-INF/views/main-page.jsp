@@ -32,6 +32,7 @@
 <a href="/druiditems" class="buttonYellow">DRUID HELMS</a>
 <a href="/bows" class="buttonYellow">BOWS</a>
 <a href="/crossbows" class="buttonYellow">CROSSBOWS</a>
+<a href="/daggers" class="buttonYellow">DAGGERS</a>
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
