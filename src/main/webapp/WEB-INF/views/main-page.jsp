@@ -30,6 +30,7 @@
 <a href="/paladinitems" class="buttonYellow">PALADIN SHIELDS</a>
 <a href="/barbarianitems" class="buttonYellow">BARBARIAN HELMS</a>
 <a href="/druiditems" class="buttonYellow">DRUID HELMS</a>
+<a href="/bows" class="buttonYellow">BOWS</a>
 
 
 <hr>
