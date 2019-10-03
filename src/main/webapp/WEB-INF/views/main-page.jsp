@@ -29,6 +29,7 @@
 <a href="/necromanceritems" class="buttonYellow">NECROMANCER TROPHIES</a>
 <a href="/paladinitems" class="buttonYellow">PALADIN SHIELDS</a>
 <a href="/barbarianitems" class="buttonYellow">BARBARIAN HELMS</a>
+<a href="/druiditems" class="buttonYellow">DRUID HELMS</a>
 
 
 <hr>
