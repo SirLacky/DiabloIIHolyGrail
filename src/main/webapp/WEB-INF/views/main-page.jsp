@@ -37,6 +37,7 @@
 <a href="/amazonitems" class="buttonYellow">AMAZON ITEMS</a>
 <a href="/assassinitems" class="buttonYellow">ASSASSIN CLAWS</a>
 <a href="/sorceressitems" class="buttonYellow">SORCERESS ORBS</a>
+<a href="/maces" class="buttonYellow">MACES</a>
 
 
 <hr>
