@@ -36,6 +36,7 @@
 <a href="/jevelins" class="buttonYellow">JEVELINS</a>
 <a href="/amazonitems" class="buttonYellow">AMAZON ITEMS</a>
 <a href="/assassinitems" class="buttonYellow">ASSASSIN CLAWS</a>
+<a href="/sorceressitems" class="buttonYellow">SORCERESS ORBS</a>
 
 
 <hr>
