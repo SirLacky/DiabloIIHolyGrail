@@ -35,6 +35,8 @@
 <a href="/daggers" class="buttonYellow">DAGGERS</a>
 <a href="/jevelins" class="buttonYellow">JEVELINS</a>
 <a href="/amazonitems" class="buttonYellow">AMAZON ITEMS</a>
+<a href="/assassinitems" class="buttonYellow">ASSASSIN CLAWS</a>
+
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
