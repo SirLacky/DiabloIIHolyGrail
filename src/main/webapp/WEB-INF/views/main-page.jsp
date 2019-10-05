@@ -39,6 +39,7 @@
 <a href="/sorceressitems" class="buttonYellow">SORCERESS ORBS</a>
 <a href="/maces" class="buttonYellow">MACES</a>
 <a href="/polearms" class="buttonYellow">POLEARMS</a>
+<a href="/scepters" class="buttonYellow">SCEPTERS</a>
 
 
 <hr>
