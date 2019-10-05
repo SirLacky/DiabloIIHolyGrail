@@ -41,6 +41,7 @@
 <a href="/polearms" class="buttonYellow">POLEARMS</a>
 <a href="/scepters" class="buttonYellow">SCEPTERS</a>
 <a href="/spears" class="buttonYellow">SPEARS</a>
+<a href="/staves" class="buttonYellow">STAVES</a>
 
 
 <hr>
