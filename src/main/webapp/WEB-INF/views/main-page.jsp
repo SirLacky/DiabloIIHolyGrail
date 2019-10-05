@@ -40,6 +40,7 @@
 <a href="/maces" class="buttonYellow">MACES</a>
 <a href="/polearms" class="buttonYellow">POLEARMS</a>
 <a href="/scepters" class="buttonYellow">SCEPTERS</a>
+<a href="/spears" class="buttonYellow">SPEARS</a>
 
 
 <hr>
