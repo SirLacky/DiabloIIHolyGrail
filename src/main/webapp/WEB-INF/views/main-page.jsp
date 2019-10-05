@@ -12,7 +12,7 @@
 <h1>Welcome on Main Page</h1>
 <hr>
 
-<h2> Items: </h2>
+<h2> Unique Items: </h2>
 
 <a href="/headgear" class="buttonYellow">HEADGEAR</a>
 <a href="/rings" class="buttonYellow">RINGS</a>
@@ -43,6 +43,11 @@
 <a href="/spears" class="buttonYellow">SPEARS</a>
 <a href="/staves" class="buttonYellow">STAVES</a>
 <a href="/wands" class="buttonYellow">WANDS</a>
+<a href="/swords" class="buttonYellow">SWORDS</a>
+
+<h2> Set Items: </h2>
+
+
 
 
 <hr>
