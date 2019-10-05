@@ -42,6 +42,7 @@
 <a href="/scepters" class="buttonYellow">SCEPTERS</a>
 <a href="/spears" class="buttonYellow">SPEARS</a>
 <a href="/staves" class="buttonYellow">STAVES</a>
+<a href="/wands" class="buttonYellow">WANDS</a>
 
 
 <hr>
