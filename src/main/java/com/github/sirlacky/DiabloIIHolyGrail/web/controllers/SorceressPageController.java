@@ -21,7 +21,7 @@ public class SorceressPageController {
     public String prepareSorceressItemsPage(ModelMap model) {
         List<Item> sorceressItemsList = getItems("sorceress");
         model.put("sorceress", sorceressItemsList);
-        logger.info("Created sorceress items");
+        logger.info("Created sorceress items page");
         return "items-sorceress-page";
     }
 }

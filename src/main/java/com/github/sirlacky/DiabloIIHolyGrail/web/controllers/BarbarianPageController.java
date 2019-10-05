@@ -21,7 +21,7 @@ public class BarbarianPageController {
     public String prepareBarbarianItemsPage(ModelMap model) {
         List<Item> barbarianItemsList = getItems("barbarian");
         model.put("barbarian", barbarianItemsList);
-        logger.info("Created barbarian page");
+        logger.info("Created barbarian items page");
         return "items-barbarian-page";
     }
 

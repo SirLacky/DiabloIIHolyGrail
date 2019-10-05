@@ -21,7 +21,7 @@ public class MacesPageController {
     public String prepareMacesPage(ModelMap model){
         List<Item> macesItemList = getItems("maces");
         model.put("maces",macesItemList);
-        logger.info("Created maces list");
+        logger.info("Created maces page");
         return "items-maces-page";
     }
 }

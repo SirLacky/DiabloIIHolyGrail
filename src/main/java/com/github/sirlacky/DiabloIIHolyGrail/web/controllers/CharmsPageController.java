@@ -22,6 +22,6 @@ public class CharmsPageController {
         List<Item> charmsList = getItems("charms");
         model.put("charms",charmsList);
         logger.info("Created charms page");
-        return "item-charms-page";
+        return "items-charms-page";
     }
 }

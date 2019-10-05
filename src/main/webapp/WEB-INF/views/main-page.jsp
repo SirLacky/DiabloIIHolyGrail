@@ -47,7 +47,7 @@
 
 <h2> Set Items: </h2>
 
-
+<a href="/headgear" class="buttonGreen">SET</a>
 
 
 <hr>

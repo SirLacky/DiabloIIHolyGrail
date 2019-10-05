@@ -21,7 +21,7 @@ public class BeltsPageController {
     public String prepareBeltsPage(ModelMap model) {
         List<Item> beltsList = getItems("belts");
         model.put("belts", beltsList);
-        logger.info("Create belts page");
+        logger.info("Created belts page");
         return "items-belts-page";
     }
 }

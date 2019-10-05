@@ -10,7 +10,7 @@
 <body>
 <h1> Hi! Choose one option:</h1>
 <hr>
-<a href="/login" class="buttonGreen">SIGN IN</a>
+<a href="/login" class="buttonBlue">SIGN IN</a>
 <a href="/register" class="buttonYellow">REGISTER</a>
 <a href="/info" class="buttonRed">PROJECT INFO</a>
 <hr>

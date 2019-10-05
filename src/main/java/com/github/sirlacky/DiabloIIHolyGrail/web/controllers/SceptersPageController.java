@@ -21,7 +21,7 @@ public class SceptersPageController {
     public String prepareSceptersPage(ModelMap model){
         List<Item> sceptersList = getItems("scepters");
         model.put("scepters",sceptersList);
-        logger.info("Created scepters list");
+        logger.info("Created scepters page");
         return "items-scepters-page";
     }
 }

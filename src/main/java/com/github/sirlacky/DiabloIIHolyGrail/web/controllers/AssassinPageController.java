@@ -21,7 +21,7 @@ public class AssassinPageController {
     public String prepareAssassinItemsPage(ModelMap model){
         List<Item> assassinItemList = getItems("assassin");
         model.put("assassin",assassinItemList);
-        logger.info("Created assassin item list");
+        logger.info("Created assassin items page");
         return "items-assassin-page";
     }
 }

@@ -21,6 +21,7 @@ public class StavesPageController {
     public String prepareStavesPage(ModelMap model) {
         List<Item> stavesList = getItems("staves");
         model.put("staves", stavesList);
+        logger.info("Created staves page");
         return "items-staves-page";
     }
 

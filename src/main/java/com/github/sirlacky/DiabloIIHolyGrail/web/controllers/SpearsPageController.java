@@ -21,7 +21,7 @@ public class SpearsPageController {
     public String prepareSpearsPage(ModelMap model){
         List<Item>spearsList = getItems("spears");
         model.put("spears",spearsList);
-        logger.info("Created spears list");
+        logger.info("Created spears page");
         return "items-spears-page";
     }
 

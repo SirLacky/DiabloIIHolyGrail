@@ -111,7 +111,7 @@ public class Item  {
             String workingDirectory = System.getProperty("user.dir");
             String absoluteFilePath = "";
             absoluteFilePath = workingDirectory + File.separator + filename;
-            logger.info("Downloaded JSON file from: "+absoluteFilePath);
+            //logger.info("Downloaded JSON file from: "+absoluteFilePath);
 
             byte[] jsonData = Files.readAllBytes(Paths.get(absoluteFilePath));
             ObjectMapper objectMapper = new ObjectMapper();
@@ -163,7 +163,7 @@ public class Item  {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        logger.info("Created list");
+        //logger.info("Created list");
         return itemList;
     }
 }

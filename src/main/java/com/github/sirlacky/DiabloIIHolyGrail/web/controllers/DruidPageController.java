@@ -21,7 +21,7 @@ public class DruidPageController {
     public String prepareDruidItemsPage(ModelMap model) {
         List<Item> druidItemList = getItems("druid");
         model.put("druid", druidItemList);
-        logger.info("Created druid page");
+        logger.info("Created druid items page");
         return "items-druid-page";
     }
 
