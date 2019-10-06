@@ -1,4 +1,45 @@
-{
+{ "angelicraiment": [
+  {
+    "name": "Angelic Mantle",
+    "requiredLVL": "12",
+    "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/angelicmantle.gif",
+    "description": "some item description",
+    "type": "Ring Mail",
+    "type2": "set",
+    "stats": "+40% Enhanced Defense\nDamage Reduced by 3\n+150 Defense (2 Set Items)\nFire Resist +50% (3 Set Items)",
+    "difficulty": "normal"
+  },
+  {
+    "name": "Angelic Sickle",
+    "requiredLVL": "12",
+    "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/angelicsickle.gif",
+    "description": "some item description",
+    "type": "Sabre",
+    "type2": "set",
+    "stats": "+250% Damage to Undead\n+75 To Attack Rating\n+75% Enhanced Damage (2 Set Items)\n30% Increased Attack Speed (3 Set Items)",
+    "difficulty": "normal"
+  },
+  {
+    "name": "Angelic Halo",
+    "requiredLVL": "12",
+    "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring2.gif",
+    "description": "some item description",
+    "type": "Ring",
+    "type2": "set",
+    "stats": "Replenish Life +6\n+20 To Life\n+ (12 Per Character Level) 144-1188 Attack Rating (Based On Character Level) (2 Set Items)\n+50% Better Chance Of Getting Magic Items (3 Set Items)",
+    "difficulty": "normal"
+  },
+  {
+    "name": "Angelic Wing",
+    "requiredLVL": "12",
+    "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu2.gif",
+    "description": "some item description",
+    "type": "Amulet",
+    "type2": "set",
+    "stats": "20% Damage Taken Goes to Mana\n+3 To Light Radius\n+75 Life (2 Set Items)\n+1 To All Skills (3 Set Items)",
+    "difficulty": "normal"
+  }
+],
   "swords": [
     {
       "name": "Djinn Slayer",
