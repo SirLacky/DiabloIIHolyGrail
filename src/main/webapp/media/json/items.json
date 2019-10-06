@@ -1,4 +1,47 @@
-{ "angelicraiment": [
+{
+  "arcannastricks": [
+    {
+      "name": "Arcanna's Head",
+      "requiredLVL": "15",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/arcannashead.gif",
+      "description": "some item description",
+      "type": "Skull Cap",
+      "type2": "set",
+      "stats": "Replenish Life +4\nAttacker Takes Damage of 2\n+ (3 Per Character Level) 3-297 Defense (Based On Character Level) (2 Set Items)\nLightning Resist +15% (3 Set Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Arcanna's Flesh",
+      "requiredLVL": "15",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/arcannasflesh.gif",
+      "description": "some item description",
+      "type": "Light Plate",
+      "type2": "set",
+      "stats": "+2 To Light Radius\nDamage Reduced By 3\n+100 Defense (2 Set Items)\n+10 Energy (3 Set Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Arcanna's Deathwand",
+      "requiredLVL": "15",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/arcannasdeathwand.gif",
+      "description": "some item description",
+      "type": "War Staff",
+      "type2": "set",
+      "stats": "+1 to Sorceress Skill Levels\n25% Deadly Strike\n+50% Damage To Undead\n+50 Mana (2 Set Items)\nRegenerate Mana +5% (3 Set Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Arcanna's Sign",
+      "requiredLVL": "15",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu3.gif",
+      "description": "some item description",
+      "type": "Amulet",
+      "type2": "set",
+      "stats": "Regenerate Mana 20%\n+15 to Mana\n+50% Better Chance To Find Magic Items (2 Set Items)\nFire Resist +20% (3 Set Items)",
+      "difficulty": "normal"
+    }
+  ],
+  "angelicraiment": [
   {
     "name": "Angelic Mantle",
     "requiredLVL": "12",
