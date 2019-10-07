@@ -1,4 +1,46 @@
 {
+  "arcticgear": [
+    {
+      "name": "Arctic Furs",
+      "requiredLVL": "2",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/arcticfurs.gif",
+      "description": "some item description",
+      "type": "Quilted Armor",
+      "type2": "set",
+      "stats": "+275-325% Enhanced Defense (varies)\nAll Resistances +10\n+ (3 Per Character Level) 3-297 Defense (Based On Character Level) (2 Set Items)\nCold Resist +15% (3 Set Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Arctic Binding",
+      "requiredLVL": "2",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/arcticbinding.gif",
+      "description": "some item description",
+      "type": "Light Belt",
+      "type2": "set",
+      "stats": "Cold Resist +40%\n+30 Defense\n+40% Better Chance Of Getting Magic Items (2 Set Items)\nCold Resist +10% (3 Set Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Arctic Mitts",
+      "requiredLVL": "2",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/arcticmitts.gif",
+      "description": "some item description",
+      "type": "Light Gauntlets",
+      "type2": "set",
+      "stats": "+20 To Life\n10% Increased Attack Speed\n+50 To Attack Rating (2 Set Items)\n+10 To Dexterity (3 Set Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Arctic Horn",
+      "requiredLVL": "2",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/arctichorn.gif",
+      "description": "some item description",
+      "type": "Short War Bow",
+      "type2": "set",
+      "stats": "+50% Enhanced Damage\n20% Bonus To Attack Rating\n+ (8 Per Character Level) 8-792 Attack Rating (Based On Character Level) (2 Set Items)\n+20-30 Cold Damage, 3 sec. Duration (Normal) (3 Set Items)",
+      "difficulty": "normal"
+    }
+  ],
   "arcannastricks": [
     {
       "name": "Arcanna's Head",
