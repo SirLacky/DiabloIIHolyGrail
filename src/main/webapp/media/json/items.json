@@ -1,4 +1,36 @@
 {
+  "berserkersarsenal": [
+    {
+      "name": "Berserker's Headgear",
+      "requiredLVL": "3",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/berserkerheadgear.gif",
+      "description": "some item description",
+      "type": "Helm",
+      "type2": "set",
+      "stats": "+15 Defense\nFire Resist +25%\n+ (8 Per Character Level) 48-792 Attack Rating (Based On Character Level) (2 Set Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Berserker's Hauberk",
+      "requiredLVL": "3",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/berserkerhauberk.gif",
+      "description": "some item description",
+      "type": "Splint Mail",
+      "type2": "set",
+      "stats": "+1 to Barbarian Skill Levels\nMagic Damage Reduced by 2\n+ (3 Per Character Level) 3-297 Defense (Based On Character Level) (2 Set Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Berserker's Hatchet",
+      "requiredLVL": "3",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/berserkerhatchet.gif",
+      "description": "some item description",
+      "type": "Double Axe",
+      "type2": "set",
+      "stats": "30% Bonus To Attack Rating\n5% Mana Stolen Per Hit\n+50% Enhanced Damage (2 Set Items)",
+      "difficulty": "normal"
+    }
+  ],
   "arcticgear": [
     {
       "name": "Arctic Furs",
