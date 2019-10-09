@@ -1,4 +1,56 @@
 {
+  "cathanstraps": [
+    {
+      "name": "Cathan's Visage",
+      "requiredLVL": "11",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/mask.gif",
+      "description": "some item description",
+      "type": "Mask",
+      "type2": "set",
+      "stats": "Cold Resist +25%\n+20 to Mana\n+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 Set Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Cathan's Mesh",
+      "requiredLVL": "11",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/cathansmesh.gif",
+      "description": "some item description",
+      "type": "Chain Mail",
+      "type2": "set",
+      "stats": "+15 Defense\nRequirements -50%\nAttacker Takes Damage of 5 (2 Set Items)\nResist Fire +30% (3 Set Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Cathan's Rule",
+      "requiredLVL": "11",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/cathansrule.gif",
+      "description": "some item description",
+      "type": "Battle Staff",
+      "type2": "set",
+      "stats": "+1 to Fire Skills\n+10 Maximum Fire Damage\n+50% Damage To Undead\n+50 Mana (2 Set Items)\nAll Resistances +10 (3 Set Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Cathan's Sigil",
+      "requiredLVL": "11",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu1.gif",
+      "description": "some item description",
+      "type": "Amulet",
+      "type2": "set",
+      "stats": "Attacker Takes Lightning Damage of 5\n10% Faster Hit Recovery\n+50 To Attack Rating (2 Set Items)\n+25% Better Chance of Finding Magic Items (3 Set Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Cathan's Seal",
+      "requiredLVL": "11",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/ra/ring4.gif",
+      "description": "some item description",
+      "type": "Ring",
+      "type2": "set",
+      "stats": "6% Life Stolen Per Hit\nDamage Reduced by 2\n+10 Strength (2 Set Items)",
+      "difficulty": "normal"
+    }
+  ],
   "berserkersarsenal": [
     {
       "name": "Berserker's Headgear",
