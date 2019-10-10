@@ -1,4 +1,36 @@
 {
+  "civerbsvestments": [
+    {
+      "name": "Civerb's Cudgel",
+      "requiredLVL": "9",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/grandscepter.gif",
+      "description": "some item description",
+      "type": "Grand Scepter",
+      "type2": "set",
+      "stats": "+ (1 Per Character Level) 1-99 To Maximum Damage (Based On Character Level)\n+17-23 to Max Damage(varies)\n+50% Damage To Undead\n+75 to Attack Rating",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Civerb's Icon",
+      "requiredLVL": "9",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu1.gif",
+      "description": "some item description",
+      "type": "Amulet",
+      "type2": "set",
+      "stats": "Replenish Life +4\nRegenerate Mana 40%\nCold Resist +25% (2 Items)\n+25 Defense (Complete Set)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Civerb's Ward",
+      "requiredLVL": "9",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/civerbsward.gif",
+      "description": "some item description",
+      "type": "Large Shield",
+      "type2": "set",
+      "stats": "+15 Defense\n+15% Increased Block\n+21-22 Mana (Civerb's Icon)(varies)\nPoison Resist +25-26% (Civerb's Cudgel)(varies)",
+      "difficulty": "normal"
+    }
+  ],
   "cathanstraps": [
     {
       "name": "Cathan's Visage",
