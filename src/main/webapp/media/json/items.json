@@ -1,4 +1,36 @@
 {
+  "cleglawsbrace": [
+    {
+      "name": "Cleglaw's Tooth",
+      "requiredLVL": "4",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/cleglawstooth.gif",
+      "description": "some item description",
+      "type": "Long Sword",
+      "type2": "set",
+      "stats": "50% Deadly Strike\n30% Bonus to Attack rating\n+ (1.25 Per Character Level) +1-123 To Maximum Damage (Based On Character Level) (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Cleglaw's Pincers",
+      "requiredLVL": "4",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/cleglawspincers.gif",
+      "description": "some item description",
+      "type": "Chain Gloves",
+      "type2": "set",
+      "stats": "Slows Target by 25%\nKnockback\n+ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level) (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Cleglaw's Claw",
+      "requiredLVL": "4",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/cleglawsclaw.gif",
+      "description": "some item description",
+      "type": "Small Shield",
+      "type2": "set",
+      "stats": "Poison Length Reduced by 75%\n+17 Defense\nAll Resistances +15 (2 Items)",
+      "difficulty": "normal"
+    }
+  ],
   "civerbsvestments": [
     {
       "name": "Civerb's Cudgel",
