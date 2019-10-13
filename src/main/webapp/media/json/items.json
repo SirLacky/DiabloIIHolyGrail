@@ -1,4 +1,36 @@
 {
+  "deathsdisguise": [
+    {
+      "name": "Death's Touch",
+      "requiredLVL": "6",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/deathstouch.gif",
+      "description": "some item description",
+      "type": "War Sword",
+      "type2": "set",
+      "stats": "+25% Enhanced Damage\n4% Life Stolen Per Hit\nAdds 25-75 Cold Damage, 3 sec. Duration (Normal) (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Death's Hand",
+      "requiredLVL": "6",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/deathshand.gif",
+      "description": "some item description",
+      "type": "Leather Gloves",
+      "type2": "set",
+      "stats": "Poison Length Reduced by 75%\nPoison Resist 50%\n30% Increased Attack Speed (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Death's Guard",
+      "requiredLVL": "6",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/deathsguard.gif",
+      "description": "some item description",
+      "type": "Sash",
+      "type2": "set",
+      "stats": "Cannot be Frozen\n+20 Defense\nAll Resistances +15 (2 Items)",
+      "difficulty": "normal"
+    }
+  ],
   "cleglawsbrace": [
     {
       "name": "Cleglaw's Tooth",
