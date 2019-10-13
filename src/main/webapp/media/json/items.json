@@ -1,4 +1,46 @@
 {
+  "isenhartsarmory": [
+    {
+      "name": "Isenhart's Lightbrand",
+      "requiredLVL": "8",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/isenhartslightbrand.gif",
+      "description": "some item description",
+      "type": "Broad Sword",
+      "type2": "set",
+      "stats": "+10 to Min Damage\n20% Increased Attack Speed\n+ (5 Per Character Level) 5-495 Attack Rating (Based On Character Level) (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Isenhart's Horns",
+      "requiredLVL": "8",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/isenhartshorns.gif",
+      "description": "some item description",
+      "type": "Full Helm",
+      "type2": "set",
+      "stats": "Damage Reduced by 2\n+6 to Dexterity\nAll Resistances +8 (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Isenhart's Case",
+      "requiredLVL": "8",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/isenhartscase.gif",
+      "description": "some item description",
+      "type": "Breast Plate",
+      "type2": "set",
+      "stats": "Magic Damage Reduced by 2\n+40 Defense\n+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Isenhart's Parry",
+      "requiredLVL": "8",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/isenhartsparry.gif",
+      "description": "some item description",
+      "type": "Gothic Shield",
+      "type2": "set",
+      "stats": "Attacker Takes Lightning Damage of 4\n+40 Defense\nAll Resistances +8 (2 Items)",
+      "difficulty": "normal"
+    }
+  ],
   "irathasfinery": [
     {
       "name": "Iratha's Coil",
