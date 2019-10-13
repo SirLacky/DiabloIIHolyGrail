@@ -1,4 +1,36 @@
 {
+  "hsarusdefense": [
+    {
+      "name": "Hsarus' Iron Fist",
+      "requiredLVL": "3",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/hsarusironfist.gif",
+      "description": "some item description",
+      "type": "Buckler",
+      "type2": "set",
+      "stats": "Damage Reduced by 2\n+10 to Strength\n+ (2.5 Per Character Level) 2-247 Defense (Based On Character Level) (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Hsarus' Iron Stay",
+      "requiredLVL": "3",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/hsarusironstay.gif",
+      "description": "some item description",
+      "type": "Belt",
+      "type2": "set",
+      "stats": "Cold Resist +20%\n+20 to Life\n+ (2.5 Per Character Level) 2-247 Defense (Based On Character Level) (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Hsarus' Iron Heel",
+      "requiredLVL": "3",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/hsarusironwheel.gif",
+      "description": "some item description",
+      "type": "Chain Boots",
+      "type2": "set",
+      "stats": "20% Faster Run/Walk\nFire Resist +25%\n+ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level) (2 Items)",
+      "difficulty": "normal"
+    }
+  ],
   "deathsdisguise": [
     {
       "name": "Death's Touch",
