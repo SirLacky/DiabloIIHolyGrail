@@ -1,4 +1,36 @@
 {
+  "infernaltools": [
+    {
+      "name": "Infernal Cranium",
+      "requiredLVL": "5",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/infernalcranium.gif",
+      "description": "some item description",
+      "type": "Cap",
+      "type2": "set",
+      "stats": "20% Damage Taken Goes to Mana\nAll Resistances +10\n+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Infernal Sign",
+      "requiredLVL": "5",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/infernalbuckle.gif",
+      "description": "some item description",
+      "type": "Heavy Belt",
+      "type2": "set",
+      "stats": "+25 Defense\n+20 to Life\nPoison Resist +25% (2 Items)\nHalf Freeze Duration (3 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Infernal Torch",
+      "requiredLVL": "5",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/grimwand.gif",
+      "description": "some item description",
+      "type": "Grim Wand",
+      "type2": "set",
+      "stats": "+1 To Necromancer Skill Levels\n+8 to Min Damage\n150% Damage to Undead\n+ (10 Per Character Level) 10-990 Attack Rating (Based On Character Level) (2 Items)",
+      "difficulty": "normal"
+    }
+  ],
   "hsarusdefense": [
     {
       "name": "Hsarus' Iron Fist",
