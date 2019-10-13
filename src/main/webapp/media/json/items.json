@@ -1,4 +1,46 @@
 {
+  "irathasfinery": [
+    {
+      "name": "Iratha's Coil",
+      "requiredLVL": "15",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/irathascoil.gif",
+      "description": "some item description",
+      "type": "Crown",
+      "type2": "set",
+      "stats": "Lightning Resist +30%\nFire Resist +30%\n+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Iratha's Collar",
+      "requiredLVL": "15",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu1.gif",
+      "description": "some item description",
+      "type": "Amulet",
+      "type2": "set",
+      "stats": "Poison Length Reduced by 75%\nPoison Resist +30%\nAll Resistances +15 (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Iratha's Cord",
+      "requiredLVL": "15",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/irathascord.gif",
+      "description": "some item description",
+      "type": "Heavy Belt",
+      "type2": "set",
+      "stats": "+25 Defense\n+5 To Minimum Damage\n+10 To Dexterity (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Iratha's Cuff",
+      "requiredLVL": "15",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/irathascuff.gif",
+      "description": "some item description",
+      "type": "Light Gauntlets",
+      "type2": "set",
+      "stats": "Half Freeze Duration\nCold Resist +30%\n20% Increased Attack Speed (2 Items)",
+      "difficulty": "normal"
+    }
+  ],
   "infernaltools": [
     {
       "name": "Infernal Cranium",
