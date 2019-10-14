@@ -1,4 +1,46 @@
 {
+  "milabregasregalia": [
+    {
+      "name": "Milabrega's Diadem",
+      "requiredLVL": "17",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/milabregasdiadem.gif",
+      "description": "some item description",
+      "type": "Crown",
+      "type2": "set",
+      "stats": "+15 to Mana\n+15 to Life\nCold Resist +40% (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Milabrega's Robe",
+      "requiredLVL": "17",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/milabregasrobe.gif",
+      "description": "some item description",
+      "type": "Ancient Armor",
+      "type2": "set",
+      "stats": "Damage Reduced by 2\nAttacker Takes Damage of 3\n+100% Enhanced Defense (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Milabrega's Orb",
+      "requiredLVL": "17",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/milabregasorb.gif",
+      "description": "some item description",
+      "type": "Kite Shield",
+      "type2": "set",
+      "stats": "+25 Defense\n20% Better Chance of Getting Magic Item\n+50 Life (2 Items)\n+50% Enhanced Defense (3 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Milabrega's Rod",
+      "requiredLVL": "17",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/warscepter.gif",
+      "description": "some item description",
+      "type": "War Scepter",
+      "type2": "set",
+      "stats": "+50% Enhanced Damage\n+50% Damage to Undead\n+1 to Paladin Skills\n+2 to Light Radius",
+      "difficulty": "normal"
+    }
+  ],
   "isenhartsarmory": [
     {
       "name": "Isenhart's Lightbrand",
