@@ -1,4 +1,56 @@
 {
+  "tancredsbattlegear": [
+    {
+      "name": "Tancred's Skull",
+      "requiredLVL": "20",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/tancredsskull.gif",
+      "description": "some item description",
+      "type": "Bone Helm",
+      "type2": "set",
+      "stats": "+10% Enhanced Damage\n+40 to Attack Rating\nAll Resistances +10 (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Tancred's Spine",
+      "requiredLVL": "20",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/tancredsspine.gif",
+      "description": "some item description",
+      "type": "Full Plate Mail",
+      "type2": "set",
+      "stats": "+40 to Life\n+15 to Strength\n+ (2 Per Character Level) 2-198 Defense (Based On Character Level) (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Tancred's Hobnails",
+      "requiredLVL": "20",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/tancredshobnails.gif",
+      "description": "some item description",
+      "type": "Boots",
+      "type2": "set",
+      "stats": "Heal Stamina Plus 25%\n+10 to Dexterity\n30% Faster Run/Walk (2 Items)\n+10 To Strength (3 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Tancred's Crowbill",
+      "requiredLVL": "20",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/tancredscrowbill.gif",
+      "description": "some item description",
+      "type": "Military Pick",
+      "type2": "set",
+      "stats": "+80% Enhanced Damage\n+75 to Attack Rating\n+20 To Mana (2 Items)\n20% Increased Attack Speed (3 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Tancred's Weird",
+      "requiredLVL": "20",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu3.gif",
+      "description": "some item description",
+      "type": "Amulet",
+      "type2": "set",
+      "stats": "Damage Reduced by 2\nMagic Damage Reduced by 1\n+78% Better Chance Of Getting Magic Items (2 Items)\n+60 To Attack Rating (3 Items)",
+      "difficulty": "normal"
+    }
+  ],
   "sigonscompletesteel": [
     {
       "name": "Sigon's Visor",
