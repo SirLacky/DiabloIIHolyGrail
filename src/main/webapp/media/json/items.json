@@ -1,4 +1,66 @@
 {
+  "sigonscompletesteel": [
+    {
+      "name": "Sigon's Visor",
+      "requiredLVL": "6",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/sigonsvisor.gif",
+      "description": "some item description",
+      "type": "Great Helm",
+      "type2": "set",
+      "stats": "+25 Defense\n+30 to Mana\n+ (8 Per Character Level) 8-792 To Attack Rating (Based On Character Level) (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Sigon's Shelter",
+      "requiredLVL": "6",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/sigonsshelter.gif",
+      "description": "some item description",
+      "type": "Gothic Plate",
+      "type2": "set",
+      "stats": "+25% Enhanced Defense\nLightning Resist +30%\nAttacker Takes Damage of 20 (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Sigon's Sabot",
+      "requiredLVL": "6",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/sigonsgreaves.gif",
+      "description": "some item description",
+      "type": "Greaves",
+      "type2": "set",
+      "stats": "20% Faster Run/Walk\nCold Resist +40%\n+50 To Attack Rating (2 Items)\n+50% Better Chance To Find Magic Items (3 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Sigon's Guard",
+      "requiredLVL": "6",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/sigonsguard.gif",
+      "description": "some item description",
+      "type": "Tower Shield",
+      "type2": "set",
+      "stats": "+1 to All Skills\n+20% Increased Chance To Block",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Sigon's Wrap",
+      "requiredLVL": "6",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/sigonswrap.gif",
+      "description": "some item description",
+      "type": "Plated Belt",
+      "type2": "set",
+      "stats": "Fire Resist +20%\n+20 to Life\n+ (2 Per Character Level) 2-198 To Defense (Based On Character Level) (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Sigon's Gage",
+      "requiredLVL": "6",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/sigonsgauntlets.gif",
+      "description": "some item description",
+      "type": "Gauntlets",
+      "type2": "set",
+      "stats": "+20 to Attack Rating\n+10 to Strength\n30% Increased Attack Speed (2 Items)",
+      "difficulty": "normal"
+    }
+  ],
   "milabregasregalia": [
     {
       "name": "Milabrega's Diadem",
