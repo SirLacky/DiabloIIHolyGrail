@@ -1,4 +1,46 @@
 {
+  "vidalasrig": [
+    {
+      "name": "Vidala's Barb",
+      "requiredLVL": "14",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/vidalasbarb.gif",
+      "description": "some item description",
+      "type": "Long Battle Bow",
+      "type2": "set",
+      "stats": "Adds 1-20 Lightning Damage\n+ (8 Per Character Level) 8-792 To Attack Rating (Based On Character Level) (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Vidala's Ambush",
+      "requiredLVL": "14",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/vidalasambush.gif",
+      "description": "some item description",
+      "type": "Leather Armor",
+      "type2": "set",
+      "stats": "+50 Defense\n+11 to Dexterity\n+24% Fire Resist (2 Items)\n+ (2.5 Per Character Level) +2-247 Defense (Based On Character Level) (3 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Vidala's Fetlock",
+      "requiredLVL": "14",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/vidalasfetlock.gif",
+      "description": "some item description",
+      "type": "Light Plated Boots",
+      "type2": "set",
+      "stats": "30% Faster Run/Walk\n+150 to Maximum Stamina\nAll Resistances +8 (2 Items)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Vidala's Snare",
+      "requiredLVL": "14",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/ra/amu2.gif",
+      "description": "some item description",
+      "type": "Amulet",
+      "type2": "set",
+      "stats": "Cold Resist 20%\n+15 To Life\n50% Better Chance Of Getting Magic Items (2 Items)",
+      "difficulty": "normal"
+    }
+  ],
   "tancredsbattlegear": [
     {
       "name": "Tancred's Skull",
