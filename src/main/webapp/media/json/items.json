@@ -1,4 +1,46 @@
 {
+  "aldurswatchtower": [
+    {
+      "name": "Aldur's Stony Gaze",
+      "requiredLVL": "36",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/aldursstoneygaze.gif",
+      "description": "some item description",
+      "type": "Hunter's Guise",
+      "type2": "set",
+      "stats": "+90 Defense\n25% Faster Hit Recovery\nRegenerate Mana 17%\nCold Resist +40-50% (varies)\nSocketed (2)\n+5 To Light Radius\n+15 To Energy (2 Item)\n+15 To Energy (3 Items)\n+15 To Energy (Completed Set) ",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Aldur's Advance",
+      "requiredLVL": "45",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/aldursadvance.gif",
+      "description": "some item description",
+      "type": "Battle Boots",
+      "type2": "set",
+      "stats": "Indestructible\n40% Faster Run/Walk\n+180 Maximum Stamina\n10% Damage Taken Goes To Mana\nHeal Stamina Plus +32%\n+50 To Life\nFire Resist +40-50% (varies)\n+15 To Dexterity (2 Item)\n+15 To Dexterity (3 Items)\n+15 To Dexterity (Completed Set)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Aldur's Deception",
+      "requiredLVL": "76",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/aldursdeception.gif",
+      "description": "some item description",
+      "type": "Shadow Plate",
+      "type2": "set",
+      "stats": "+300 Defense\nRequirements -50%\nLightning Resist +40-50% (varies)\n+15 To Dexterity\n+20 To Strength\n+1 To Elemental Skills (Druid Only)\n+1 To Shape Shifting Skills (Druid Only)\n+15 To Vitality (2 Item)\n+15 To Vitality (3 Items)\n+15 To Vitality (Completed Set)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Aldur's Rythm",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/aldursrythm.gif",
+      "description": "some item description",
+      "type": "Jagged Star",
+      "type2": "set",
+      "stats": "+200% Damage To Demons\n+50% Damage To Undead\nAdds 40-62 Damage\nAdds 50-75 Lightning Damage\n30% Increased Attack Speed\n10% Life Stolen Per Hit\n5% Mana Stolen Per Hit\nSocketed (2-3) (varies)*\n+15 To Strength (2 Item)\n+15 To Strength (3 Items)\n+15 To Strength (Completed Set)",
+      "difficulty": "elite"
+    }
+  ],
   "vidalasrig": [
     {
       "name": "Vidala's Barb",
