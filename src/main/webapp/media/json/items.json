@@ -1,4 +1,26 @@
 {
+  "bulkathoschildren": [
+    {
+      "name": "Bul-Kathos' Sacred Charge",
+      "requiredLVL": "63",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/bulkathossacredcharge.gif",
+      "description": "some item description",
+      "type": "Colossus Blade",
+      "type2": "set",
+      "stats": "+200% Enhanced Damage\n35% Chance of Crushing Blow\nAll Resistances +20\n+20% Increased Attack Speed\nKnockback",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Bul-Kathos' Tribal Guardian",
+      "requiredLVL": "66",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/bulkathostribalguardian.gif",
+      "description": "some item description",
+      "type": "Mythical Sword",
+      "type2": "set",
+      "stats": "+200% Enhanced Damage\n+50 Poison Damage Over 2 Seconds\nFire Resist +50%\n+20 To Strength\n+20% Increased Attack Speed",
+      "difficulty": "elite"
+    }
+  ],
   "aldurswatchtower": [
     {
       "name": "Aldur's Stony Gaze",
