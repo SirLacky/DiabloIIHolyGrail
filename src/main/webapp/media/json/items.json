@@ -1,4 +1,36 @@
 {
+  "cowkingsleathers": [
+    {
+      "name": "Cow King's Horns",
+      "requiredLVL": "25",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/armor/cap.gif",
+      "description": "some item description",
+      "type": "War Hat",
+      "type2": "set",
+      "stats": "+75 Defense\nHalf Freeze Duration\nAttacker Takes Damage of 10\n35% Damage Taken Goes To Mana",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Cow King's Hide",
+      "requiredLVL": "18",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/armor/studdedleather.gif",
+      "description": "some item description",
+      "type": "Studded Leather",
+      "type2": "set",
+      "stats": "+60% Enhanced Defense\n18% Chance To Cast Level 5 Chain Lightning When Struck\nAll Resistances +18\n+30 To Life",
+      "difficulty": "exceptional"
+    },
+    {
+      "name": "Cow King's Hooves",
+      "requiredLVL": "13",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/armor/heavyboots.gif",
+      "description": "some item description",
+      "type": "Heavy Boots",
+      "type2": "set",
+      "stats": "+25-35 Defense (varies)\n+30% Faster Run/Walk\nAdds 25-35 Fire Damage\n+20 To Dexterity\n25% Better Chance of Getting Magic Items",
+      "difficulty": "exceptional"
+    }
+  ],
   "bulkathoschildren": [
     {
       "name": "Bul-Kathos' Sacred Charge",
