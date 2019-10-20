@@ -1,4 +1,56 @@
 {
+  "thedisciple": [
+    {
+      "name": "Telling of Beads",
+      "requiredLVL": "30",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/ra/amu2.gif",
+      "description": "some item description",
+      "type": "Amulet",
+      "type2": "set",
+      "stats": "+1 To All Skills\nPoison Resist +35-50% (varies)\nCold Resist +18%\nAttacker Takes Damage of 8-10 (varies)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Laying of Hands",
+      "requiredLVL": "63",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/layingofhands.gif",
+      "description": "some item description",
+      "type": "Bramble Mitts",
+      "type2": "set",
+      "stats": "+25 Defense\n+20% Increased Attack Speed\n+350% Damage To Demons\nFire Resist +50%\n10% Chance To Cast Level 3 Holy Bolt On Striking",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Dark Adherent",
+      "requiredLVL": "63",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/darkadherent.gif",
+      "description": "some item description",
+      "type": "Dusk Shroud",
+      "type2": "set",
+      "stats": "+305-415 Defense (varies)\nFire Resist +24%\n25% Chance To Cast Level 3 Nova When Struck\nAdds 24-34 Poison Damage Over 2 Seconds",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Rite of Passage",
+      "requiredLVL": "29",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/riteofpassage.gif",
+      "description": "some item description",
+      "type": "Demonhide Boots",
+      "type2": "set",
+      "stats": "+25 Defense\n30% Faster Run/Walk\n+15-25 Maximum Stamina (varies)\nHalf Freeze Duration",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Credendum",
+      "requiredLVL": "65",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/credendum.gif",
+      "description": "some item description",
+      "type": "Mithril Coil",
+      "type2": "set",
+      "stats": "+50 Defense\nAll Resistances +15\n+10 To Dexterity\n+10 To Strength",
+      "difficulty": "elite"
+    }
+  ],
   "cowkingsleathers": [
     {
       "name": "Cow King's Horns",
