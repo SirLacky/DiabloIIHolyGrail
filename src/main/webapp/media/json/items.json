@@ -1,4 +1,56 @@
 {
+  "mavinasbattlehymn": [
+    {
+      "name": "M'avina's True Sight",
+      "requiredLVL": "64",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/mavinastruesight.gif",
+      "description": "some item description",
+      "type": "Diadem",
+      "type2": "set",
+      "stats": "+150 Defense\nReplenish Life +10\n+25 To Mana\n+30% Increased Attack Speed\n+1 To All Skills (2 Items)\n50% Bonus To Attack Rating (3 Items)\nAll Resistances +25 (4 Items)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "M'avina's Caster",
+      "requiredLVL": "70",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/mavinascaster.gif",
+      "description": "some item description",
+      "type": "Grand Matron Bow",
+      "type2": "set",
+      "stats": "+188% Enhanced Damage\n+40% Increased Attack Speed\n+50 To Attack Rating\nFires Magic Arrows [Level 1]\nAdds 114-377 Magic Damage (2 Items)\n10% Chance To Cast Level 15 Nova On Striking (3 Items)\n+2 To Bow and Crossbow Skills (Amazon Only) (4 Items)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "M'avina's Embrace",
+      "requiredLVL": "70",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/mavinasembrace.gif",
+      "description": "some item description",
+      "type": "Kraken Shell",
+      "type2": "set",
+      "stats": "Requirements -30%\n10% Chance To Cast Level 3 Glacial Spike When Struck\nMagic Damage Reduced By 5-12 (varies)\n+ (4 Per Character Level) 4-396 Defense (Based On Character Level)\n+2 To Passive And Magic Skills (Amazon Only)\n+350 Defense\n+30% Faster Hit Recovery (3 Items)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "M'avina's Icy Clutch",
+      "requiredLVL": "32",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/mavinasicyclutch.gif",
+      "description": "some item description",
+      "type": "Battle Gauntlets",
+      "type2": "set",
+      "stats": "+45-50 Defense (varies)\n6-18 Cold Damage, 6 sec. Duration (Normal)\nHalf Freeze Duration\n56% Extra Gold From Monsters\n+10 To Strength\n+15 To Dexterity\nAdds 131-252 Cold Damage, 4 sec. Duration (Normal) (4 Items)\n+20% To Cold Skill Damage (Complete Set)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "M'avina's Tenet",
+      "requiredLVL": "45",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/mavinastenet.gif",
+      "description": "some item description",
+      "type": "Sharkskin Belt",
+      "type2": "set",
+      "stats": "+50 Defense\n+20% Faster Run/Walk\n+5 To Light Radius\n5% Mana Stolen Per Hit\nAll Resistances +25 (4 Items)",
+      "difficulty": "elite"
+    }
+  ],
   "immortalking": [
     {
       "name": "Immortal King's Will",
