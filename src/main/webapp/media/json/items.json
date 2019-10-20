@@ -1,4 +1,108 @@
 {
+  "immortalking": [
+    {
+      "name": "Immortal King's Will",
+      "requiredLVL": "47",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/immortalwill.gif",
+      "description": "some item description",
+      "type": "Avenger Guard",
+      "type2": "set",
+      "stats": "+4 To Light Radius\n+125 Defense\n37% Extra Gold From Monsters\n25-40% Better Chance Of Finding Magic Items (varies)\n+2 To Warcries Skills (Barbarian Only)\nSocketed (2)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Immortal King's Stone Crusher",
+      "requiredLVL": "76",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/maul.gif",
+      "description": "some item description",
+      "type": "Ogre Maul",
+      "type2": "set",
+      "stats": "+200% Enhanced Damage\n+200% Damage To Demons\n+250% Damage To Undead\n40% Increased Attack Speed\nIndestructible\n35-40% Chance Of Crushing Blow (varies)\nSocketed (2)\nAdds 211-397 Fire Damage (2 items)\nAdds 7-477 Lightning Damage (3 Items)\nAdds 127-364 Cold Damage, 6 sec. Duration (Normal) (4 Items)\n+204 Poison Damage Over 6 Seconds (5 Items)\nAdds 250-361 Magic Damage (Complete Set)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Immortal King's Soul Cage",
+      "requiredLVL": "76",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/immortalsoulcage.gif",
+      "description": "some item description",
+      "type": "Sacred Armor",
+      "type2": "set",
+      "stats": "+400 Defense\n5% Chance To Cast Level 5 Enchant When Struck\nPoison Resist +50%\n+2 To Combat Skills (Barbarian Only)\n+25% Faster Hit Recovery (2 Items)\nCold Resist +40% (3 Items)\nFire Resist +40% (4 Items)\nLightning Resist +40% (5 Items)\n+50% Enhanced Defense (Complete Set)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Immortal King's Detail",
+      "requiredLVL": "29",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/girdle.gif",
+      "description": "some item description",
+      "type": "War Belt",
+      "type2": "set",
+      "stats": "+36 Defense\nLightning Resist +31%\nFire Resist +28%\n+25 To Strength\n+105 Defense (2 items)\n+25% Faster Hit Recovery (3 Items)\n+100% Enhanced Defense (4 Items)\nDamage Reduced By 20% (5 Items)\n+2 To Masteries (Barbarian Only) (Complete Set)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Immortal King's Forge",
+      "requiredLVL": "30",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/gauntlets.gif",
+      "description": "some item description",
+      "type": "War Gauntlets",
+      "type2": "set",
+      "stats": "+65 Defense\n12% Chance To Cast Level 4 Charged Bolt When Struck\n+20 To Dexterity\n+20 To Strength\n+25% Increased Attack Speed (2 items)\n+120 Defense (3 Items)\n10% Life Stolen Per Hit (4 Items)\n10% Mana Stolen Per Hit (5 Items)\nFreezes Target +2 (Complete Set)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Immortal King's Pillar",
+      "requiredLVL": "31",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/plateboots.gif",
+      "description": "some item description",
+      "type": "War Boots",
+      "type2": "set",
+      "stats": "+75 Defense\n40% Faster Run/Walk\n+110 To Attack Rating\n+44 To Life\n25% Better Chance of Getting Magic Items (2 items)\n+2 To Combat Skills (Barbarian Only) (3 Items)\n+160 Defense (4 Items)\nHalf Freeze Duration (5 Items)",
+      "difficulty": "elite"
+    }
+  ],
+  "hwanin's majesty": [
+    {
+      "name": "Hwanin's Splendor",
+      "requiredLVL": "45",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/hwaninssplendor.gif",
+      "description": "some item description",
+      "type": "Grand Crown",
+      "type2": "set",
+      "stats": "+100% Enhanced Defense\nReplenish Life +20\nMagic Damage Reduced By 10\nCold Resist +37%",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Hwanin's Justice",
+      "requiredLVL": "28",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/weapons/voulge.gif",
+      "description": "some item description",
+      "type": "Bill",
+      "type2": "set",
+      "stats": "+200% Enhanced Damage\nAdds 5-25 Lightning Damage\n40% Increased Attack Speed\n+330 To Attack Rating\nIndestructible\n10% Chance To Cast Level 3 Ice Blast On Striking",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Hwanin's Refuge",
+      "requiredLVL": "30",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/armor/scalemail.gif",
+      "description": "some item description",
+      "type": "Tigulated Mail",
+      "type2": "set",
+      "stats": "+200 Defense\n10% Chance To Cast Level 3 Static Field When Struck\nPoison Resist +27%\n+100 To Life",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Hwanin's Blessing",
+      "requiredLVL": "35",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/hwaninsblessing.gif",
+      "description": "some item description",
+      "type": "Belt",
+      "type2": "set",
+      "stats": "+ (1.5 Per Character Level) 1-148 Defense (Based on Character Level)\nAdds 3-33 Lightning Damage\nPrevent Monster Heal\n12% Damage Taken Goes To Mana",
+      "difficulty": "elite"
+    }
+  ],
   "heavensbreathren": [
     {
       "name": "Haemosu's Adamant",
