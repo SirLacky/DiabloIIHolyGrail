@@ -1,4 +1,46 @@
 {
+  "griswoldslegacy": [
+    {
+      "name": "Griswold's Heart",
+      "requiredLVL": "45",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/griswoldsheart.gif",
+      "description": "some item description",
+      "type": "Ornate Plate",
+      "type2": "set",
+      "stats": "+500 Defense\nRequirements -40%\n+20 To Strength\n+2 To Defensive Aura Skills (Paladin Only)\nSocketed (3)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Griswold's Valor",
+      "requiredLVL": "69",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/griswoldsvalor.gif",
+      "description": "some item description",
+      "type": "Corona",
+      "type2": "set",
+      "stats": "+50-75% Enhanced Defense (varies)\nAll Resistances +5\n20-30% Better Chance Of Getting Magic Items (varies)\nRequirements -40%\n+ (0.25 Per Character Level) 0-24 Absorbs Cold Damage (Based On Character Level)\nSocketed (2)\n+2 To Offensive Auras (Paladin Only) (2 Items)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Griswold's Redemption",
+      "requiredLVL": "66",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/griswoldsredemption.gif",
+      "description": "some item description",
+      "type": "Caduceus",
+      "type2": "set",
+      "stats": "+200-240% Enhanced Damage (varies)\n+250% Damage To Undead\nRequirements -20%\n40% Increased Attack Speed\nSocketed (3-4) (varies)\n+2 To Combat Skills (Paladin Only) (2 Items)\nAdds 10-20 Damage (3 Items)\nAdds 10-20 Damage (Complete Set)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Griswold's Honor",
+      "requiredLVL": "68",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/griswoldshonor.gif",
+      "description": "some item description",
+      "type": "Vortex Shield",
+      "type2": "set",
+      "stats": "65% Faster Block Rate\n20% Increased Chance of Blocking\n+108 Defense\nAll Resistances +45\nSocketed (3)",
+      "difficulty": "elite"
+    }
+  ],
   "thedisciple": [
     {
       "name": "Telling of Beads",
