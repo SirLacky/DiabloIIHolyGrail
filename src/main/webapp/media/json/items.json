@@ -1,4 +1,46 @@
 {
+  "heavensbreathren": [
+    {
+      "name": "Haemosu's Adamant",
+      "requiredLVL": "44",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/haemosusadament.gif",
+      "description": "some item description",
+      "type": "Cuirass",
+      "type2": "set",
+      "stats": "+500 Defense\n+40 Defense Vs. Melee\n+35 Defense Vs. Missile\nRequirements -20%\n+75 To Life",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Dangeoon's Teaching",
+      "requiredLVL": "68",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/dangoonsteaching.gif",
+      "description": "some item description",
+      "type": "Reinforced Mace",
+      "type2": "set",
+      "stats": "+ (1.5 Per Character Level) +1-148 To Maximum Damage (Based on Character Level)\n+50% Damage To Undead\n+40% Increased Attack Speed\n10% Chance To Cast Level 3 Frost Nova On Striking\nAdds 20-30 Fire Damage",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Taebaek's Glory",
+      "requiredLVL": "81",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/taebaeksglory.gif",
+      "description": "some item description",
+      "type": "Ward",
+      "type2": "set",
+      "stats": "+50 Defense\n+25% Increased Chance Of Blocking\nLightning Resist +30%\nIndestructible\n30% Faster Block Rate\n+100 To Mana\nAttacker Takes Damage of 30",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Ondal's Almighty",
+      "requiredLVL": "69",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/ondalsalmighty.gif",
+      "description": "some item description",
+      "type": "Spired Helm",
+      "type2": "set",
+      "stats": "10% Chance To Cast Level 3 Weaken On Striking\n24% Faster Hit Recovery\nRequirements -40%\n+50 Defense\n+15 To Dexterity\n+10 To Strength",
+      "difficulty": "elite"
+    }
+  ],
   "griswoldslegacy": [
     {
       "name": "Griswold's Heart",
