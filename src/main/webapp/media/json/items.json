@@ -1,4 +1,46 @@
 {
+  "natalyasodium": [
+    {
+      "name": "Natalya's Totem",
+      "requiredLVL": "59",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/natalyastotem.gif",
+      "description": "some item description",
+      "type": "Grim Helm",
+      "type2": "set",
+      "stats": "+135-175 Defense (varies)\nAll Resistances +10-20 (varies)\n+20-30 To Dexterity (varies)\n+10-20 To Strength (varies)\nMagic Damage Reduced By 3",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Natalya's Mark",
+      "requiredLVL": "79",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/natalyasmark.gif",
+      "description": "some item description",
+      "type": "Scissors Suwayyah",
+      "type2": "set",
+      "stats": "+200% Enhanced Damage\n+200% Damage To Undead\n+200% Damage To Demons\nAdds 12-17 Fire Damage\nIgnores Target's Defense\n40% Increased Attack Speed\n+50 Cold Damage, 4 sec. Duration (Normal)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Natalya's Shadow",
+      "requiredLVL": "73",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/natalyasshadow.gif",
+      "description": "some item description",
+      "type": "Loricated Mail",
+      "type2": "set",
+      "stats": "+150-225 Defense (varies)\n+ (1 Per Character Level) 1-99 To Life (Based On Character Level)\nPoison Length Reduced By 75%\nPoison Resist +25%\n+2 To Shadow Disciplines Skills (Assassin Only)\nSocketed (1-3) (varies)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Natalya's Soul",
+      "requiredLVL": "25",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/natalyassoul.gif",
+      "description": "some item description",
+      "type": "Mesh Boots",
+      "type2": "set",
+      "stats": "+75-125 Defense (varies)\n+40% Faster Run/Walk\nHeal Stamina Plus (0.25 Per Character Level) 0-24% (Based On Character Level)\nCold Resist +15-25% (varies)\nLightning Resist +15-25% (varies)",
+      "difficulty": "elite"
+    }
+  ],
   "mavinasbattlehymn": [
     {
       "name": "M'avina's True Sight",
