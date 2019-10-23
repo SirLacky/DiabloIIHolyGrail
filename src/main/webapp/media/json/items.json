@@ -1,4 +1,36 @@
 {
+  "najsancientvestige": [
+    {
+      "name": "Naj's Circlet",
+      "requiredLVL": "28",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/najscirclet.gif",
+      "description": "some item description",
+      "type": "Circlet",
+      "type2": "set",
+      "stats": "+75 Defense\n+25-35 Fire Damage\n12% Chance To Cast Level 5 Chain Lightning When Struck\n+15 To Strength\n+5 To Light Radius",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Naj's Light Plate",
+      "requiredLVL": "71",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/armor/platemail.gif",
+      "description": "some item description",
+      "type": "Hellforge Plate",
+      "type2": "set",
+      "stats": "+300 Defense\nRequirements -60%\n45% Damage Taken Goes To Mana\n+1 To All Skills\nAll Resistances +25\n+65 To Life",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Naj's Puzzler",
+      "requiredLVL": "78",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/uniques/lazarusspire.gif",
+      "description": "some item description",
+      "type": "Elder Staff",
+      "type2": "set",
+      "stats": "+150% Enhanced Damage\n+50% Damage To Undead\nAdds 6-45 Lightning Damage\n+30% Faster Cast Rate\n+1 To All Skills\n+70 To Mana\n+35 To Energy\nLevel 11 Teleport (69 Charges)",
+      "difficulty": "elite"
+    }
+  ],
   "natalyasodium": [
     {
       "name": "Natalya's Totem",
