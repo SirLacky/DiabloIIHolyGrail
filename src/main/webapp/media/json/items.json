@@ -1,4 +1,46 @@
 {
+  "orphanscall": [
+    {
+      "name": "Guillaume's Face",
+      "requiredLVL": "34",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/guillaumesface.gif",
+      "description": "some item description",
+      "type": "Winged Helm",
+      "type2": "set",
+      "stats": "+120% Enhanced Defense\n+30% Faster Hit Recovery\n15% Deadly Strike\n35% Chance of Crushing Blow\n+15 To Strength",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Whitstan's Guard",
+      "requiredLVL": "29",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/whitstansguard.gif",
+      "description": "some item description",
+      "type": "Round Shield",
+      "type2": "set",
+      "stats": "+175% Enhanced Defense\nHalf Freeze Duration\n40% Faster Block Rate\n+55% Increased Chance Of Blocking\n+5 To Light Radius",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Magnus' Skin",
+      "requiredLVL": "37",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/magnusskin.gif",
+      "description": "some item description",
+      "type": "Sharkskin Gloves",
+      "type2": "set",
+      "stats": "+50% Enhanced Defense\n+20% Increased Attack Speed\n+100 To Attack Rating\n+3 To Light Radius\nFire Resist +15%",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Wilhelm's Pride",
+      "requiredLVL": "42",
+      "jpg": "http://classic.battle.net/images/battle/diablo2exp/images/items/sets/wilhelmspride.gif",
+      "description": "some item description",
+      "type": "Battle Belt",
+      "type2": "set",
+      "stats": "+75% Enhanced Defense\n5% Life Stolen Per Hit\n5% Mana Stolen Per Hit\nCold Resist +10%",
+      "difficulty": "elite"
+    }
+  ],
   "najsancientvestige": [
     {
       "name": "Naj's Circlet",
