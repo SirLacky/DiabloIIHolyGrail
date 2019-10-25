@@ -1,4 +1,46 @@
 {
+  "sandersfolly": [
+    {
+      "name": "Sander's Paragon",
+      "requiredLVL": "25",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/sandersparagon.gif",
+      "description": "some item description",
+      "type": "Cap",
+      "type2": "set",
+      "stats": "+ (1 Per Character Level) 1-99 Defense (Based on Character Level)\nAttacker Takes Damage of 8\n35% Better Chance of Getting Magic Items",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Sander's Superstition",
+      "requiredLVL": "25",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/sanderssuperstition.gif",
+      "description": "some item description",
+      "type": "Bone Wand",
+      "type2": "set",
+      "stats": "+75% Enhanced Damage\n+50% Damage To Undead\n+20% Faster Cast Rate\n+25 To Mana\n8% Mana Stolen Per Hit\n25-75 Cold Damage, 2 sec. Duration (Normal)",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Sander's Taboon",
+      "requiredLVL": "28",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/sanderstaboo.gif",
+      "description": "some item description",
+      "type": "Heavy Gloves",
+      "type2": "set",
+      "stats": "Adds 9-11 Poison Damage Over 3 Seconds\n+20-25 Defense\n+40 To Life\n+20% Increased Attack Speed",
+      "difficulty": "normal"
+    },
+    {
+      "name": "Sander's Riprap",
+      "requiredLVL": "20",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/sandersriprap.gif",
+      "description": "some item description",
+      "type": "Heavy Boots",
+      "type2": "set",
+      "stats": "+40% Faster Run/Walk\n+100 To Attack Rating\n+10 To Dexterity\n+5 To Strength",
+      "difficulty": "normal"
+    }
+  ],
   "orphanscall": [
     {
       "name": "Guillaume's Face",
