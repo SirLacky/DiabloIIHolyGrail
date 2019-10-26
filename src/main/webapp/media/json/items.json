@@ -1,4 +1,36 @@
 {
+  "sazabisgrandtribute": [
+    {
+      "name": "Sazabi's Mental Sheath",
+      "requiredLVL": "43",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/sazabismentalsheath.gif",
+      "description": "some item description",
+      "type": "Basinet",
+      "type2": "set",
+      "stats": "+1 To All Skills\nLightning Resist +15-20% (varies)\nFire Resist +15-20% (varies)",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Sazabi's Cobalt Redeemer",
+      "requiredLVL": "73",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/sazabiscobaltredeemer.gif",
+      "description": "some item description",
+      "type": "Cryptic Sword",
+      "type2": "set",
+      "stats": "+150% Enhanced Damage\n+318% Damage To Demons\nAdds 25-35 Cold Damage, 2 sec. Duration (Normal)\n+40% Increased Attack Speed\nIndestructible\n+15 To Dexterity\n+5 To Strength",
+      "difficulty": "elite"
+    },
+    {
+      "name": "Sazabi's Ghost Liberator",
+      "requiredLVL": "67",
+      "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/sazabisghostliberator.gif",
+      "description": "some item description",
+      "type": "Balrog Skin",
+      "type2": "set",
+      "stats": "+400 Defense\n+30% Faster Hit Recovery\n+300 To Attack Rating Against Demons\n+25 To Strength\n+50-75 To Life (varies)",
+      "difficulty": "elite"
+    }
+  ],
   "sandersfolly": [
     {
       "name": "Sander's Paragon",
