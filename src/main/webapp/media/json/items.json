@@ -1,4 +1,55 @@
-{
+{"talrashaswrappings": [
+  {
+    "name": "Tal Rasha's Lidless Eye",
+    "requiredLVL": "65",
+    "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/talrashaslidlesseye.gif",
+    "description": "some item description",
+    "type": "Swirling Crystal",
+    "type2": "set",
+    "stats": "20% Faster Cast Rate\n+77 To Mana\n+57 To Life\n+10 To Energy\n+1-2 To Lightning Mastery (Sorceress Only) (varies)\n+1-2 To Fire Mastery (Sorceress Only) (varies)\n+1-2 To Cold Mastery (Sorceress Only) (varies)\n+1 To Sorceress Skill Levels (2 Items)\n-15% To Enemy Fire Resistance (3 Items)\n-15% To Enemy Lightning Resistance (4 Items)\n+15% To Cold Skills Damage (Complete Set)",
+    "difficulty": "elite"
+  },
+  {
+    "name": "Tal Rasha's Horadic Crest",
+    "requiredLVL": "66",
+    "jpg": "http://classic.battle.net/diablo2exp/images/items/armor/mask.gif",
+    "description": "some item description",
+    "type": "Death Mask",
+    "type2": "set",
+    "stats": "10% Life Stolen Per Hit\n10% Mana Stolen Per Hit\nAll Resistances +15\n+45 Defense\n+30 To Mana\n+60 To Life",
+    "difficulty": "elite"
+  },
+  {
+    "name": "Tal Rasha's Guardianship",
+    "requiredLVL": "71",
+    "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/talrashasguardianship.gif",
+    "description": "some item description",
+    "type": "Lacquered Plate",
+    "type2": "set",
+    "stats": "+400 Defense\nRequirements -60%\nMagic Damage Reduced By 15\nCold Resist +40%\nLightning Resist +40%\nFire Resist +40%\n88% Better Chance Of Getting Magic Items\n+10% Faster Cast Rate (2 Items)",
+    "difficulty": "elite"
+  },
+  {
+    "name": "Tal Rasha's Fine-Spun Cloth",
+    "requiredLVL": "53",
+    "jpg": "http://classic.battle.net/diablo2exp/images/items/sets/talrashasfine-spuncloth.gif",
+    "description": "some item description",
+    "type": "Mesh Belt",
+    "type2": "set",
+    "stats": "Requirements -20%\n37% Damage Taken Goes To Mana\n+30 To Mana\n+20 To Dexterity\n10-15% Better Chance Of Getting Magic Items (varies)\n+60 Defense (2 Items)\n+10% Faster Cast Rate (3 Items)",
+    "difficulty": "elite"
+  },
+  {
+    "name": "Tal Rasha's Adjudiction",
+    "requiredLVL": "67",
+    "jpg": "http://classic.battle.net/diablo2exp/images/items/ra/amu2.gif",
+    "description": "some item description",
+    "type": "Amulet",
+    "type2": "set",
+    "stats": "+2 To Sorceress Skill Levels\nLightning Resist +33%\nAdds 3-32 Lightning Damage\n+42 To Mana\n+50 To Life\n+10% Faster Cast Rate (4 Items)",
+    "difficulty": "elite"
+  }
+],
   "sazabisgrandtribute": [
     {
       "name": "Sazabi's Mental Sheath",
