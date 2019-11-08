@@ -51,6 +51,7 @@
 <a href="arcannastricks" class="buttonGreen">ARCANNA STRICKS</a>
 <a href="arcticgear" class="buttonGreen">ARCTIC GEAR</a>
 <a href="berserkersarsenal" class="buttonGreen">BERSERKERS ARSENAL</a>
+<a href="cathanstraps" class="buttonGreen">CATHANS TRAPS</a>
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
