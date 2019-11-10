@@ -45,6 +45,8 @@
 <a href="/wands" class="buttonYellow">WANDS</a>
 <a href="/swords" class="buttonYellow">SWORDS</a>
 
+
+
 <h2> Set Items: </h2>
 
 <a href="/angelicraiment" class="buttonGreen">ANGELIC RAIMENT</a>
@@ -53,7 +55,7 @@
 <a href="berserkersarsenal" class="buttonGreen">BERSERKERS ARSENAL</a>
 <a href="cathanstraps" class="buttonGreen">CATHANS TRAPS</a>
 <a href="civerbsvestments" class="buttonGreen">CIVERBS VESTMENTS</a>
-
+<a href="cleglawsbrace" class="buttonGreen">CLEGLAWS BRACE</a>
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
