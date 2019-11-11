@@ -56,6 +56,8 @@
 <a href="cathanstraps" class="buttonGreen">CATHANS TRAPS</a>
 <a href="civerbsvestments" class="buttonGreen">CIVERBS VESTMENTS</a>
 <a href="cleglawsbrace" class="buttonGreen">CLEGLAWS BRACE</a>
+<a href="deathsdisguise" class="buttonGreen">DEATHS DISGUISE</a>
+
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
