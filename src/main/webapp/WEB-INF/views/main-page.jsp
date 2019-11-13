@@ -56,6 +56,7 @@
 <a href="cleglawsbrace" class="buttonGreen">CLEGLAWS BRACE</a>
 <a href="deathsdisguise" class="buttonGreen">DEATHS DISGUISE</a>
 <a href="hsarusdefense" class="buttonGreen">HSARUS DEFENSE</a>
+<a href="infernaltools" class="buttonGreen">INFERNAL TOOLS</a>
 
 
 <hr>
