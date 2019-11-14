@@ -57,7 +57,7 @@
 <a href="deathsdisguise" class="buttonGreen">DEATHS DISGUISE</a>
 <a href="hsarusdefense" class="buttonGreen">HSARUS DEFENSE</a>
 <a href="infernaltools" class="buttonGreen">INFERNAL TOOLS</a>
-
+<a href="irathasfinery" class="buttonGreen">IRATHAS FINERY</a>
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
