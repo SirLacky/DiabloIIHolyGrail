@@ -59,7 +59,7 @@
 <a href="infernaltools" class="buttonGreen">INFERNAL TOOLS</a>
 <a href="irathasfinery" class="buttonGreen">IRATHAS FINERY</a>
 <a href="isenhartsarmory" class="buttonGreen">ISENHARTS ARMORY</a>
-
+<a href="milabregasregalia" class="buttonGreen">MILABREGAS REGALIA</a>
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
