@@ -60,6 +60,8 @@
 <a href="irathasfinery" class="buttonGreen">IRATHAS FINERY</a>
 <a href="isenhartsarmory" class="buttonGreen">ISENHARTS ARMORY</a>
 <a href="milabregasregalia" class="buttonGreen">MILABREGAS REGALIA</a>
+<a href="sigonscompletesteel" class="buttonGreen">SIGONS COMPLETE STEEL</a>
+
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
