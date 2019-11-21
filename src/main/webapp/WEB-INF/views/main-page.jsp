@@ -62,6 +62,7 @@
 <a href="milabregasregalia" class="buttonGreen">MILABREGAS REGALIA</a>
 <a href="sigonscompletesteel" class="buttonGreen">SIGONS COMPLETE STEEL</a>
 <a href="tancredsbattlegear" class="buttonGreen">SIGONS COMPLETE STEEL</a>
+<a href="vidalasrig" class="buttonGreen">VIDALAS RIG</a>
 
 
 <hr>
