@@ -63,7 +63,7 @@
 <a href="sigonscompletesteel" class="buttonGreen">SIGONS COMPLETE STEEL</a>
 <a href="tancredsbattlegear" class="buttonGreen">SIGONS COMPLETE STEEL</a>
 <a href="vidalasrig" class="buttonGreen">VIDALAS RIG</a>
-
+<a href="aldurswatchtower" class="buttonGreen">ALDURS WATCHTOWER</a>
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
