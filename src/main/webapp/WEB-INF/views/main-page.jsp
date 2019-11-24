@@ -65,7 +65,7 @@
 <a href="vidalasrig" class="buttonGreen">VIDALAS RIG</a>
 <a href="aldurswatchtower" class="buttonGreen">ALDURS WATCHTOWER</a>
 <a href="bulkathoschildren" class="buttonGreen">BUL-KATHOS CHILDREN</a>
-
+<a href="cowkingsleathers" class="buttonGreen">COW KINGS LEATHERS</a>
 
 
 <hr>
