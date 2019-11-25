@@ -66,7 +66,7 @@
 <a href="aldurswatchtower" class="buttonGreen">ALDURS WATCHTOWER</a>
 <a href="bulkathoschildren" class="buttonGreen">BUL-KATHOS CHILDREN</a>
 <a href="cowkingsleathers" class="buttonGreen">COW KINGS LEATHERS</a>
-
+<a href="thedisciple" class="buttonGreen">THE DISCIPLE</a>
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
