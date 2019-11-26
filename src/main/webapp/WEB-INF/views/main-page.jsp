@@ -67,6 +67,8 @@
 <a href="bulkathoschildren" class="buttonGreen">BUL-KATHOS CHILDREN</a>
 <a href="cowkingsleathers" class="buttonGreen">COW KINGS LEATHERS</a>
 <a href="thedisciple" class="buttonGreen">THE DISCIPLE</a>
+<a href="griswoldslegacy" class="buttonGreen">GRISWOLDS LEGACY</a>
+
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
