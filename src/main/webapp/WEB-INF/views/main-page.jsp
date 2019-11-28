@@ -69,7 +69,7 @@
 <a href="thedisciple" class="buttonGreen">THE DISCIPLE</a>
 <a href="griswoldslegacy" class="buttonGreen">GRISWOLDS LEGACY</a>
 <a href="heavensbreathren" class="buttonGreen">HEAVENS BRETHREN</a>
-
+<a href="hwaninsmajesty" class="buttonGreen">HWANINS MAJESTY</a>
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
