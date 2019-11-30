@@ -61,7 +61,7 @@
 <a href="isenhartsarmory" class="buttonGreen">ISENHARTS ARMORY</a>
 <a href="milabregasregalia" class="buttonGreen">MILABREGAS REGALIA</a>
 <a href="sigonscompletesteel" class="buttonGreen">SIGONS COMPLETE STEEL</a>
-<a href="tancredsbattlegear" class="buttonGreen">SIGONS COMPLETE STEEL</a>
+<a href="tancredsbattlegear" class="buttonGreen">TANCREDS BATTLEGEAR</a>
 <a href="vidalasrig" class="buttonGreen">VIDALAS RIG</a>
 <a href="aldurswatchtower" class="buttonGreen">ALDURS WATCHTOWER</a>
 <a href="bulkathoschildren" class="buttonGreen">BUL-KATHOS CHILDREN</a>
