@@ -71,7 +71,7 @@
 <a href="heavensbreathren" class="buttonGreen">HEAVENS BRETHREN</a>
 <a href="hwaninsmajesty" class="buttonGreen">HWANINS MAJESTY</a>
 <a href="immortalking" class="buttonGreen">IMMORTAL KING</a>
-
+<a href="mavinasbattlehymn" class="buttonGreen">MAVINAS BATTLE HYMN</a>
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
