@@ -72,6 +72,8 @@
 <a href="hwaninsmajesty" class="buttonGreen">HWANINS MAJESTY</a>
 <a href="immortalking" class="buttonGreen">IMMORTAL KING</a>
 <a href="mavinasbattlehymn" class="buttonGreen">MAVINAS BATTLE HYMN</a>
+<a href="natalyasodium" class="buttonGreen">NATALYAS ODIUM</a>
+
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
