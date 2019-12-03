@@ -73,7 +73,7 @@
 <a href="immortalking" class="buttonGreen">IMMORTAL KING</a>
 <a href="mavinasbattlehymn" class="buttonGreen">MAVINAS BATTLE HYMN</a>
 <a href="natalyasodium" class="buttonGreen">NATALYAS ODIUM</a>
-
+<a href="najsancientvestige" class="buttonGreen">NAJS ANCIENT VESTIGE</a>
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
