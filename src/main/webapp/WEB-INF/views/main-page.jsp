@@ -77,7 +77,7 @@
 <a href="orphanscall" class="buttonGreen">ORPHANS CALL</a>
 <a href="sandersfolly" class="buttonGreen">SANDERS FOLLY</a>
 <a href="talrashaswrappings" class="buttonGreen">TAL RASHAS WRAPPINGS</a>
-
+<a href="trangoulsavatar" class="buttonGreen">Trang-Ouls Avatar</a>
 
 <hr>
 <a href="/logout" class="buttonRed">LOG OUT</a>
