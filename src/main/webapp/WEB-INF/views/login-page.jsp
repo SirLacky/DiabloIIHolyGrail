@@ -15,7 +15,7 @@
         <span>Incorrect Login or Password!</span>
     </c:if>
     <c:if test="${param.logout !=null}">
-        <span>You are logged out</span>
+        <span>You are logged out<br></span>
     </c:if>
     User Name: <input type="text" name="username" required min="3" max="20"/><br>
     Password: <input type="password" name="password" required min="3" max="20"/><br>
